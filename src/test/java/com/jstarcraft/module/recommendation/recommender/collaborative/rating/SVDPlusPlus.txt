@@ -1,0 +1,32 @@
+17/07/03 17:39:55 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/07/03 17:39:55 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/07/03 17:39:55 INFO TextDataConvertor: All dataset files size 411942
+17/07/03 17:39:55 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/07/03 17:39:55 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/07/03 17:39:55 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/07/03 17:39:55 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/07/03 17:39:56 INFO TextDataModel: Transform data to Convertor successfully!
+17/07/03 17:39:56 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/07/03 17:39:56 INFO TextDataModel: Data size of training is 28408
+17/07/03 17:39:56 INFO TextDataModel: Data size of testing is 7086
+17/07/03 17:39:56 INFO SVDPlusPlusRecommender: Job Setup completed.
+17/07/03 17:39:56 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 1: loss = 11201.423045450894, delta_loss = -11201.423
+17/07/03 17:39:56 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 2: loss = 9907.901131301522, delta_loss = 1293.522
+17/07/03 17:39:56 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 3: loss = 9263.318464005864, delta_loss = 644.58264
+17/07/03 17:39:56 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 4: loss = 8881.12993145304, delta_loss = 382.18854
+17/07/03 17:39:56 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 5: loss = 8622.452595038156, delta_loss = 258.67734
+17/07/03 17:39:57 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 6: loss = 8421.183975806576, delta_loss = 201.26862
+17/07/03 17:39:57 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 7: loss = 8243.650395066605, delta_loss = 177.53358
+17/07/03 17:39:57 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 8: loss = 8071.882164975899, delta_loss = 171.76823
+17/07/03 17:39:57 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 9: loss = 7896.353656744993, delta_loss = 175.5285
+17/07/03 17:39:57 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 10: loss = 7712.698072828894, delta_loss = 183.65558
+17/07/03 17:39:57 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 11: loss = 7519.987099768346, delta_loss = 192.71097
+17/07/03 17:39:57 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 12: loss = 7319.798290174445, delta_loss = 200.18881
+17/07/03 17:39:57 INFO SVDPlusPlusRecommender: SVDPlusPlusRecommender iter 13: loss = 7115.466701377673, delta_loss = 204.33159
+17/07/03 17:39:57 INFO SVDPlusPlusRecommender: Job Train completed.
+17/07/03 17:39:57 INFO SVDPlusPlusRecommender: Job End.
+17/07/03 17:39:57 INFO RecommenderJob: Evaluator value:MPE is 0.9801016088060965
+17/07/03 17:39:57 INFO RecommenderJob: Evaluator value:RMSE is 0.8012644628336555
+17/07/03 17:39:57 INFO RecommenderJob: Evaluator value:MAE is 0.61594326786118
+17/07/03 17:39:57 INFO RecommenderJob: Evaluator value:MSE is 0.6420247394001064
+17/07/03 17:39:57 INFO RecommenderJob: Result path is result/filmtrust/rating-svdpp-output/svdpp

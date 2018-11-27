@@ -1,0 +1,61 @@
+17/06/28 17:33:34 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/28 17:33:34 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/28 17:33:34 INFO TextDataConvertor: All dataset files size 411942
+17/06/28 17:33:34 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/28 17:33:34 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/28 17:33:34 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/28 17:33:34 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/28 17:33:34 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/28 17:33:34 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/28 17:33:34 INFO TextDataModel: Data size of training is 28408
+17/06/28 17:33:34 INFO TextDataModel: Data size of testing is 7086
+17/06/28 17:33:37 INFO SLIMRecommender: Job Setup completed.
+17/06/28 17:33:44 INFO SLIMRecommender: SLIMRecommender iter 1: loss = 7400914.593351711, delta_loss = -7400914.593351711
+17/06/28 17:33:50 INFO SLIMRecommender: SLIMRecommender iter 2: loss = 3133330.986743492, delta_loss = 4267583.6066082185
+17/06/28 17:33:57 INFO SLIMRecommender: SLIMRecommender iter 3: loss = 1815516.1470578446, delta_loss = 1317814.8396856475
+17/06/28 17:34:04 INFO SLIMRecommender: SLIMRecommender iter 4: loss = 1173291.570326511, delta_loss = 642224.5767313335
+17/06/28 17:34:10 INFO SLIMRecommender: SLIMRecommender iter 5: loss = 819623.3483099116, delta_loss = 353668.2220165995
+17/06/28 17:34:17 INFO SLIMRecommender: SLIMRecommender iter 6: loss = 611129.3831677125, delta_loss = 208493.96514219907
+17/06/28 17:34:24 INFO SLIMRecommender: SLIMRecommender iter 7: loss = 480249.51672606857, delta_loss = 130879.86644164391
+17/06/28 17:34:30 INFO SLIMRecommender: SLIMRecommender iter 8: loss = 390451.2345128827, delta_loss = 89798.28221318586
+17/06/28 17:34:37 INFO SLIMRecommender: SLIMRecommender iter 9: loss = 320638.86100592377, delta_loss = 69812.37350695895
+17/06/28 17:34:44 INFO SLIMRecommender: SLIMRecommender iter 10: loss = 263998.591380658, delta_loss = 56640.26962526579
+17/06/28 17:34:50 INFO SLIMRecommender: SLIMRecommender iter 11: loss = 217448.2450021431, delta_loss = 46550.34637851486
+17/06/28 17:34:57 INFO SLIMRecommender: SLIMRecommender iter 12: loss = 178441.5581162196, delta_loss = 39006.686885923526
+17/06/28 17:35:04 INFO SLIMRecommender: SLIMRecommender iter 13: loss = 148258.07728977516, delta_loss = 30183.48082644443
+17/06/28 17:35:11 INFO SLIMRecommender: SLIMRecommender iter 14: loss = 124617.3584108066, delta_loss = 23640.71887896856
+17/06/28 17:35:17 INFO SLIMRecommender: SLIMRecommender iter 15: loss = 106810.5365292321, delta_loss = 17806.821881574506
+17/06/28 17:35:24 INFO SLIMRecommender: SLIMRecommender iter 16: loss = 93549.13746377504, delta_loss = 13261.399065457052
+17/06/28 17:35:31 INFO SLIMRecommender: SLIMRecommender iter 17: loss = 82847.18683095639, delta_loss = 10701.950632818654
+17/06/28 17:35:37 INFO SLIMRecommender: SLIMRecommender iter 18: loss = 74136.65485474796, delta_loss = 8710.531976208425
+17/06/28 17:35:44 INFO SLIMRecommender: SLIMRecommender iter 19: loss = 67246.17731323074, delta_loss = 6890.477541517219
+17/06/28 17:35:51 INFO SLIMRecommender: SLIMRecommender iter 20: loss = 61129.02740573993, delta_loss = 6117.149907490813
+17/06/28 17:35:57 INFO SLIMRecommender: SLIMRecommender iter 21: loss = 55582.975173461105, delta_loss = 5546.052232278824
+17/06/28 17:36:04 INFO SLIMRecommender: SLIMRecommender iter 22: loss = 50917.83180692047, delta_loss = 4665.143366540637
+17/06/28 17:36:11 INFO SLIMRecommender: SLIMRecommender iter 23: loss = 47287.47607739973, delta_loss = 3630.3557295207356
+17/06/28 17:36:17 INFO SLIMRecommender: SLIMRecommender iter 24: loss = 44596.1432525469, delta_loss = 2691.332824852834
+17/06/28 17:36:24 INFO SLIMRecommender: SLIMRecommender iter 25: loss = 42574.830428319445, delta_loss = 2021.3128242274543
+17/06/28 17:36:31 INFO SLIMRecommender: SLIMRecommender iter 26: loss = 41117.98124752048, delta_loss = 1456.849180798963
+17/06/28 17:36:38 INFO SLIMRecommender: SLIMRecommender iter 27: loss = 40019.4462101994, delta_loss = 1098.5350373210822
+17/06/28 17:36:44 INFO SLIMRecommender: SLIMRecommender iter 28: loss = 39113.98241885236, delta_loss = 905.463791347036
+17/06/28 17:36:51 INFO SLIMRecommender: SLIMRecommender iter 29: loss = 38389.02446662215, delta_loss = 724.9579522302156
+17/06/28 17:36:58 INFO SLIMRecommender: SLIMRecommender iter 30: loss = 37829.43706537565, delta_loss = 559.5874012464992
+17/06/28 17:37:04 INFO SLIMRecommender: SLIMRecommender iter 31: loss = 37402.244705699246, delta_loss = 427.1923596764027
+17/06/28 17:37:11 INFO SLIMRecommender: SLIMRecommender iter 32: loss = 37078.01459265429, delta_loss = 324.23011304495594
+17/06/28 17:37:18 INFO SLIMRecommender: SLIMRecommender iter 33: loss = 36796.41176137662, delta_loss = 281.6028312776689
+17/06/28 17:37:24 INFO SLIMRecommender: SLIMRecommender iter 34: loss = 36534.18117096551, delta_loss = 262.23059041111264
+17/06/28 17:37:31 INFO SLIMRecommender: SLIMRecommender iter 35: loss = 36290.393803549654, delta_loss = 243.78736741585453
+17/06/28 17:37:38 INFO SLIMRecommender: SLIMRecommender iter 36: loss = 36065.42308512131, delta_loss = 224.97071842834703
+17/06/28 17:37:44 INFO SLIMRecommender: SLIMRecommender iter 37: loss = 35882.33240423603, delta_loss = 183.0906808852742
+17/06/28 17:37:51 INFO SLIMRecommender: SLIMRecommender iter 38: loss = 35711.48673383325, delta_loss = 170.8456704027849
+17/06/28 17:37:58 INFO SLIMRecommender: SLIMRecommender iter 39: loss = 35576.48321719243, delta_loss = 135.00351664081973
+17/06/28 17:38:05 INFO SLIMRecommender: SLIMRecommender iter 40: loss = 35480.08105847244, delta_loss = 96.40215871998953
+17/06/28 17:38:05 INFO SLIMRecommender: Job Train completed.
+17/06/28 17:38:05 INFO SLIMRecommender: Job End.
+17/06/28 17:38:05 INFO RecommenderJob: Evaluator value:AP top 10 is 0.49430705419646176
+17/06/28 17:38:05 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.35359116022099574
+17/06/28 17:38:05 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9328053409512674
+17/06/28 17:38:05 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.646677740614927
+17/06/28 17:38:05 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5880061551378808
+17/06/28 17:38:05 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6568863456985012
+17/06/28 17:38:05 INFO RecommenderJob: Result path is result/filmtrust/rating-slim-output/slim

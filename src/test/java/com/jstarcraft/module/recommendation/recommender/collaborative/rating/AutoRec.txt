@@ -1,0 +1,222 @@
+17/08/25 15:04:03 INFO TextDataConvertor: Dataset: ../data/filmtrust/rating
+17/08/25 15:04:03 INFO TextDataConvertor: All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+17/08/25 15:04:03 INFO TextDataConvertor: All dataset files size 411942
+17/08/25 15:04:03 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/08/25 15:04:03 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/08/25 15:04:03 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/08/25 15:04:03 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/08/25 15:04:03 INFO TextDataModel: Transform data to Convertor successfully!
+17/08/25 15:04:03 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/08/25 15:04:03 INFO TextDataModel: Data size of training is 28408
+17/08/25 15:04:03 INFO TextDataModel: Data size of testing is 7086
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+17/08/25 15:04:04 INFO AutoRecRecommender: Job Setup completed.
+17/08/25 15:04:06 INFO AutoRecRecommender: AutoRecRecommender iter 1: loss = 135.8280314374788, delta_loss = -135.82803
+17/08/25 15:04:06 INFO AutoRecRecommender: AutoRecRecommender iter 2: loss = 125.51191757414931, delta_loss = 10.316113
+17/08/25 15:04:06 INFO AutoRecRecommender: AutoRecRecommender iter 3: loss = 112.24015142090732, delta_loss = 13.271766
+17/08/25 15:04:06 INFO AutoRecRecommender: AutoRecRecommender iter 4: loss = 95.63178036087766, delta_loss = 16.608372
+17/08/25 15:04:06 INFO AutoRecRecommender: AutoRecRecommender iter 5: loss = 77.03520202675611, delta_loss = 18.596579
+17/08/25 15:04:07 INFO AutoRecRecommender: AutoRecRecommender iter 6: loss = 59.56403159231285, delta_loss = 17.47117
+17/08/25 15:04:07 INFO AutoRecRecommender: AutoRecRecommender iter 7: loss = 45.60621568832823, delta_loss = 13.957816
+17/08/25 15:04:07 INFO AutoRecRecommender: AutoRecRecommender iter 8: loss = 35.915213452491535, delta_loss = 9.691002
+17/08/25 15:04:07 INFO AutoRecRecommender: AutoRecRecommender iter 9: loss = 30.04908847949576, delta_loss = 5.866125
+17/08/25 15:04:07 INFO AutoRecRecommender: AutoRecRecommender iter 10: loss = 26.950695431186734, delta_loss = 3.098393
+17/08/25 15:04:08 INFO AutoRecRecommender: AutoRecRecommender iter 11: loss = 25.467937495839724, delta_loss = 1.4827579
+17/08/25 15:04:08 INFO AutoRecRecommender: AutoRecRecommender iter 12: loss = 24.629248507269978, delta_loss = 0.83868897
+17/08/25 15:04:08 INFO AutoRecRecommender: AutoRecRecommender iter 13: loss = 23.7895954209139, delta_loss = 0.8396531
+17/08/25 15:04:09 INFO AutoRecRecommender: AutoRecRecommender iter 14: loss = 22.669889749044188, delta_loss = 1.1197057
+17/08/25 15:04:09 INFO AutoRecRecommender: AutoRecRecommender iter 15: loss = 21.271589501190192, delta_loss = 1.3983003
+17/08/25 15:04:09 INFO AutoRecRecommender: AutoRecRecommender iter 16: loss = 19.729227387850603, delta_loss = 1.5423621
+17/08/25 15:04:09 INFO AutoRecRecommender: AutoRecRecommender iter 17: loss = 18.189526419265658, delta_loss = 1.539701
+17/08/25 15:04:10 INFO AutoRecRecommender: AutoRecRecommender iter 18: loss = 16.768144455888038, delta_loss = 1.421382
+17/08/25 15:04:10 INFO AutoRecRecommender: AutoRecRecommender iter 19: loss = 15.556973668177736, delta_loss = 1.2111708
+17/08/25 15:04:10 INFO AutoRecRecommender: AutoRecRecommender iter 20: loss = 14.604067001928584, delta_loss = 0.95290667
+17/08/25 15:04:11 INFO AutoRecRecommender: AutoRecRecommender iter 21: loss = 13.902914386785554, delta_loss = 0.7011526
+17/08/25 15:04:11 INFO AutoRecRecommender: AutoRecRecommender iter 22: loss = 13.409777542337165, delta_loss = 0.49313685
+17/08/25 15:04:11 INFO AutoRecRecommender: AutoRecRecommender iter 23: loss = 13.063707858181521, delta_loss = 0.3460697
+17/08/25 15:04:11 INFO AutoRecRecommender: AutoRecRecommender iter 24: loss = 12.805203410190524, delta_loss = 0.25850445
+17/08/25 15:04:11 INFO AutoRecRecommender: AutoRecRecommender iter 25: loss = 12.5804698083177, delta_loss = 0.2247336
+17/08/25 15:04:12 INFO AutoRecRecommender: AutoRecRecommender iter 26: loss = 12.351105658370054, delta_loss = 0.22936416
+17/08/25 15:04:12 INFO AutoRecRecommender: AutoRecRecommender iter 27: loss = 12.0998949854983, delta_loss = 0.25121066
+17/08/25 15:04:12 INFO AutoRecRecommender: AutoRecRecommender iter 28: loss = 11.826939643065595, delta_loss = 0.27295533
+17/08/25 15:04:12 INFO AutoRecRecommender: AutoRecRecommender iter 29: loss = 11.543118095431048, delta_loss = 0.28382155
+17/08/25 15:04:12 INFO AutoRecRecommender: AutoRecRecommender iter 30: loss = 11.263896903345461, delta_loss = 0.2792212
+17/08/25 15:04:13 INFO AutoRecRecommender: AutoRecRecommender iter 31: loss = 11.003678828931095, delta_loss = 0.26021808
+17/08/25 15:04:13 INFO AutoRecRecommender: AutoRecRecommender iter 32: loss = 10.772737816846359, delta_loss = 0.23094101
+17/08/25 15:04:13 INFO AutoRecRecommender: AutoRecRecommender iter 33: loss = 10.57575815727983, delta_loss = 0.19697966
+17/08/25 15:04:13 INFO AutoRecRecommender: AutoRecRecommender iter 34: loss = 10.411908990842637, delta_loss = 0.16384916
+17/08/25 15:04:13 INFO AutoRecRecommender: AutoRecRecommender iter 35: loss = 10.276528656280593, delta_loss = 0.13538033
+17/08/25 15:04:14 INFO AutoRecRecommender: AutoRecRecommender iter 36: loss = 10.16312968278564, delta_loss = 0.11339898
+17/08/25 15:04:14 INFO AutoRecRecommender: AutoRecRecommender iter 37: loss = 10.06475305931329, delta_loss = 0.098376624
+17/08/25 15:04:14 INFO AutoRecRecommender: AutoRecRecommender iter 38: loss = 9.975728971598432, delta_loss = 0.08902409
+17/08/25 15:04:14 INFO AutoRecRecommender: AutoRecRecommender iter 39: loss = 9.892059691920018, delta_loss = 0.08366928
+17/08/25 15:04:15 INFO AutoRecRecommender: AutoRecRecommender iter 40: loss = 9.811508227334622, delta_loss = 0.08055147
+17/08/25 15:04:15 INFO AutoRecRecommender: AutoRecRecommender iter 41: loss = 9.73354928583334, delta_loss = 0.07795894
+17/08/25 15:04:15 INFO AutoRecRecommender: AutoRecRecommender iter 42: loss = 9.658484655613584, delta_loss = 0.07506463
+17/08/25 15:04:15 INFO AutoRecRecommender: AutoRecRecommender iter 43: loss = 9.587201780477853, delta_loss = 0.07128288
+17/08/25 15:04:15 INFO AutoRecRecommender: AutoRecRecommender iter 44: loss = 9.520678640994367, delta_loss = 0.06652314
+17/08/25 15:04:16 INFO AutoRecRecommender: AutoRecRecommender iter 45: loss = 9.459428277363292, delta_loss = 0.061250363
+17/08/25 15:04:16 INFO AutoRecRecommender: AutoRecRecommender iter 46: loss = 9.403629878324248, delta_loss = 0.0557984
+17/08/25 15:04:16 INFO AutoRecRecommender: AutoRecRecommender iter 47: loss = 9.353054275969686, delta_loss = 0.050575603
+17/08/25 15:04:16 INFO AutoRecRecommender: AutoRecRecommender iter 48: loss = 9.30711393147619, delta_loss = 0.045940343
+17/08/25 15:04:16 INFO AutoRecRecommender: AutoRecRecommender iter 49: loss = 9.265053436330309, delta_loss = 0.042060494
+17/08/25 15:04:17 INFO AutoRecRecommender: AutoRecRecommender iter 50: loss = 9.226107007032029, delta_loss = 0.03894643
+17/08/25 15:04:17 INFO AutoRecRecommender: AutoRecRecommender iter 51: loss = 9.189605997885252, delta_loss = 0.03650101
+17/08/25 15:04:17 INFO AutoRecRecommender: AutoRecRecommender iter 52: loss = 9.155086412310009, delta_loss = 0.034519587
+17/08/25 15:04:17 INFO AutoRecRecommender: AutoRecRecommender iter 53: loss = 9.122143667264462, delta_loss = 0.032942746
+17/08/25 15:04:18 INFO AutoRecRecommender: AutoRecRecommender iter 54: loss = 9.090647615303686, delta_loss = 0.03149605
+17/08/25 15:04:18 INFO AutoRecRecommender: AutoRecRecommender iter 55: loss = 9.060484143245413, delta_loss = 0.030163473
+17/08/25 15:04:18 INFO AutoRecRecommender: AutoRecRecommender iter 56: loss = 9.031628729821913, delta_loss = 0.028855413
+17/08/25 15:04:18 INFO AutoRecRecommender: AutoRecRecommender iter 57: loss = 9.00411249623939, delta_loss = 0.027516233
+17/08/25 15:04:18 INFO AutoRecRecommender: AutoRecRecommender iter 58: loss = 8.977907147233282, delta_loss = 0.02620535
+17/08/25 15:04:19 INFO AutoRecRecommender: AutoRecRecommender iter 59: loss = 8.952964587231826, delta_loss = 0.02494256
+17/08/25 15:04:19 INFO AutoRecRecommender: AutoRecRecommender iter 60: loss = 8.929227286125473, delta_loss = 0.0237373
+17/08/25 15:04:19 INFO AutoRecRecommender: AutoRecRecommender iter 61: loss = 8.906526430531883, delta_loss = 0.022700856
+17/08/25 15:04:19 INFO AutoRecRecommender: AutoRecRecommender iter 62: loss = 8.884824298141396, delta_loss = 0.021702133
+17/08/25 15:04:20 INFO AutoRecRecommender: AutoRecRecommender iter 63: loss = 8.86400583272045, delta_loss = 0.020818466
+17/08/25 15:04:20 INFO AutoRecRecommender: AutoRecRecommender iter 64: loss = 8.844020106492884, delta_loss = 0.019985726
+17/08/25 15:04:20 INFO AutoRecRecommender: AutoRecRecommender iter 65: loss = 8.82473131569288, delta_loss = 0.019288791
+17/08/25 15:04:20 INFO AutoRecRecommender: AutoRecRecommender iter 66: loss = 8.806125314868275, delta_loss = 0.018606002
+17/08/25 15:04:20 INFO AutoRecRecommender: AutoRecRecommender iter 67: loss = 8.788126657470153, delta_loss = 0.017998658
+17/08/25 15:04:21 INFO AutoRecRecommender: AutoRecRecommender iter 68: loss = 8.770675929150734, delta_loss = 0.017450728
+17/08/25 15:04:21 INFO AutoRecRecommender: AutoRecRecommender iter 69: loss = 8.753864609876553, delta_loss = 0.016811319
+17/08/25 15:04:21 INFO AutoRecRecommender: AutoRecRecommender iter 70: loss = 8.737611594237142, delta_loss = 0.016253015
+17/08/25 15:04:22 INFO AutoRecRecommender: AutoRecRecommender iter 71: loss = 8.72174807070167, delta_loss = 0.015863523
+17/08/25 15:04:22 INFO AutoRecRecommender: AutoRecRecommender iter 72: loss = 8.706468314254947, delta_loss = 0.015279757
+17/08/25 15:04:22 INFO AutoRecRecommender: AutoRecRecommender iter 73: loss = 8.6915940835833, delta_loss = 0.014874231
+17/08/25 15:04:22 INFO AutoRecRecommender: AutoRecRecommender iter 74: loss = 8.677187621007336, delta_loss = 0.014406462
+17/08/25 15:04:22 INFO AutoRecRecommender: AutoRecRecommender iter 75: loss = 8.663156505350296, delta_loss = 0.014031116
+17/08/25 15:04:23 INFO AutoRecRecommender: AutoRecRecommender iter 76: loss = 8.649502622383803, delta_loss = 0.013653883
+17/08/25 15:04:23 INFO AutoRecRecommender: AutoRecRecommender iter 77: loss = 8.636208054208677, delta_loss = 0.013294568
+17/08/25 15:04:23 INFO AutoRecRecommender: AutoRecRecommender iter 78: loss = 8.623227532203448, delta_loss = 0.012980522
+17/08/25 15:04:23 INFO AutoRecRecommender: AutoRecRecommender iter 79: loss = 8.610594064910726, delta_loss = 0.012633467
+17/08/25 15:04:24 INFO AutoRecRecommender: AutoRecRecommender iter 80: loss = 8.598268042701527, delta_loss = 0.012326023
+17/08/25 15:04:24 INFO AutoRecRecommender: AutoRecRecommender iter 81: loss = 8.586182505402126, delta_loss = 0.012085537
+17/08/25 15:04:24 INFO AutoRecRecommender: AutoRecRecommender iter 82: loss = 8.574356316337033, delta_loss = 0.011826189
+17/08/25 15:04:24 INFO AutoRecRecommender: AutoRecRecommender iter 83: loss = 8.56285549064503, delta_loss = 0.011500826
+17/08/25 15:04:24 INFO AutoRecRecommender: AutoRecRecommender iter 84: loss = 8.551555540855025, delta_loss = 0.01129995
+17/08/25 15:04:24 INFO AutoRecRecommender: AutoRecRecommender iter 85: loss = 8.540505507903795, delta_loss = 0.011050033
+17/08/25 15:04:25 INFO AutoRecRecommender: AutoRecRecommender iter 86: loss = 8.529692188418018, delta_loss = 0.010813319
+17/08/25 15:04:25 INFO AutoRecRecommender: AutoRecRecommender iter 87: loss = 8.519115581424943, delta_loss = 0.010576607
+17/08/25 15:04:25 INFO AutoRecRecommender: AutoRecRecommender iter 88: loss = 8.50873890785105, delta_loss = 0.010376673
+17/08/25 15:04:25 INFO AutoRecRecommender: AutoRecRecommender iter 89: loss = 8.498548021286092, delta_loss = 0.010190886
+17/08/25 15:04:26 INFO AutoRecRecommender: AutoRecRecommender iter 90: loss = 8.488589132308714, delta_loss = 0.009958889
+17/08/25 15:04:26 INFO AutoRecRecommender: AutoRecRecommender iter 91: loss = 8.47874435615412, delta_loss = 0.009844776
+17/08/25 15:04:26 INFO AutoRecRecommender: AutoRecRecommender iter 92: loss = 8.469111772818763, delta_loss = 0.009632584
+17/08/25 15:04:26 INFO AutoRecRecommender: AutoRecRecommender iter 93: loss = 8.459641399030348, delta_loss = 0.009470373
+17/08/25 15:04:27 INFO AutoRecRecommender: AutoRecRecommender iter 94: loss = 8.450352097412805, delta_loss = 0.009289302
+17/08/25 15:04:27 INFO AutoRecRecommender: AutoRecRecommender iter 95: loss = 8.44118068040591, delta_loss = 0.009171417
+17/08/25 15:04:27 INFO AutoRecRecommender: AutoRecRecommender iter 96: loss = 8.432177131401087, delta_loss = 0.009003549
+17/08/25 15:04:27 INFO AutoRecRecommender: AutoRecRecommender iter 97: loss = 8.423262232110988, delta_loss = 0.008914899
+17/08/25 15:04:27 INFO AutoRecRecommender: AutoRecRecommender iter 98: loss = 8.414490680831214, delta_loss = 0.008771551
+17/08/25 15:04:28 INFO AutoRecRecommender: AutoRecRecommender iter 99: loss = 8.405821925931196, delta_loss = 0.008668755
+17/08/25 15:04:28 INFO AutoRecRecommender: AutoRecRecommender iter 100: loss = 8.397235218291742, delta_loss = 0.0085867075
+17/08/25 15:04:28 INFO AutoRecRecommender: AutoRecRecommender iter 101: loss = 8.388723957225153, delta_loss = 0.008511261
+17/08/25 15:04:28 INFO AutoRecRecommender: AutoRecRecommender iter 102: loss = 8.380260792915688, delta_loss = 0.008463164
+17/08/25 15:04:28 INFO AutoRecRecommender: AutoRecRecommender iter 103: loss = 8.371888164347117, delta_loss = 0.008372628
+17/08/25 15:04:29 INFO AutoRecRecommender: AutoRecRecommender iter 104: loss = 8.363607957295875, delta_loss = 0.008280207
+17/08/25 15:04:29 INFO AutoRecRecommender: AutoRecRecommender iter 105: loss = 8.35538999396351, delta_loss = 0.008217963
+17/08/25 15:04:29 INFO AutoRecRecommender: AutoRecRecommender iter 106: loss = 8.347321979934033, delta_loss = 0.008068014
+17/08/25 15:04:29 INFO AutoRecRecommender: AutoRecRecommender iter 107: loss = 8.339435037801588, delta_loss = 0.0078869425
+17/08/25 15:04:29 INFO AutoRecRecommender: AutoRecRecommender iter 108: loss = 8.331656549697119, delta_loss = 0.007778488
+17/08/25 15:04:30 INFO AutoRecRecommender: AutoRecRecommender iter 109: loss = 8.324056303936556, delta_loss = 0.0076002455
+17/08/25 15:04:30 INFO AutoRecRecommender: AutoRecRecommender iter 110: loss = 8.31655885339876, delta_loss = 0.0074974503
+17/08/25 15:04:31 INFO AutoRecRecommender: AutoRecRecommender iter 111: loss = 8.309116101670591, delta_loss = 0.007442752
+17/08/25 15:04:31 INFO AutoRecRecommender: AutoRecRecommender iter 112: loss = 8.301721447114295, delta_loss = 0.0073946547
+17/08/25 15:04:31 INFO AutoRecRecommender: AutoRecRecommender iter 113: loss = 8.29440412519511, delta_loss = 0.007317322
+17/08/25 15:04:31 INFO AutoRecRecommender: AutoRecRecommender iter 114: loss = 8.287149990192727, delta_loss = 0.007254135
+17/08/25 15:04:32 INFO AutoRecRecommender: AutoRecRecommender iter 115: loss = 8.28001468276579, delta_loss = 0.0071353074
+17/08/25 15:04:32 INFO AutoRecRecommender: AutoRecRecommender iter 116: loss = 8.272960480596437, delta_loss = 0.0070542023
+17/08/25 15:04:32 INFO AutoRecRecommender: AutoRecRecommender iter 117: loss = 8.26599492875637, delta_loss = 0.006965552
+17/08/25 15:04:32 INFO AutoRecRecommender: AutoRecRecommender iter 118: loss = 8.259222708595807, delta_loss = 0.00677222
+17/08/25 15:04:33 INFO AutoRecRecommender: AutoRecRecommender iter 119: loss = 8.25243822899213, delta_loss = 0.0067844796
+17/08/25 15:04:33 INFO AutoRecRecommender: AutoRecRecommender iter 120: loss = 8.245770691188767, delta_loss = 0.0066675376
+17/08/25 15:04:33 INFO AutoRecRecommender: AutoRecRecommender iter 121: loss = 8.239181429416103, delta_loss = 0.006589262
+17/08/25 15:04:33 INFO AutoRecRecommender: AutoRecRecommender iter 122: loss = 8.232691191515075, delta_loss = 0.006490238
+17/08/25 15:04:33 INFO AutoRecRecommender: AutoRecRecommender iter 123: loss = 8.226274514055103, delta_loss = 0.0064166775
+17/08/25 15:04:34 INFO AutoRecRecommender: AutoRecRecommender iter 124: loss = 8.2199295108832, delta_loss = 0.0063450034
+17/08/25 15:04:34 INFO AutoRecRecommender: AutoRecRecommender iter 125: loss = 8.213651466707637, delta_loss = 0.006278044
+17/08/25 15:04:34 INFO AutoRecRecommender: AutoRecRecommender iter 126: loss = 8.20747338880349, delta_loss = 0.006178078
+17/08/25 15:04:34 INFO AutoRecRecommender: AutoRecRecommender iter 127: loss = 8.20137170074827, delta_loss = 0.006101688
+17/08/25 15:04:34 INFO AutoRecRecommender: AutoRecRecommender iter 128: loss = 8.195265297305651, delta_loss = 0.0061064037
+17/08/25 15:04:35 INFO AutoRecRecommender: AutoRecRecommender iter 129: loss = 8.189260746317842, delta_loss = 0.006004551
+17/08/25 15:04:35 INFO AutoRecRecommender: AutoRecRecommender iter 130: loss = 8.183311837228384, delta_loss = 0.005948909
+17/08/25 15:04:35 INFO AutoRecRecommender: AutoRecRecommender iter 131: loss = 8.177429886823253, delta_loss = 0.0058819503
+17/08/25 15:04:35 INFO AutoRecRecommender: AutoRecRecommender iter 132: loss = 8.171623382894575, delta_loss = 0.005806504
+17/08/25 15:04:35 INFO AutoRecRecommender: AutoRecRecommender iter 133: loss = 8.1658461142628, delta_loss = 0.0057772687
+17/08/25 15:04:36 INFO AutoRecRecommender: AutoRecRecommender iter 134: loss = 8.160149007331798, delta_loss = 0.005697107
+17/08/25 15:04:36 INFO AutoRecRecommender: AutoRecRecommender iter 135: loss = 8.154489624052987, delta_loss = 0.0056593833
+17/08/25 15:04:36 INFO AutoRecRecommender: AutoRecRecommender iter 136: loss = 8.148902857469247, delta_loss = 0.0055867666
+17/08/25 15:04:36 INFO AutoRecRecommender: AutoRecRecommender iter 137: loss = 8.143352871324366, delta_loss = 0.005549986
+17/08/25 15:04:36 INFO AutoRecRecommender: AutoRecRecommender iter 138: loss = 8.137893420773167, delta_loss = 0.0054594507
+17/08/25 15:04:37 INFO AutoRecRecommender: AutoRecRecommender iter 139: loss = 8.13238870233203, delta_loss = 0.0055047185
+17/08/25 15:04:37 INFO AutoRecRecommender: AutoRecRecommender iter 140: loss = 8.127004697897023, delta_loss = 0.005384004
+17/08/25 15:04:37 INFO AutoRecRecommender: AutoRecRecommender iter 141: loss = 8.121650872342105, delta_loss = 0.0053538256
+17/08/25 15:04:38 INFO AutoRecRecommender: AutoRecRecommender iter 142: loss = 8.116354574736071, delta_loss = 0.005296298
+17/08/25 15:04:38 INFO AutoRecRecommender: AutoRecRecommender iter 143: loss = 8.111078081896514, delta_loss = 0.005276493
+17/08/25 15:04:38 INFO AutoRecRecommender: AutoRecRecommender iter 144: loss = 8.105852515636029, delta_loss = 0.005225566
+17/08/25 15:04:38 INFO AutoRecRecommender: AutoRecRecommender iter 145: loss = 8.1006354365787, delta_loss = 0.005217079
+17/08/25 15:04:38 INFO AutoRecRecommender: AutoRecRecommender iter 146: loss = 8.095480601063272, delta_loss = 0.0051548355
+17/08/25 15:04:38 INFO AutoRecRecommender: AutoRecRecommender iter 147: loss = 8.09034556997924, delta_loss = 0.005135031
+17/08/25 15:04:39 INFO AutoRecRecommender: AutoRecRecommender iter 148: loss = 8.085265237319943, delta_loss = 0.0050803325
+17/08/25 15:04:39 INFO AutoRecRecommender: AutoRecRecommender iter 149: loss = 8.08018490503381, delta_loss = 0.0050803325
+17/08/25 15:04:39 INFO AutoRecRecommender: AutoRecRecommender iter 150: loss = 8.075165872683932, delta_loss = 0.0050190324
+17/08/25 15:04:39 INFO AutoRecRecommender: AutoRecRecommender iter 151: loss = 8.070168531279416, delta_loss = 0.0049973414
+17/08/25 15:04:40 INFO AutoRecRecommender: AutoRecRecommender iter 152: loss = 8.065190051420748, delta_loss = 0.00497848
+17/08/25 15:04:40 INFO AutoRecRecommender: AutoRecRecommender iter 153: loss = 8.060176677351404, delta_loss = 0.005013374
+17/08/25 15:04:40 INFO AutoRecRecommender: AutoRecRecommender iter 154: loss = 8.055267984930166, delta_loss = 0.0049086926
+17/08/25 15:04:40 INFO AutoRecRecommender: AutoRecRecommender iter 155: loss = 8.05033571590889, delta_loss = 0.004932269
+17/08/25 15:04:40 INFO AutoRecRecommender: AutoRecRecommender iter 156: loss = 8.045439283295513, delta_loss = 0.0048964326
+17/08/25 15:04:41 INFO AutoRecRecommender: AutoRecRecommender iter 157: loss = 8.04061735446242, delta_loss = 0.0048219287
+17/08/25 15:04:41 INFO AutoRecRecommender: AutoRecRecommender iter 158: loss = 8.035809571626377, delta_loss = 0.004807783
+17/08/25 15:04:41 INFO AutoRecRecommender: AutoRecRecommender iter 159: loss = 8.031000845309551, delta_loss = 0.0048087263
+17/08/25 15:04:41 INFO AutoRecRecommender: AutoRecRecommender iter 160: loss = 8.026273224652066, delta_loss = 0.0047276206
+17/08/25 15:04:42 INFO AutoRecRecommender: AutoRecRecommender iter 161: loss = 8.02158521365722, delta_loss = 0.004688011
+17/08/25 15:04:42 INFO AutoRecRecommender: AutoRecRecommender iter 162: loss = 8.016881169880273, delta_loss = 0.0047040437
+17/08/25 15:04:42 INFO AutoRecRecommender: AutoRecRecommender iter 163: loss = 8.012224279704224, delta_loss = 0.0046568904
+17/08/25 15:04:42 INFO AutoRecRecommender: AutoRecRecommender iter 164: loss = 8.007641893611448, delta_loss = 0.004582386
+17/08/25 15:04:42 INFO AutoRecRecommender: AutoRecRecommender iter 165: loss = 8.00306516553292, delta_loss = 0.004576728
+17/08/25 15:04:43 INFO AutoRecRecommender: AutoRecRecommender iter 166: loss = 7.998515787517663, delta_loss = 0.004549378
+17/08/25 15:04:43 INFO AutoRecRecommender: AutoRecRecommender iter 167: loss = 7.993989986233098, delta_loss = 0.004525801
+17/08/25 15:04:43 INFO AutoRecRecommender: AutoRecRecommender iter 168: loss = 7.9894896485296725, delta_loss = 0.004500338
+17/08/25 15:04:43 INFO AutoRecRecommender: AutoRecRecommender iter 169: loss = 7.9850421229933035, delta_loss = 0.0044475254
+17/08/25 15:04:44 INFO AutoRecRecommender: AutoRecRecommender iter 170: loss = 7.980608744048977, delta_loss = 0.004433379
+17/08/25 15:04:44 INFO AutoRecRecommender: AutoRecRecommender iter 171: loss = 7.976182909600963, delta_loss = 0.0044258344
+17/08/25 15:04:44 INFO AutoRecRecommender: AutoRecRecommender iter 172: loss = 7.971820261801282, delta_loss = 0.004362648
+17/08/25 15:04:44 INFO AutoRecRecommender: AutoRecRecommender iter 173: loss = 7.967468930850342, delta_loss = 0.004351331
+17/08/25 15:04:44 INFO AutoRecRecommender: AutoRecRecommender iter 174: loss = 7.963109112180662, delta_loss = 0.0043598185
+17/08/25 15:04:45 INFO AutoRecRecommender: AutoRecRecommender iter 175: loss = 7.958770041286579, delta_loss = 0.004339071
+17/08/25 15:04:45 INFO AutoRecRecommender: AutoRecRecommender iter 176: loss = 7.954447002369908, delta_loss = 0.0043230387
+17/08/25 15:04:45 INFO AutoRecRecommender: AutoRecRecommender iter 177: loss = 7.950146597659233, delta_loss = 0.004300405
+17/08/25 15:04:45 INFO AutoRecRecommender: AutoRecRecommender iter 178: loss = 7.945863168477161, delta_loss = 0.004283429
+17/08/25 15:04:46 INFO AutoRecRecommender: AutoRecRecommender iter 179: loss = 7.941591999107515, delta_loss = 0.004271169
+17/08/25 15:04:46 INFO AutoRecRecommender: AutoRecRecommender iter 180: loss = 7.937308569627417, delta_loss = 0.0042834296
+17/08/25 15:04:46 INFO AutoRecRecommender: AutoRecRecommender iter 181: loss = 7.933013823090174, delta_loss = 0.0042947466
+17/08/25 15:04:46 INFO AutoRecRecommender: AutoRecRecommender iter 182: loss = 7.9287275641176445, delta_loss = 0.004286259
+17/08/25 15:04:46 INFO AutoRecRecommender: AutoRecRecommender iter 183: loss = 7.924472426897239, delta_loss = 0.0042551374
+17/08/25 15:04:46 INFO AutoRecRecommender: AutoRecRecommender iter 184: loss = 7.9201776799641985, delta_loss = 0.004294747
+17/08/25 15:04:47 INFO AutoRecRecommender: AutoRecRecommender iter 185: loss = 7.915888591105938, delta_loss = 0.004289089
+17/08/25 15:04:47 INFO AutoRecRecommender: AutoRecRecommender iter 186: loss = 7.911604217993064, delta_loss = 0.004284373
+17/08/25 15:04:47 INFO AutoRecRecommender: AutoRecRecommender iter 187: loss = 7.907313714825758, delta_loss = 0.004290503
+17/08/25 15:04:47 INFO AutoRecRecommender: AutoRecRecommender iter 188: loss = 7.903021797103909, delta_loss = 0.0042919177
+17/08/25 15:04:48 INFO AutoRecRecommender: AutoRecRecommender iter 189: loss = 7.8987704311123315, delta_loss = 0.004251366
+17/08/25 15:04:48 INFO AutoRecRecommender: AutoRecRecommender iter 190: loss = 7.894521423246303, delta_loss = 0.004249008
+17/08/25 15:04:48 INFO AutoRecRecommender: AutoRecRecommender iter 191: loss = 7.890278545307316, delta_loss = 0.004242878
+17/08/25 15:04:48 INFO AutoRecRecommender: AutoRecRecommender iter 192: loss = 7.8860719756886954, delta_loss = 0.0042065694
+17/08/25 15:04:49 INFO AutoRecRecommender: AutoRecRecommender iter 193: loss = 7.8819177475794175, delta_loss = 0.004154228
+17/08/25 15:04:49 INFO AutoRecRecommender: AutoRecRecommender iter 194: loss = 7.877783323750658, delta_loss = 0.004134424
+17/08/25 15:04:49 INFO AutoRecRecommender: AutoRecRecommender iter 195: loss = 7.8736757778414415, delta_loss = 0.004107546
+17/08/25 15:04:49 INFO AutoRecRecommender: AutoRecRecommender iter 196: loss = 7.869579548810157, delta_loss = 0.004096229
+17/08/25 15:04:49 INFO AutoRecRecommender: AutoRecRecommender iter 197: loss = 7.865590830782838, delta_loss = 0.003988718
+17/08/25 15:04:50 INFO AutoRecRecommender: AutoRecRecommender iter 198: loss = 7.86157570703512, delta_loss = 0.004015124
+17/08/25 15:04:50 INFO AutoRecRecommender: AutoRecRecommender iter 199: loss = 7.857568599307112, delta_loss = 0.0040071076
+17/08/25 15:04:50 INFO AutoRecRecommender: AutoRecRecommender iter 200: loss = 7.853626092872904, delta_loss = 0.0039425064
+17/08/25 15:04:50 INFO AutoRecRecommender: Job Train completed.
+17/08/25 15:04:54 INFO AutoRecRecommender: Job End.
+17/08/25 15:04:54 INFO RecommenderJob: Evaluator value:MPE is 0.9793959920970928
+17/08/25 15:04:54 INFO RecommenderJob: Evaluator value:RMSE is 0.84684366826983
+17/08/25 15:04:54 INFO RecommenderJob: Evaluator value:MSE is 0.717144198488702
+17/08/25 15:04:54 INFO RecommenderJob: Evaluator value:MAE is 0.6505091136251504
+17/08/25 15:04:54 INFO RecommenderJob: Result path is ../result/filmtrust/rating-autorec-output/autorec

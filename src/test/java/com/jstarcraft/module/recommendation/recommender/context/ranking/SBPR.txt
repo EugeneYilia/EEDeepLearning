@@ -1,0 +1,222 @@
+17/06/03 21:06:52 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 21:06:52 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 21:06:52 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 21:06:52 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 21:06:52 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 21:06:52 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 21:06:52 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 21:06:52 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 21:06:52 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 21:06:52 INFO TextDataModel: Data size of training is 28408
+17/06/03 21:06:52 INFO TextDataModel: Data size of testing is 7086
+17/06/03 21:06:52 INFO TextDataModel: Transform data to Feature successfully!
+17/06/03 21:06:52 INFO SBPRRecommender: Job Setup completed.
+17/06/03 21:06:53 INFO SBPRRecommender: SBPRRecommender iter 1: loss = 261904.3180229219, delta_loss = -261904.31
+17/06/03 21:06:53 INFO SBPRRecommender: SBPRRecommender iter 2: loss = 335930.2231700834, delta_loss = -74025.91
+17/06/03 21:06:54 INFO SBPRRecommender: SBPRRecommender iter 3: loss = 351214.5295659709, delta_loss = -15284.307
+17/06/03 21:06:54 INFO SBPRRecommender: SBPRRecommender iter 4: loss = 360270.7435152551, delta_loss = -9056.214
+17/06/03 21:06:54 INFO SBPRRecommender: SBPRRecommender iter 5: loss = 365832.465866, delta_loss = -5561.722
+17/06/03 21:06:54 INFO SBPRRecommender: SBPRRecommender iter 6: loss = 370870.9748864943, delta_loss = -5038.509
+17/06/03 21:06:55 INFO SBPRRecommender: SBPRRecommender iter 7: loss = 374904.19347756164, delta_loss = -4033.2185
+17/06/03 21:06:55 INFO SBPRRecommender: SBPRRecommender iter 8: loss = 379144.1251393256, delta_loss = -4239.9316
+17/06/03 21:06:55 INFO SBPRRecommender: SBPRRecommender iter 9: loss = 385384.5815499232, delta_loss = -6240.4565
+17/06/03 21:06:56 INFO SBPRRecommender: SBPRRecommender iter 10: loss = 389829.49025209114, delta_loss = -4444.9087
+17/06/03 21:06:56 INFO SBPRRecommender: SBPRRecommender iter 11: loss = 393253.38913821656, delta_loss = -3423.899
+17/06/03 21:06:56 INFO SBPRRecommender: SBPRRecommender iter 12: loss = 398122.10941778834, delta_loss = -4868.72
+17/06/03 21:06:56 INFO SBPRRecommender: SBPRRecommender iter 13: loss = 401403.37464302627, delta_loss = -3281.2651
+17/06/03 21:06:57 INFO SBPRRecommender: SBPRRecommender iter 14: loss = 406910.4316806649, delta_loss = -5507.057
+17/06/03 21:06:57 INFO SBPRRecommender: SBPRRecommender iter 15: loss = 409988.2930415213, delta_loss = -3077.8613
+17/06/03 21:06:57 INFO SBPRRecommender: SBPRRecommender iter 16: loss = 413071.8376733964, delta_loss = -3083.5447
+17/06/03 21:06:57 INFO SBPRRecommender: SBPRRecommender iter 17: loss = 418561.802268066, delta_loss = -5489.9644
+17/06/03 21:06:58 INFO SBPRRecommender: SBPRRecommender iter 18: loss = 419917.2625386364, delta_loss = -1355.4603
+17/06/03 21:06:58 INFO SBPRRecommender: SBPRRecommender iter 19: loss = 424078.06231671345, delta_loss = -4160.8
+17/06/03 21:06:58 INFO SBPRRecommender: SBPRRecommender iter 20: loss = 427877.0986492459, delta_loss = -3799.0364
+17/06/03 21:06:58 INFO SBPRRecommender: SBPRRecommender iter 21: loss = 431020.45280144294, delta_loss = -3143.3542
+17/06/03 21:06:59 INFO SBPRRecommender: SBPRRecommender iter 22: loss = 433714.6139506342, delta_loss = -2694.1611
+17/06/03 21:06:59 INFO SBPRRecommender: SBPRRecommender iter 23: loss = 436117.8824048794, delta_loss = -2403.2686
+17/06/03 21:06:59 INFO SBPRRecommender: SBPRRecommender iter 24: loss = 437201.1696444612, delta_loss = -1083.2872
+17/06/03 21:06:59 INFO SBPRRecommender: SBPRRecommender iter 25: loss = 441194.54394275113, delta_loss = -3993.3743
+17/06/03 21:07:00 INFO SBPRRecommender: SBPRRecommender iter 26: loss = 442640.4145663978, delta_loss = -1445.8706
+17/06/03 21:07:00 INFO SBPRRecommender: SBPRRecommender iter 27: loss = 446301.1290086739, delta_loss = -3660.7144
+17/06/03 21:07:00 INFO SBPRRecommender: SBPRRecommender iter 28: loss = 448039.5550972579, delta_loss = -1738.4261
+17/06/03 21:07:00 INFO SBPRRecommender: SBPRRecommender iter 29: loss = 451032.7673023668, delta_loss = -2993.2122
+17/06/03 21:07:01 INFO SBPRRecommender: SBPRRecommender iter 30: loss = 453403.46829966194, delta_loss = -2370.701
+17/06/03 21:07:01 INFO SBPRRecommender: SBPRRecommender iter 31: loss = 456451.04692370375, delta_loss = -3047.5786
+17/06/03 21:07:01 INFO SBPRRecommender: SBPRRecommender iter 32: loss = 457624.9546414929, delta_loss = -1173.9077
+17/06/03 21:07:01 INFO SBPRRecommender: SBPRRecommender iter 33: loss = 460975.74669466313, delta_loss = -3350.792
+17/06/03 21:07:02 INFO SBPRRecommender: SBPRRecommender iter 34: loss = 463069.52587928815, delta_loss = -2093.7793
+17/06/03 21:07:02 INFO SBPRRecommender: SBPRRecommender iter 35: loss = 465492.826460711, delta_loss = -2423.3005
+17/06/03 21:07:02 INFO SBPRRecommender: SBPRRecommender iter 36: loss = 466703.24974631413, delta_loss = -1210.4233
+17/06/03 21:07:02 INFO SBPRRecommender: SBPRRecommender iter 37: loss = 469144.6717704774, delta_loss = -2441.422
+17/06/03 21:07:03 INFO SBPRRecommender: SBPRRecommender iter 38: loss = 471693.8712468812, delta_loss = -2549.1995
+17/06/03 21:07:03 INFO SBPRRecommender: SBPRRecommender iter 39: loss = 473082.41132676305, delta_loss = -1388.54
+17/06/03 21:07:03 INFO SBPRRecommender: SBPRRecommender iter 40: loss = 474033.7984865892, delta_loss = -951.38715
+17/06/03 21:07:03 INFO SBPRRecommender: SBPRRecommender iter 41: loss = 475900.7205049045, delta_loss = -1866.922
+17/06/03 21:07:04 INFO SBPRRecommender: SBPRRecommender iter 42: loss = 478507.8267485503, delta_loss = -2607.1062
+17/06/03 21:07:04 INFO SBPRRecommender: SBPRRecommender iter 43: loss = 480218.6355555062, delta_loss = -1710.8088
+17/06/03 21:07:04 INFO SBPRRecommender: SBPRRecommender iter 44: loss = 482445.2870078688, delta_loss = -2226.6514
+17/06/03 21:07:04 INFO SBPRRecommender: SBPRRecommender iter 45: loss = 482965.06930347346, delta_loss = -519.7823
+17/06/03 21:07:05 INFO SBPRRecommender: SBPRRecommender iter 46: loss = 485926.59690780385, delta_loss = -2961.5276
+17/06/03 21:07:05 INFO SBPRRecommender: SBPRRecommender iter 47: loss = 486662.69848996075, delta_loss = -736.10156
+17/06/03 21:07:05 INFO SBPRRecommender: SBPRRecommender iter 48: loss = 489207.7973127531, delta_loss = -2545.0989
+17/06/03 21:07:05 INFO SBPRRecommender: SBPRRecommender iter 49: loss = 490505.5740487571, delta_loss = -1297.7767
+17/06/03 21:07:06 INFO SBPRRecommender: SBPRRecommender iter 50: loss = 491287.4102794697, delta_loss = -781.83624
+17/06/03 21:07:06 INFO SBPRRecommender: SBPRRecommender iter 51: loss = 493557.8565037085, delta_loss = -2270.4463
+17/06/03 21:07:06 INFO SBPRRecommender: SBPRRecommender iter 52: loss = 493029.5151436681, delta_loss = 528.3414
+17/06/03 21:07:06 INFO SBPRRecommender: SBPRRecommender iter 53: loss = 495906.1647097845, delta_loss = -2876.6497
+17/06/03 21:07:07 INFO SBPRRecommender: SBPRRecommender iter 54: loss = 495766.3012145397, delta_loss = 139.8635
+17/06/03 21:07:07 INFO SBPRRecommender: SBPRRecommender iter 55: loss = 497349.3212055773, delta_loss = -1583.02
+17/06/03 21:07:07 INFO SBPRRecommender: SBPRRecommender iter 56: loss = 499138.3627014115, delta_loss = -1789.0415
+17/06/03 21:07:07 INFO SBPRRecommender: SBPRRecommender iter 57: loss = 499626.0042618741, delta_loss = -487.64157
+17/06/03 21:07:08 INFO SBPRRecommender: SBPRRecommender iter 58: loss = 501230.555212718, delta_loss = -1604.5509
+17/06/03 21:07:08 INFO SBPRRecommender: SBPRRecommender iter 59: loss = 501316.8744162413, delta_loss = -86.31921
+17/06/03 21:07:08 INFO SBPRRecommender: SBPRRecommender iter 60: loss = 501863.66011507047, delta_loss = -546.7857
+17/06/03 21:07:08 INFO SBPRRecommender: SBPRRecommender iter 61: loss = 504759.71333546325, delta_loss = -2896.0532
+17/06/03 21:07:09 INFO SBPRRecommender: SBPRRecommender iter 62: loss = 504697.6284440809, delta_loss = 62.084892
+17/06/03 21:07:09 INFO SBPRRecommender: SBPRRecommender iter 63: loss = 506222.0831292396, delta_loss = -1524.4547
+17/06/03 21:07:09 INFO SBPRRecommender: SBPRRecommender iter 64: loss = 505929.97571625724, delta_loss = 292.10742
+17/06/03 21:07:09 INFO SBPRRecommender: SBPRRecommender iter 65: loss = 507713.50239553506, delta_loss = -1783.5267
+17/06/03 21:07:10 INFO SBPRRecommender: SBPRRecommender iter 66: loss = 506423.3412355046, delta_loss = 1290.1611
+17/06/03 21:07:10 INFO SBPRRecommender: SBPRRecommender iter 67: loss = 508650.5525337696, delta_loss = -2227.2112
+17/06/03 21:07:10 INFO SBPRRecommender: SBPRRecommender iter 68: loss = 509777.37495225965, delta_loss = -1126.8224
+17/06/03 21:07:10 INFO SBPRRecommender: SBPRRecommender iter 69: loss = 510438.8025465776, delta_loss = -661.4276
+17/06/03 21:07:11 INFO SBPRRecommender: SBPRRecommender iter 70: loss = 510676.29302994884, delta_loss = -237.49048
+17/06/03 21:07:11 INFO SBPRRecommender: SBPRRecommender iter 71: loss = 512683.632902979, delta_loss = -2007.3398
+17/06/03 21:07:11 INFO SBPRRecommender: SBPRRecommender iter 72: loss = 512105.2784553095, delta_loss = 578.35443
+17/06/03 21:07:11 INFO SBPRRecommender: SBPRRecommender iter 73: loss = 513759.7854278924, delta_loss = -1654.507
+17/06/03 21:07:12 INFO SBPRRecommender: SBPRRecommender iter 74: loss = 515455.50632915716, delta_loss = -1695.721
+17/06/03 21:07:12 INFO SBPRRecommender: SBPRRecommender iter 75: loss = 513667.5404932427, delta_loss = 1787.9658
+17/06/03 21:07:12 INFO SBPRRecommender: SBPRRecommender iter 76: loss = 516657.83619663893, delta_loss = -2990.2957
+17/06/03 21:07:12 INFO SBPRRecommender: SBPRRecommender iter 77: loss = 515699.35888312006, delta_loss = 958.4773
+17/06/03 21:07:13 INFO SBPRRecommender: SBPRRecommender iter 78: loss = 516638.1676061759, delta_loss = -938.8087
+17/06/03 21:07:13 INFO SBPRRecommender: SBPRRecommender iter 79: loss = 516345.18702146976, delta_loss = 292.9806
+17/06/03 21:07:13 INFO SBPRRecommender: SBPRRecommender iter 80: loss = 518498.0282577828, delta_loss = -2152.8413
+17/06/03 21:07:13 INFO SBPRRecommender: SBPRRecommender iter 81: loss = 518692.27728137455, delta_loss = -194.24902
+17/06/03 21:07:14 INFO SBPRRecommender: SBPRRecommender iter 82: loss = 519595.10739625536, delta_loss = -902.83014
+17/06/03 21:07:14 INFO SBPRRecommender: SBPRRecommender iter 83: loss = 519512.45337471104, delta_loss = 82.65402
+17/06/03 21:07:14 INFO SBPRRecommender: SBPRRecommender iter 84: loss = 519678.9023704943, delta_loss = -166.44899
+17/06/03 21:07:14 INFO SBPRRecommender: SBPRRecommender iter 85: loss = 521071.7273526266, delta_loss = -1392.825
+17/06/03 21:07:15 INFO SBPRRecommender: SBPRRecommender iter 86: loss = 519930.71834620315, delta_loss = 1141.009
+17/06/03 21:07:15 INFO SBPRRecommender: SBPRRecommender iter 87: loss = 519983.6343799232, delta_loss = -52.916035
+17/06/03 21:07:15 INFO SBPRRecommender: SBPRRecommender iter 88: loss = 521826.77658185293, delta_loss = -1843.1422
+17/06/03 21:07:15 INFO SBPRRecommender: SBPRRecommender iter 89: loss = 521935.15497024445, delta_loss = -108.37839
+17/06/03 21:07:16 INFO SBPRRecommender: SBPRRecommender iter 90: loss = 522424.0830470091, delta_loss = -488.92807
+17/06/03 21:07:16 INFO SBPRRecommender: SBPRRecommender iter 91: loss = 523786.4042415771, delta_loss = -1362.3212
+17/06/03 21:07:16 INFO SBPRRecommender: SBPRRecommender iter 92: loss = 524009.19692233007, delta_loss = -222.79268
+17/06/03 21:07:16 INFO SBPRRecommender: SBPRRecommender iter 93: loss = 525058.1396392363, delta_loss = -1048.9427
+17/06/03 21:07:17 INFO SBPRRecommender: SBPRRecommender iter 94: loss = 525562.9247294927, delta_loss = -504.7851
+17/06/03 21:07:17 INFO SBPRRecommender: SBPRRecommender iter 95: loss = 523669.5192426287, delta_loss = 1893.4055
+17/06/03 21:07:17 INFO SBPRRecommender: SBPRRecommender iter 96: loss = 524990.8248335908, delta_loss = -1321.3055
+17/06/03 21:07:17 INFO SBPRRecommender: SBPRRecommender iter 97: loss = 523773.8354697144, delta_loss = 1216.9894
+17/06/03 21:07:18 INFO SBPRRecommender: SBPRRecommender iter 98: loss = 524971.251954919, delta_loss = -1197.4165
+17/06/03 21:07:18 INFO SBPRRecommender: SBPRRecommender iter 99: loss = 524366.7985593878, delta_loss = 604.45337
+17/06/03 21:07:18 INFO SBPRRecommender: SBPRRecommender iter 100: loss = 526244.0773892353, delta_loss = -1877.2788
+17/06/03 21:07:18 INFO SBPRRecommender: SBPRRecommender iter 101: loss = 526025.0116353446, delta_loss = 219.06575
+17/06/03 21:07:19 INFO SBPRRecommender: SBPRRecommender iter 102: loss = 526566.2166243561, delta_loss = -541.205
+17/06/03 21:07:19 INFO SBPRRecommender: SBPRRecommender iter 103: loss = 528840.9185610072, delta_loss = -2274.702
+17/06/03 21:07:19 INFO SBPRRecommender: SBPRRecommender iter 104: loss = 526690.520088623, delta_loss = 2150.3984
+17/06/03 21:07:19 INFO SBPRRecommender: SBPRRecommender iter 105: loss = 527522.7673918381, delta_loss = -832.2473
+17/06/03 21:07:20 INFO SBPRRecommender: SBPRRecommender iter 106: loss = 527546.4925512911, delta_loss = -23.725159
+17/06/03 21:07:20 INFO SBPRRecommender: SBPRRecommender iter 107: loss = 527495.6177882076, delta_loss = 50.874763
+17/06/03 21:07:20 INFO SBPRRecommender: SBPRRecommender iter 108: loss = 526062.2417664372, delta_loss = 1433.376
+17/06/03 21:07:20 INFO SBPRRecommender: SBPRRecommender iter 109: loss = 528303.7730174437, delta_loss = -2241.5312
+17/06/03 21:07:21 INFO SBPRRecommender: SBPRRecommender iter 110: loss = 527647.8397925581, delta_loss = 655.9332
+17/06/03 21:07:21 INFO SBPRRecommender: SBPRRecommender iter 111: loss = 528184.0353085769, delta_loss = -536.1955
+17/06/03 21:07:21 INFO SBPRRecommender: SBPRRecommender iter 112: loss = 528575.8243203954, delta_loss = -391.789
+17/06/03 21:07:21 INFO SBPRRecommender: SBPRRecommender iter 113: loss = 530460.7086157223, delta_loss = -1884.8843
+17/06/03 21:07:22 INFO SBPRRecommender: SBPRRecommender iter 114: loss = 529039.7812877075, delta_loss = 1420.9274
+17/06/03 21:07:22 INFO SBPRRecommender: SBPRRecommender iter 115: loss = 529938.4233038595, delta_loss = -898.642
+17/06/03 21:07:22 INFO SBPRRecommender: SBPRRecommender iter 116: loss = 531073.3769622361, delta_loss = -1134.9536
+17/06/03 21:07:22 INFO SBPRRecommender: SBPRRecommender iter 117: loss = 529890.5149768925, delta_loss = 1182.8619
+17/06/03 21:07:23 INFO SBPRRecommender: SBPRRecommender iter 118: loss = 529268.2744002495, delta_loss = 622.2406
+17/06/03 21:07:23 INFO SBPRRecommender: SBPRRecommender iter 119: loss = 529643.9186710139, delta_loss = -375.64426
+17/06/03 21:07:23 INFO SBPRRecommender: SBPRRecommender iter 120: loss = 531099.3086240145, delta_loss = -1455.3899
+17/06/03 21:07:23 INFO SBPRRecommender: SBPRRecommender iter 121: loss = 531501.5257529741, delta_loss = -402.21713
+17/06/03 21:07:24 INFO SBPRRecommender: SBPRRecommender iter 122: loss = 530654.0515948475, delta_loss = 847.4742
+17/06/03 21:07:24 INFO SBPRRecommender: SBPRRecommender iter 123: loss = 530677.0076992315, delta_loss = -22.956104
+17/06/03 21:07:24 INFO SBPRRecommender: SBPRRecommender iter 124: loss = 529324.9890225916, delta_loss = 1352.0187
+17/06/03 21:07:24 INFO SBPRRecommender: SBPRRecommender iter 125: loss = 531461.3511886912, delta_loss = -2136.362
+17/06/03 21:07:25 INFO SBPRRecommender: SBPRRecommender iter 126: loss = 531540.664270158, delta_loss = -79.31308
+17/06/03 21:07:25 INFO SBPRRecommender: SBPRRecommender iter 127: loss = 530381.1076150896, delta_loss = 1159.5566
+17/06/03 21:07:25 INFO SBPRRecommender: SBPRRecommender iter 128: loss = 531180.9694800942, delta_loss = -799.8619
+17/06/03 21:07:25 INFO SBPRRecommender: SBPRRecommender iter 129: loss = 532724.2404715004, delta_loss = -1543.271
+17/06/03 21:07:26 INFO SBPRRecommender: SBPRRecommender iter 130: loss = 531775.1841088121, delta_loss = 949.05634
+17/06/03 21:07:26 INFO SBPRRecommender: SBPRRecommender iter 131: loss = 531520.7029816511, delta_loss = 254.48112
+17/06/03 21:07:26 INFO SBPRRecommender: SBPRRecommender iter 132: loss = 531197.2470643276, delta_loss = 323.4559
+17/06/03 21:07:26 INFO SBPRRecommender: SBPRRecommender iter 133: loss = 532777.0308578592, delta_loss = -1579.7838
+17/06/03 21:07:27 INFO SBPRRecommender: SBPRRecommender iter 134: loss = 529908.7046524851, delta_loss = 2868.3262
+17/06/03 21:07:27 INFO SBPRRecommender: SBPRRecommender iter 135: loss = 530029.3254983086, delta_loss = -120.62085
+17/06/03 21:07:27 INFO SBPRRecommender: SBPRRecommender iter 136: loss = 531637.0516279032, delta_loss = -1607.7261
+17/06/03 21:07:27 INFO SBPRRecommender: SBPRRecommender iter 137: loss = 532653.033077004, delta_loss = -1015.98145
+17/06/03 21:07:28 INFO SBPRRecommender: SBPRRecommender iter 138: loss = 533443.305951947, delta_loss = -790.2729
+17/06/03 21:07:28 INFO SBPRRecommender: SBPRRecommender iter 139: loss = 533281.5142171058, delta_loss = 161.79173
+17/06/03 21:07:28 INFO SBPRRecommender: SBPRRecommender iter 140: loss = 531882.089245734, delta_loss = 1399.4249
+17/06/03 21:07:28 INFO SBPRRecommender: SBPRRecommender iter 141: loss = 533009.4838533108, delta_loss = -1127.3947
+17/06/03 21:07:29 INFO SBPRRecommender: SBPRRecommender iter 142: loss = 533647.9801505514, delta_loss = -638.4963
+17/06/03 21:07:29 INFO SBPRRecommender: SBPRRecommender iter 143: loss = 533820.567195188, delta_loss = -172.58705
+17/06/03 21:07:29 INFO SBPRRecommender: SBPRRecommender iter 144: loss = 533133.2064484286, delta_loss = 687.3607
+17/06/03 21:07:29 INFO SBPRRecommender: SBPRRecommender iter 145: loss = 533293.0476177, delta_loss = -159.84117
+17/06/03 21:07:30 INFO SBPRRecommender: SBPRRecommender iter 146: loss = 535913.3826258734, delta_loss = -2620.335
+17/06/03 21:07:30 INFO SBPRRecommender: SBPRRecommender iter 147: loss = 534571.4386963467, delta_loss = 1341.944
+17/06/03 21:07:30 INFO SBPRRecommender: SBPRRecommender iter 148: loss = 533653.443556014, delta_loss = 917.9951
+17/06/03 21:07:30 INFO SBPRRecommender: SBPRRecommender iter 149: loss = 534254.302787869, delta_loss = -600.85925
+17/06/03 21:07:31 INFO SBPRRecommender: SBPRRecommender iter 150: loss = 533042.0736145467, delta_loss = 1212.2291
+17/06/03 21:07:31 INFO SBPRRecommender: SBPRRecommender iter 151: loss = 534137.7182025437, delta_loss = -1095.6445
+17/06/03 21:07:31 INFO SBPRRecommender: SBPRRecommender iter 152: loss = 533934.6890881117, delta_loss = 203.02911
+17/06/03 21:07:31 INFO SBPRRecommender: SBPRRecommender iter 153: loss = 534689.4804479757, delta_loss = -754.7914
+17/06/03 21:07:32 INFO SBPRRecommender: SBPRRecommender iter 154: loss = 534935.0160739499, delta_loss = -245.53563
+17/06/03 21:07:32 INFO SBPRRecommender: SBPRRecommender iter 155: loss = 535279.7057341001, delta_loss = -344.68967
+17/06/03 21:07:32 INFO SBPRRecommender: SBPRRecommender iter 156: loss = 534146.454456672, delta_loss = 1133.2512
+17/06/03 21:07:32 INFO SBPRRecommender: SBPRRecommender iter 157: loss = 533199.0503233775, delta_loss = 947.4041
+17/06/03 21:07:33 INFO SBPRRecommender: SBPRRecommender iter 158: loss = 533308.6877879963, delta_loss = -109.63747
+17/06/03 21:07:33 INFO SBPRRecommender: SBPRRecommender iter 159: loss = 535909.5383172758, delta_loss = -2600.8506
+17/06/03 21:07:33 INFO SBPRRecommender: SBPRRecommender iter 160: loss = 534163.1764904378, delta_loss = 1746.3618
+17/06/03 21:07:33 INFO SBPRRecommender: SBPRRecommender iter 161: loss = 534956.5411975724, delta_loss = -793.3647
+17/06/03 21:07:34 INFO SBPRRecommender: SBPRRecommender iter 162: loss = 535458.6892730875, delta_loss = -502.14807
+17/06/03 21:07:34 INFO SBPRRecommender: SBPRRecommender iter 163: loss = 534419.1434007364, delta_loss = 1039.5459
+17/06/03 21:07:34 INFO SBPRRecommender: SBPRRecommender iter 164: loss = 534486.5852347706, delta_loss = -67.44183
+17/06/03 21:07:34 INFO SBPRRecommender: SBPRRecommender iter 165: loss = 534842.6746472828, delta_loss = -356.08942
+17/06/03 21:07:35 INFO SBPRRecommender: SBPRRecommender iter 166: loss = 534675.967430564, delta_loss = 166.70721
+17/06/03 21:07:35 INFO SBPRRecommender: SBPRRecommender iter 167: loss = 534296.0452825632, delta_loss = 379.92215
+17/06/03 21:07:35 INFO SBPRRecommender: SBPRRecommender iter 168: loss = 532943.8656016036, delta_loss = 1352.1797
+17/06/03 21:07:35 INFO SBPRRecommender: SBPRRecommender iter 169: loss = 536496.4818820182, delta_loss = -3552.6162
+17/06/03 21:07:36 INFO SBPRRecommender: SBPRRecommender iter 170: loss = 536284.1534589301, delta_loss = 212.32843
+17/06/03 21:07:36 INFO SBPRRecommender: SBPRRecommender iter 171: loss = 536740.6371084789, delta_loss = -456.48364
+17/06/03 21:07:36 INFO SBPRRecommender: SBPRRecommender iter 172: loss = 534254.5936740914, delta_loss = 2486.0435
+17/06/03 21:07:36 INFO SBPRRecommender: SBPRRecommender iter 173: loss = 535325.3052781302, delta_loss = -1070.7115
+17/06/03 21:07:37 INFO SBPRRecommender: SBPRRecommender iter 174: loss = 536736.0000636389, delta_loss = -1410.6948
+17/06/03 21:07:37 INFO SBPRRecommender: SBPRRecommender iter 175: loss = 535234.861518261, delta_loss = 1501.1385
+17/06/03 21:07:37 INFO SBPRRecommender: SBPRRecommender iter 176: loss = 533477.9502618794, delta_loss = 1756.9113
+17/06/03 21:07:37 INFO SBPRRecommender: SBPRRecommender iter 177: loss = 535662.4878356192, delta_loss = -2184.5376
+17/06/03 21:07:38 INFO SBPRRecommender: SBPRRecommender iter 178: loss = 533793.2839798098, delta_loss = 1869.2039
+17/06/03 21:07:38 INFO SBPRRecommender: SBPRRecommender iter 179: loss = 534503.6547702365, delta_loss = -710.3708
+17/06/03 21:07:38 INFO SBPRRecommender: SBPRRecommender iter 180: loss = 535928.3171045991, delta_loss = -1424.6624
+17/06/03 21:07:38 INFO SBPRRecommender: SBPRRecommender iter 181: loss = 535841.7702248777, delta_loss = 86.54688
+17/06/03 21:07:39 INFO SBPRRecommender: SBPRRecommender iter 182: loss = 536234.7209715643, delta_loss = -392.95074
+17/06/03 21:07:39 INFO SBPRRecommender: SBPRRecommender iter 183: loss = 536347.168841956, delta_loss = -112.44787
+17/06/03 21:07:39 INFO SBPRRecommender: SBPRRecommender iter 184: loss = 535552.14165077, delta_loss = 795.0272
+17/06/03 21:07:39 INFO SBPRRecommender: SBPRRecommender iter 185: loss = 535140.7790508337, delta_loss = 411.3626
+17/06/03 21:07:40 INFO SBPRRecommender: SBPRRecommender iter 186: loss = 535428.5305806423, delta_loss = -287.75153
+17/06/03 21:07:40 INFO SBPRRecommender: SBPRRecommender iter 187: loss = 535927.2420143355, delta_loss = -498.71143
+17/06/03 21:07:40 INFO SBPRRecommender: SBPRRecommender iter 188: loss = 535273.4240538855, delta_loss = 653.81793
+17/06/03 21:07:40 INFO SBPRRecommender: SBPRRecommender iter 189: loss = 534626.1047384728, delta_loss = 647.31934
+17/06/03 21:07:41 INFO SBPRRecommender: SBPRRecommender iter 190: loss = 535286.8879541353, delta_loss = -660.7832
+17/06/03 21:07:41 INFO SBPRRecommender: SBPRRecommender iter 191: loss = 536495.5115632638, delta_loss = -1208.6237
+17/06/03 21:07:41 INFO SBPRRecommender: SBPRRecommender iter 192: loss = 535685.566381475, delta_loss = 809.9452
+17/06/03 21:07:41 INFO SBPRRecommender: SBPRRecommender iter 193: loss = 534713.5861109863, delta_loss = 971.9803
+17/06/03 21:07:42 INFO SBPRRecommender: SBPRRecommender iter 194: loss = 535888.8481353021, delta_loss = -1175.2621
+17/06/03 21:07:42 INFO SBPRRecommender: SBPRRecommender iter 195: loss = 534907.6079339368, delta_loss = 981.2402
+17/06/03 21:07:42 INFO SBPRRecommender: SBPRRecommender iter 196: loss = 536124.4306072778, delta_loss = -1216.8226
+17/06/03 21:07:42 INFO SBPRRecommender: SBPRRecommender iter 197: loss = 536420.7149420432, delta_loss = -296.28433
+17/06/03 21:07:43 INFO SBPRRecommender: SBPRRecommender iter 198: loss = 536358.6802815644, delta_loss = 62.03466
+17/06/03 21:07:43 INFO SBPRRecommender: SBPRRecommender iter 199: loss = 535260.3491370152, delta_loss = 1098.3312
+17/06/03 21:07:43 INFO SBPRRecommender: SBPRRecommender iter 200: loss = 536305.6748231679, delta_loss = -1045.3257
+17/06/03 21:07:43 INFO SBPRRecommender: Job Train completed.
+17/06/03 21:07:44 INFO SBPRRecommender: Job End.
+17/06/03 21:07:44 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.618284405528982
+17/06/03 21:07:44 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9209523980823449
+17/06/03 21:07:44 INFO RecommenderJob: Evaluator value:AP top 10 is 0.45459605537529113
+17/06/03 21:07:44 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.548731656985866
+17/06/03 21:07:44 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6058346174565595
+17/06/03 21:07:44 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34246250986582605
+17/06/03 21:07:44 INFO RecommenderJob: Result path is result/filmtrust/rating-sbpr-output/sbpr

@@ -1,0 +1,63 @@
+17/06/03 16:29:55 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 16:29:55 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 16:29:55 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 16:29:55 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 16:29:55 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 16:29:55 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 16:29:55 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 16:29:55 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 16:29:55 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 16:29:55 INFO TextDataModel: Data size of training is 28408
+17/06/03 16:29:55 INFO TextDataModel: Data size of testing is 7086
+17/06/03 16:29:55 INFO AspectModelRecommender: Job Setup completed.
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 17
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 47
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 4
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 40
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 4
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 21
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 4
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 19
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 5
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 20
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 4
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 23
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 4
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 20
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 19
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 18
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 19
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 19
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 22
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 22
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 21
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 4
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 24
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 4
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 19
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 19
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 19
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 19
+17/06/03 16:29:55 INFO AspectModelRecommender: eStep time is 3
+17/06/03 16:29:55 INFO AspectModelRecommender: mStep time is 20
+17/06/03 16:29:55 INFO AspectModelRecommender: readoutParams time is 0
+17/06/03 16:29:55 INFO AspectModelRecommender: estimateParams time is 0
+17/06/03 16:29:55 INFO AspectModelRecommender: Job Train completed.
+17/06/03 16:29:56 INFO AspectModelRecommender: Job End.
+17/06/03 16:29:56 INFO RecommenderJob: Evaluator value:AP top 10 is 0.4479732267516024
+17/06/03 16:29:56 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6002944087395553
+17/06/03 16:29:56 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34577742699289815
+17/06/03 16:29:56 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6228564330714795
+17/06/03 16:29:56 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9268735589793027
+17/06/03 16:29:56 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5454329551450559
+17/06/03 16:29:56 INFO RecommenderJob: Result path is result/filmtrust/rating-aspectmodelranking-output/aspectmodelranking

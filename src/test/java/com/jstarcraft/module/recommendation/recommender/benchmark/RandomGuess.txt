@@ -1,0 +1,19 @@
+17/06/03 16:06:57 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 16:06:57 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 16:06:57 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 16:06:57 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 16:06:58 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 16:06:58 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 16:06:58 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 16:06:58 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 16:06:58 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 16:06:58 INFO TextDataModel: Data size of training is 28408
+17/06/03 16:06:58 INFO TextDataModel: Data size of testing is 7086
+17/06/03 16:06:58 INFO RandomGuessRecommender: Job Setup completed.
+17/06/03 16:06:58 INFO RandomGuessRecommender: Job Train completed.
+17/06/03 16:06:58 INFO RandomGuessRecommender: Job End.
+17/06/03 16:06:58 INFO RecommenderJob: Evaluator value:MPE is 0.9961896697713802
+17/06/03 16:06:58 INFO RecommenderJob: Evaluator value:RMSE is 1.572256549107645
+17/06/03 16:06:58 INFO RecommenderJob: Evaluator value:MAE is 1.293515302260018
+17/06/03 16:06:58 INFO RecommenderJob: Evaluator value:MSE is 2.4719906562118803
+17/06/03 16:06:58 INFO RecommenderJob: Result path is result/filmtrust/rating-randomguess-output/randomguess

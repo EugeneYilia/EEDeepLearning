@@ -1,0 +1,16 @@
+17/05/28 18:47:26 INFO TextDataConvertor: Dataset: data/movielens/ml-100k/ratings.txt
+17/05/28 18:47:26 INFO TextDataConvertor: All dataset files [data\movielens\ml-100k\ratings.txt]
+17/05/28 18:47:26 INFO TextDataConvertor: All dataset files size 2079173
+17/05/28 18:47:26 INFO TextDataConvertor: Now loading dataset file ratings
+17/05/28 18:47:27 INFO TextDataModel: Transform data to Convertor successfully!
+17/05/28 18:47:27 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/05/28 18:47:27 INFO TextDataModel: Data size of training is 80019
+17/05/28 18:47:27 INFO TextDataModel: Data size of testing is 19981
+17/05/28 18:47:28 INFO RBMRecommender: Job Setup completed.
+17/05/28 18:48:06 INFO RBMRecommender: Job Train completed.
+17/05/28 18:48:14 INFO RBMRecommender: Job End.
+17/05/28 18:48:14 INFO RecommenderJob: Evaluator value:RMSE is 1.4507167671856693
+17/05/28 18:48:14 INFO RecommenderJob: Evaluator value:MSE is 2.1045791385936394
+17/05/28 18:48:14 INFO RecommenderJob: Evaluator value:MAE is 1.1342940350471358
+17/05/28 18:48:14 INFO RecommenderJob: Evaluator value:MPE is 0.9154696962114008
+17/05/28 18:48:14 INFO RecommenderJob: Result path is result/movielens/ml-100k/ratings.txt-rbm-output/rbm

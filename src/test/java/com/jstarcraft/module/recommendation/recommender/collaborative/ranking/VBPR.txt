@@ -1,0 +1,45 @@
+17/08/10 16:10:39 INFO VBPRRecommender: VBPRRecommender iter 1: loss = 34689.0594931562, delta_loss = -34689.06
+17/08/10 16:12:00 INFO VBPRRecommender: VBPRRecommender iter 2: loss = 25998.899892349087, delta_loss = 8690.159
+17/08/10 16:13:18 INFO VBPRRecommender: VBPRRecommender iter 3: loss = 25881.767378769346, delta_loss = 117.132515
+17/08/10 16:14:37 INFO VBPRRecommender: VBPRRecommender iter 4: loss = 25762.286372486968, delta_loss = 119.481
+17/08/10 16:15:56 INFO VBPRRecommender: VBPRRecommender iter 5: loss = 25656.875989879398, delta_loss = 105.410385
+17/08/10 16:26:45 INFO RankTask: Evaluator value:NormalizedDCGEvaluator is 0.01896834067931156
+17/08/10 16:26:45 INFO RankTask: Evaluator value:RecallEvaluator is 0.02437955654565731
+17/08/10 16:26:45 INFO RankTask: Evaluator value:AUCEvaluator is 0.5439959575846451
+17/08/10 16:26:45 INFO RankTask: Evaluator value:AveragePrecisionEvaluator is 0.009113549861454573
+17/08/10 16:26:45 INFO RankTask: Evaluator value:ReciprocalRankEvaluator is 0.03248825468689647
+17/08/10 16:26:45 INFO RankTask: Evaluator value:PrecisionEvaluator is 0.010979060554612396
+
+17/08/10 12:48:34 INFO VBPRRecommender: VBPRRecommender iter 1: loss = 34689.47909124508, delta_loss = -34689.48
+17/08/10 12:50:09 INFO VBPRRecommender: VBPRRecommender iter 2: loss = 26001.88279714644, delta_loss = 8687.597
+17/08/10 12:51:42 INFO VBPRRecommender: VBPRRecommender iter 3: loss = 25889.702900528664, delta_loss = 112.17989
+17/08/10 12:53:15 INFO VBPRRecommender: VBPRRecommender iter 4: loss = 25777.21958890382, delta_loss = 112.483315
+17/08/10 12:54:48 INFO VBPRRecommender: VBPRRecommender iter 5: loss = 25680.04542326043, delta_loss = 97.174164
+17/08/10 13:21:50 INFO RankTask: Evaluator value:NormalizedDCGEvaluator is 0.01897222154438545
+17/08/10 13:21:50 INFO RankTask: Evaluator value:RecallEvaluator is 0.02437955654565731
+17/08/10 13:21:50 INFO RankTask: Evaluator value:AUCEvaluator is 0.5439959575846451
+17/08/10 13:21:50 INFO RankTask: Evaluator value:ReciprocalRankEvaluator is 0.03250779277943965
+17/08/10 13:21:50 INFO RankTask: Evaluator value:PrecisionEvaluator is 0.010979060554612396
+17/08/10 13:21:50 INFO RankTask: Evaluator value:AveragePrecisionEvaluator is 0.009114139372867511
+
+
+[INFO ] 2017-08-09 17:44:46,344 -- Dataset: ratings_Office_Productsbyuser.txt
+[DEBUG] 2017-08-09 17:44:46,590 -- With Specs: {Users, Items, Ratings} = {3714, 18823, 65582}, Scale = {1.0}
+[INFO ] 2017-08-09 17:44:46,671 -- With Setup: given-ratio -r 0.8 -target r --rand-seed 1 --test-view all
+[DEBUG] 2017-08-09 17:44:46,724 -- training amount: 52563, test amount: 13019
+1.0E-4
+28.2536
+[DEBUG] 2017-08-09 17:45:30,135 -- VBPR: [numFactors, initLRate,regU, regI, regB, lambdaE,numIters ] = [20, 0.001, 0.1, 0.1, 0.1, 1000.0, 5]
+[DEBUG] 2017-08-09 17:46:58,744 -- VBPR iter 1: loss = 34755.38, delta_loss = -34755.38, learn_rate = 0.001
+[DEBUG] 2017-08-09 17:48:23,457 -- VBPR iter 2: loss = 26003.99, delta_loss = 8751.389, learn_rate = 0.001
+[DEBUG] 2017-08-09 17:49:48,332 -- VBPR iter 3: loss = 25894.223, delta_loss = 109.76688, learn_rate = 0.001
+[DEBUG] 2017-08-09 17:51:12,754 -- VBPR iter 4: loss = 25777.875, delta_loss = 116.34924, learn_rate = 0.001
+[DEBUG] 2017-08-09 17:52:36,764 -- VBPR iter 5: loss = 25674.447, delta_loss = 103.42669, learn_rate = 0.001
+[DEBUG] 2017-08-09 17:52:38,022 -- VBPR evaluate test data ... 
+[DEBUG] 2017-08-09 17:52:38,025 -- VBPR has candidate items: 18823
+[DEBUG] 2017-08-09 18:24:32,547 -- VBPR evaluates progress: 3714 / 3714
+{Pre10=0.010289937464468497}
+{TestTime=1915043.0, Pre10=0.010289937464468497, TrainTime=471277.0}
+[INFO ] 2017-08-09 18:24:33,101 -- VBPR,0.010290,,20, 0.001, 0.1, 0.1, 0.1, 1000.0, 5,'07:51','31:55'
+
+Program librec2.0alpha3.vbpr [2013-2016092703@192.168.0.167] has completed!

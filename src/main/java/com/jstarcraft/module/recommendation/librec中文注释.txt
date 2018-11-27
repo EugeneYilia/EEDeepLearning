@@ -1,0 +1,132 @@
+data
+	convertor	数据转换器
+	ArffDataConvertor	(Attribute-Relation File Format)
+						[weka数据挖掘拾遗]
+						http://www.cnblogs.com/nocml/p/3545373.html
+						http://www.cnblogs.com/nocml/p/3545611.html
+						http://www.cnblogs.com/nocml/p/4524918.html
+	TextDataConvertor	使用Jackson兼容对json,xml以及csv文本类型的支持
+	splitter	数据分离器
+	GivenNDataSplitter	TopN
+	KCVDataSplitter		K-折交叉验证(K-fold Cross Validation)
+						http://blog.csdn.net/u010451580/article/details/51373081
+	LOOCVDataSplitter	留一交叉验证(Leave-one-out Cross Validation)
+						http://blog.csdn.net/u010451580/article/details/51373081
+	RatioDataSplitter	比例
+
+eval		评估
+	raking
+	AUCEvaluator						ROC曲线下的面积(Area Under roc Curve)
+	AveragePrecisionEvaluator			平均准确率均值(Mean Average Precision)
+	AverageReciprocalHitRankEvaluator	平均排序倒数(Average Reciprocal Hit Rank)
+	DiversityEvaluator					多样性
+	HitRateEvaluator					命中率
+	IdealDCGEvaluator					(Ideal Discounted Cumulative Gain)
+	NormalizedDCGEvaluator				(Normalized Discounted Cumulative Gain)
+	PrecisionEvaluator					准确率
+	RecallEvaluator						召回率
+	ReciprocalRankEvaluator				平均倒数排名(Mean Reciprocal Rank)
+
+	rating
+	MAEEvaluator		绝对平均误差(Mean Absolute Error)
+	MPEEvaluator		平均相对误差(Mean Prediction  Error)
+	MSEEvaluator		均方误差 (Mean Squared Error)
+	RMSEEvaluator		均方根误差(Root Mean Squared Error)
+
+math
+	algorithm
+	Gamma				伽玛函数
+	Gaussian			高斯分布概率密度函数(PDF)和累积分布函数(CDF)
+						http://www.ithao123.cn/content-3783268.html
+	KernelSmoothing		核平滑-用于低秩矩阵
+	Sims				相似度指标
+	Shuffle				洗牌
+	SVD					奇异值分解
+
+	structure
+	DenseMatrix			稠密矩阵
+	DenseVector			稠密向量
+	DiagMatrix			对角矩阵
+	SparseMatrix		稀疏矩阵
+						http://blog.csdn.net/wangjian1204/article/details/52149199
+	SparseTensor		稀疏张量
+	SparseVector		稀疏向量
+	SymmMatrix			对称矩阵
+
+recommender
+	FactorizationMachineRecommender		隐因子分解机
+										https://my.oschina.net/keyven/blog/648747
+										http://blog.csdn.net/itplus/article/details/40534885
+	MatrixFactorizationRecommender		矩阵分解
+	ProbabilisticGraphicalRecommender	概率图模型
+	SocialRecommender					社交
+	TensorRecommender					张量
+	
+	baseline
+	ConstantGuessRecommender		固定猜
+	GlobalAverageRecommender		全局平均
+	
+	cf
+	ranking
+	AoBPRRecommender				基于自适应采样的贝叶斯个性化排序(Bayesian Personalized Ranking with Adaptive Oversampling)
+	AspectModelRecommender			隐含类别模型(Latent Class Model)
+	BPRRecommender					贝叶斯个性化排序(Bayesian Personalized Ranking)
+									http://liuzhiqiangruc.iteye.com/blog/2073526
+	CLIMFRecommender				协同少则多(Collaborative Less-is-More)
+	EALSRecommender					Efficient Alternating Least Square
+	FISMaucRecommender				基于AUC的Factored Item Similarity Models
+	FISMrmseRecommender				基于RMSE的Factored Item Similarity Models
+	GBPRRecommender					基于群体偏好的贝叶斯个性化排序(Group Preference Based Bayesian Personalized Ranking)
+									http://blog.csdn.net/qq_20599123/article/details/52890249
+	ItemBigramRecommender			超越词袋(Beyond Bag of Words:BoW)
+									http://www.cnblogs.com/platero/archive/2012/12/03/2800251.html
+	LDARecommender					Latent Dirichlet Allocation
+									http://yuedu.baidu.com/ebook/d0b441a8ccbff121dd36839a?fr=booklist
+									http://blog.csdn.net/happyer88/article/details/45936107
+	PLSARecommender					概率潜在语义分析(Probability Latent Semantic Analysis)
+									http://blog.csdn.net/yangliuy/article/details/8330640
+	ListwiseMFRecommender			
+									http://www.cnblogs.com/kemaswill/archive/2013/06/01/3109497.html
+	RankALSRecommender				交替最小二乘法(ALS Alternating Least Squares)
+	RankSGDRecommender				随机梯度下降法(SGD Stochastic Gradient Descend)
+				
+	rating
+	AspectModelRecommender			隐含类别模型(Latent Class Model)
+	ASVDPlusPlusRecommender			非对称奇异值分解(Asymmetric SVD++)
+	FMALSRecommender				交替最小二乘法(ALS Alternating Least Squares)
+									http://blog.csdn.net/itplus/article/details/40534885
+	FMSGDRecommender				随机梯度下降法(SGD Stochastic Gradient Descend)
+									http://blog.csdn.net/itplus/article/details/40534885
+	
+	LLORMARecommender				局部低秩矩阵逼近(Local Low-Rank Matrix Approximation)
+									https://www.zhihu.com/question/28630628
+	NMFRecommender					非负矩阵分解(Non-negative Matrix Factorization)
+	PMFRecommender					概率矩阵分解(Probabilistic Matrix Factorization)
+	SVDPlusPlusRecommender			奇异值分解(Singular Value Decomposition)
+									http://sanwen8.cn/p/1adUbn0.html
+							
+	content
+	HFTRecommender					Hidden Factors as Topics
+									http://www.bbcyw.com/p-3095228.html
+								
+	ext
+	AssociationRuleRecommender		关联规则(Association Rule)
+	PersonalityDiagnosisRecommender	人格诊断(Personality Diagnosis)
+	PRankDRecommender				(Personalised Rank, 似乎与Personal Rank有联系)
+									
+	context
+	rating
+	TimeSVDRecommender				时间感知
+	
+
+
+similarity
+	CosineSimilarity				余弦相似度
+	CPCSimilarity					Constrained Pearson Correlation
+	DiceCoefficientSimilarity		骰子系数
+	ExJaccardSimilarity				扩展雅可比
+	JaccardSimilarity				雅可比
+	KRCCSimilarity					肯德尔等级相关系数
+	MSDSimilarity
+	MSESimilarity					均方误差 (Mean Squared Error)
+	PCCSimilarity					皮尔逊相关系数(Pearson Correlation Coefficient)

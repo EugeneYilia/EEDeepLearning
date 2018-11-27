@@ -1,0 +1,358 @@
+17/08/25 15:03:03 INFO TextDataConvertor: Dataset: ../data/filmtrust/rating
+17/08/25 15:03:03 INFO TextDataConvertor: All dataset files [..\data\filmtrust\rating\ratings_0.txt, ..\data\filmtrust\rating\ratings_1.txt, ..\data\filmtrust\rating\ratings_2.txt, ..\data\filmtrust\rating\ratings_3.txt]
+17/08/25 15:03:03 INFO TextDataConvertor: All dataset files size 411942
+17/08/25 15:03:03 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/08/25 15:03:03 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/08/25 15:03:03 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/08/25 15:03:03 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/08/25 15:03:03 INFO TextDataModel: Transform data to Convertor successfully!
+17/08/25 15:03:03 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/08/25 15:03:03 INFO TextDataModel: Data size of training is 28408
+17/08/25 15:03:03 INFO TextDataModel: Data size of testing is 7086
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+17/08/25 15:03:04 INFO CDAERecommender: Job Setup completed.
+17/08/25 15:03:06 INFO CDAERecommender: CDAERecommender iter 1: loss = 0.05286901476828518, delta_loss = -0.052869014
+17/08/25 15:03:06 INFO CDAERecommender: CDAERecommender iter 2: loss = 0.05201604983540751, delta_loss = 8.5296493E-4
+17/08/25 15:03:06 INFO CDAERecommender: CDAERecommender iter 3: loss = 0.05082178613269519, delta_loss = 0.0011942637
+17/08/25 15:03:07 INFO CDAERecommender: CDAERecommender iter 4: loss = 0.04934252308776792, delta_loss = 0.0014792631
+17/08/25 15:03:07 INFO CDAERecommender: CDAERecommender iter 5: loss = 0.04763148445749574, delta_loss = 0.0017110386
+17/08/25 15:03:07 INFO CDAERecommender: CDAERecommender iter 6: loss = 0.04574012376586618, delta_loss = 0.0018913607
+17/08/25 15:03:07 INFO CDAERecommender: CDAERecommender iter 7: loss = 0.043713686242507085, delta_loss = 0.0020264375
+17/08/25 15:03:07 INFO CDAERecommender: CDAERecommender iter 8: loss = 0.04159599284567045, delta_loss = 0.0021176934
+17/08/25 15:03:07 INFO CDAERecommender: CDAERecommender iter 9: loss = 0.03942460470291366, delta_loss = 0.0021713881
+17/08/25 15:03:08 INFO CDAERecommender: CDAERecommender iter 10: loss = 0.037234306761663324, delta_loss = 0.002190298
+17/08/25 15:03:08 INFO CDAERecommender: CDAERecommender iter 11: loss = 0.03505347438972608, delta_loss = 0.0021808324
+17/08/25 15:03:08 INFO CDAERecommender: CDAERecommender iter 12: loss = 0.03290846076949217, delta_loss = 0.0021450135
+17/08/25 15:03:08 INFO CDAERecommender: CDAERecommender iter 13: loss = 0.03081868264888698, delta_loss = 0.0020897782
+17/08/25 15:03:08 INFO CDAERecommender: CDAERecommender iter 14: loss = 0.02880067649251164, delta_loss = 0.002018006
+17/08/25 15:03:08 INFO CDAERecommender: CDAERecommender iter 15: loss = 0.026869188572959474, delta_loss = 0.0019314879
+17/08/25 15:03:08 INFO CDAERecommender: CDAERecommender iter 16: loss = 0.02503335114788616, delta_loss = 0.0018358374
+17/08/25 15:03:09 INFO CDAERecommender: CDAERecommender iter 17: loss = 0.023299321497751244, delta_loss = 0.0017340296
+17/08/25 15:03:09 INFO CDAERecommender: CDAERecommender iter 18: loss = 0.02167261989637355, delta_loss = 0.0016267016
+17/08/25 15:03:09 INFO CDAERecommender: CDAERecommender iter 19: loss = 0.020155920924216354, delta_loss = 0.001516699
+17/08/25 15:03:09 INFO CDAERecommender: CDAERecommender iter 20: loss = 0.01874988821844795, delta_loss = 0.0014060327
+17/08/25 15:03:09 INFO CDAERecommender: CDAERecommender iter 21: loss = 0.017453801772216084, delta_loss = 0.0012960865
+17/08/25 15:03:10 INFO CDAERecommender: CDAERecommender iter 22: loss = 0.016265594133062954, delta_loss = 0.0011882077
+17/08/25 15:03:10 INFO CDAERecommender: CDAERecommender iter 23: loss = 0.015181771777818764, delta_loss = 0.0010838223
+17/08/25 15:03:10 INFO CDAERecommender: CDAERecommender iter 24: loss = 0.014197996880764362, delta_loss = 9.837749E-4
+17/08/25 15:03:10 INFO CDAERecommender: CDAERecommender iter 25: loss = 0.01330856478708854, delta_loss = 8.894321E-4
+17/08/25 15:03:10 INFO CDAERecommender: CDAERecommender iter 26: loss = 0.012508801125192303, delta_loss = 7.9976366E-4
+17/08/25 15:03:10 INFO CDAERecommender: CDAERecommender iter 27: loss = 0.011793224777058773, delta_loss = 7.1557635E-4
+17/08/25 15:03:11 INFO CDAERecommender: CDAERecommender iter 28: loss = 0.011156182487702776, delta_loss = 6.370423E-4
+17/08/25 15:03:11 INFO CDAERecommender: CDAERecommender iter 29: loss = 0.010591769251002482, delta_loss = 5.6441326E-4
+17/08/25 15:03:11 INFO CDAERecommender: CDAERecommender iter 30: loss = 0.010094152696148497, delta_loss = 4.9761654E-4
+17/08/25 15:03:11 INFO CDAERecommender: CDAERecommender iter 31: loss = 0.009657634600263441, delta_loss = 4.365181E-4
+17/08/25 15:03:11 INFO CDAERecommender: CDAERecommender iter 32: loss = 0.00927672326950434, delta_loss = 3.8091134E-4
+17/08/25 15:03:11 INFO CDAERecommender: CDAERecommender iter 33: loss = 0.008946096154840657, delta_loss = 3.306271E-4
+17/08/25 15:03:12 INFO CDAERecommender: CDAERecommender iter 34: loss = 0.008660322182116332, delta_loss = 2.8577397E-4
+17/08/25 15:03:12 INFO CDAERecommender: CDAERecommender iter 35: loss = 0.008414923708571874, delta_loss = 2.4539846E-4
+17/08/25 15:03:12 INFO CDAERecommender: CDAERecommender iter 36: loss = 0.008205446463828954, delta_loss = 2.0947725E-4
+17/08/25 15:03:12 INFO CDAERecommender: CDAERecommender iter 37: loss = 0.008027813412210493, delta_loss = 1.7763305E-4
+17/08/25 15:03:12 INFO CDAERecommender: CDAERecommender iter 38: loss = 0.007878182270877217, delta_loss = 1.4963115E-4
+17/08/25 15:03:12 INFO CDAERecommender: CDAERecommender iter 39: loss = 0.007753133148643729, delta_loss = 1.2504912E-4
+17/08/25 15:03:12 INFO CDAERecommender: CDAERecommender iter 40: loss = 0.0076492852694165035, delta_loss = 1.0384788E-4
+17/08/25 15:03:13 INFO CDAERecommender: CDAERecommender iter 41: loss = 0.007563979070332962, delta_loss = 8.53062E-5
+17/08/25 15:03:13 INFO CDAERecommender: CDAERecommender iter 42: loss = 0.007494562158194517, delta_loss = 6.9416914E-5
+17/08/25 15:03:13 INFO CDAERecommender: CDAERecommender iter 43: loss = 0.007438687279202448, delta_loss = 5.587488E-5
+17/08/25 15:03:13 INFO CDAERecommender: CDAERecommender iter 44: loss = 0.007394227794451684, delta_loss = 4.4459484E-5
+17/08/25 15:03:13 INFO CDAERecommender: CDAERecommender iter 45: loss = 0.007359492445942946, delta_loss = 3.473535E-5
+17/08/25 15:03:14 INFO CDAERecommender: CDAERecommender iter 46: loss = 0.007332760297635907, delta_loss = 2.6732148E-5
+17/08/25 15:03:14 INFO CDAERecommender: CDAERecommender iter 47: loss = 0.007312819214711905, delta_loss = 1.9941082E-5
+17/08/25 15:03:14 INFO CDAERecommender: CDAERecommender iter 48: loss = 0.007298345036734258, delta_loss = 1.4474178E-5
+17/08/25 15:03:14 INFO CDAERecommender: CDAERecommender iter 49: loss = 0.007288412028374106, delta_loss = 9.933008E-6
+17/08/25 15:03:14 INFO CDAERecommender: CDAERecommender iter 50: loss = 0.0072820480054068045, delta_loss = 6.364023E-6
+17/08/25 15:03:14 INFO CDAERecommender: CDAERecommender iter 51: loss = 0.00727847257541967, delta_loss = 3.57543E-6
+17/08/25 15:03:14 INFO CDAERecommender: CDAERecommender iter 52: loss = 0.007277058932372839, delta_loss = 1.4136431E-6
+17/08/25 15:03:15 INFO CDAERecommender: CDAERecommender iter 53: loss = 0.007277196322674192, delta_loss = -1.373903E-7
+17/08/25 15:03:15 INFO CDAERecommender: CDAERecommender iter 54: loss = 0.007278463848910935, delta_loss = -1.2675263E-6
+17/08/25 15:03:15 INFO CDAERecommender: CDAERecommender iter 55: loss = 0.007280506263998764, delta_loss = -2.0424152E-6
+17/08/25 15:03:15 INFO CDAERecommender: CDAERecommender iter 56: loss = 0.007282988303514267, delta_loss = -2.4820395E-6
+17/08/25 15:03:15 INFO CDAERecommender: CDAERecommender iter 57: loss = 0.007285664767037209, delta_loss = -2.6764635E-6
+17/08/25 15:03:15 INFO CDAERecommender: CDAERecommender iter 58: loss = 0.007288383842051259, delta_loss = -2.719075E-6
+17/08/25 15:03:16 INFO CDAERecommender: CDAERecommender iter 59: loss = 0.0072910176050349626, delta_loss = -2.633763E-6
+17/08/25 15:03:16 INFO CDAERecommender: CDAERecommender iter 60: loss = 0.007293454749909651, delta_loss = -2.437145E-6
+17/08/25 15:03:16 INFO CDAERecommender: CDAERecommender iter 61: loss = 0.007295639374881044, delta_loss = -2.184625E-6
+17/08/25 15:03:16 INFO CDAERecommender: CDAERecommender iter 62: loss = 0.007297479544382123, delta_loss = -1.8401695E-6
+17/08/25 15:03:16 INFO CDAERecommender: CDAERecommender iter 63: loss = 0.007298988714369234, delta_loss = -1.50917E-6
+17/08/25 15:03:17 INFO CDAERecommender: CDAERecommender iter 64: loss = 0.0073001576289875095, delta_loss = -1.1689147E-6
+17/08/25 15:03:17 INFO CDAERecommender: CDAERecommender iter 65: loss = 0.007300956411384848, delta_loss = -7.987824E-7
+17/08/25 15:03:17 INFO CDAERecommender: CDAERecommender iter 66: loss = 0.007301442525359052, delta_loss = -4.8611395E-7
+17/08/25 15:03:17 INFO CDAERecommender: CDAERecommender iter 67: loss = 0.007301609261323415, delta_loss = -1.6673596E-7
+17/08/25 15:03:17 INFO CDAERecommender: CDAERecommender iter 68: loss = 0.007301492574485744, delta_loss = 1.16686834E-7
+17/08/25 15:03:17 INFO CDAERecommender: CDAERecommender iter 69: loss = 0.007301124056990883, delta_loss = 3.685175E-7
+17/08/25 15:03:18 INFO CDAERecommender: CDAERecommender iter 70: loss = 0.00730053527478054, delta_loss = 5.887822E-7
+17/08/25 15:03:18 INFO CDAERecommender: CDAERecommender iter 71: loss = 0.007299754794832999, delta_loss = 7.804799E-7
+17/08/25 15:03:18 INFO CDAERecommender: CDAERecommender iter 72: loss = 0.007298804663992255, delta_loss = 9.5013087E-7
+17/08/25 15:03:18 INFO CDAERecommender: CDAERecommender iter 73: loss = 0.00729772898000225, delta_loss = 1.0756839E-6
+17/08/25 15:03:18 INFO CDAERecommender: CDAERecommender iter 74: loss = 0.007296569361632619, delta_loss = 1.1596184E-6
+17/08/25 15:03:18 INFO CDAERecommender: CDAERecommender iter 75: loss = 0.00729533322118641, delta_loss = 1.2361404E-6
+17/08/25 15:03:18 INFO CDAERecommender: CDAERecommender iter 76: loss = 0.007294057515468753, delta_loss = 1.2757057E-6
+17/08/25 15:03:19 INFO CDAERecommender: CDAERecommender iter 77: loss = 0.007292726402063873, delta_loss = 1.3311134E-6
+17/08/25 15:03:19 INFO CDAERecommender: CDAERecommender iter 78: loss = 0.007291396576990152, delta_loss = 1.3298251E-6
+17/08/25 15:03:19 INFO CDAERecommender: CDAERecommender iter 79: loss = 0.00729007875053384, delta_loss = 1.3178264E-6
+17/08/25 15:03:19 INFO CDAERecommender: CDAERecommender iter 80: loss = 0.007288773311060419, delta_loss = 1.3054395E-6
+17/08/25 15:03:19 INFO CDAERecommender: CDAERecommender iter 81: loss = 0.007287499478189704, delta_loss = 1.2738328E-6
+17/08/25 15:03:19 INFO CDAERecommender: CDAERecommender iter 82: loss = 0.007286280128221564, delta_loss = 1.21935E-6
+17/08/25 15:03:20 INFO CDAERecommender: CDAERecommender iter 83: loss = 0.0072851020699743, delta_loss = 1.1780583E-6
+17/08/25 15:03:20 INFO CDAERecommender: CDAERecommender iter 84: loss = 0.0072839759406631965, delta_loss = 1.1261293E-6
+17/08/25 15:03:20 INFO CDAERecommender: CDAERecommender iter 85: loss = 0.007282913922065544, delta_loss = 1.0620186E-6
+17/08/25 15:03:20 INFO CDAERecommender: CDAERecommender iter 86: loss = 0.007281902696386874, delta_loss = 1.0112257E-6
+17/08/25 15:03:20 INFO CDAERecommender: CDAERecommender iter 87: loss = 0.007280952528014382, delta_loss = 9.501684E-7
+17/08/25 15:03:21 INFO CDAERecommender: CDAERecommender iter 88: loss = 0.00728008730889906, delta_loss = 8.6521914E-7
+17/08/25 15:03:21 INFO CDAERecommender: CDAERecommender iter 89: loss = 0.007279277360889755, delta_loss = 8.09948E-7
+17/08/25 15:03:21 INFO CDAERecommender: CDAERecommender iter 90: loss = 0.007278519620741077, delta_loss = 7.5774017E-7
+17/08/25 15:03:21 INFO CDAERecommender: CDAERecommender iter 91: loss = 0.00727781284325873, delta_loss = 7.067775E-7
+17/08/25 15:03:21 INFO CDAERecommender: CDAERecommender iter 92: loss = 0.007277163775360488, delta_loss = 6.490679E-7
+17/08/25 15:03:21 INFO CDAERecommender: CDAERecommender iter 93: loss = 0.007276561766631916, delta_loss = 6.0200875E-7
+17/08/25 15:03:22 INFO CDAERecommender: CDAERecommender iter 94: loss = 0.0072759968096337444, delta_loss = 5.64957E-7
+17/08/25 15:03:22 INFO CDAERecommender: CDAERecommender iter 95: loss = 0.007275489622878375, delta_loss = 5.0718677E-7
+17/08/25 15:03:22 INFO CDAERecommender: CDAERecommender iter 96: loss = 0.007275035897168558, delta_loss = 4.537257E-7
+17/08/25 15:03:22 INFO CDAERecommender: CDAERecommender iter 97: loss = 0.00727462547984913, delta_loss = 4.1041733E-7
+17/08/25 15:03:22 INFO CDAERecommender: CDAERecommender iter 98: loss = 0.007274236788013133, delta_loss = 3.8869183E-7
+17/08/25 15:03:22 INFO CDAERecommender: CDAERecommender iter 99: loss = 0.007273920374714786, delta_loss = 3.164133E-7
+17/08/25 15:03:22 INFO CDAERecommender: CDAERecommender iter 100: loss = 0.007273610097546648, delta_loss = 3.1027716E-7
+17/08/25 15:03:23 INFO CDAERecommender: Job Train completed.
+17/08/25 15:03:23 INFO CDAERecommender: Job End.
+17/08/25 15:03:23 INFO RecommenderJob: Evaluator value:AP top 5 is 0.4075217048145227
+17/08/25 15:03:23 INFO RecommenderJob: Evaluator value:PRECISION top 5 is 0.39873717442777984
+17/08/25 15:03:23 INFO RecommenderJob: Evaluator value:AUC top 5 is 0.8691491879508602
+17/08/25 15:03:23 INFO RecommenderJob: Evaluator value:NDCG top 5 is 0.47690616611217873
+17/08/25 15:03:23 INFO RecommenderJob: Evaluator value:RR top 5 is 0.5563141278610899
+17/08/25 15:03:23 INFO RecommenderJob: Evaluator value:RECALL top 5 is 0.3845170475018445
+17/08/25 15:03:23 INFO RecommenderJob: Result path is ../result/filmtrust/rating-cdae-output/cdae
+
+12:21:50 [main] INFO (Nd4jBackend.java:194) - Loaded [CpuBackend] backend
+12:21:50 [main] INFO (Reflections.java:229) - Reflections took 257 ms to scan 192 urls, producing 62935 keys and 68416 values 
+12:21:50 [main] INFO (NativeOpsHolder.java:49) - Number of threads used for NativeOps: 4
+12:21:50 [main] INFO (Reflections.java:229) - Reflections took 67 ms to scan 13 urls, producing 31 keys and 227 values 
+12:21:50 [main] INFO (Nd4jBlas.java:37) - Number of threads used for BLAS: 4
+12:21:50 [main] INFO (DefaultOpExecutioner.java:565) - Backend used: [CPU]; OS: [Windows 7]
+12:21:50 [main] INFO (DefaultOpExecutioner.java:566) - Cores: [4]; Memory: [1.8GB];
+12:21:50 [main] INFO (DefaultOpExecutioner.java:567) - Blas vendor: [OPENBLAS]
+12:21:51 [pool-4-thread-2] INFO (Reflections.java:229) - Reflections took 152 ms to scan 13 urls, producing 387 keys and 1538 values 
+12:21:58 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 1: loss = 0.058762565484128365, delta_loss = -0.058762565484128365
+12:22:04 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 2: loss = 0.0541234553486594, delta_loss = 0.004639110135468964
+12:22:11 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 3: loss = 0.04992353633302665, delta_loss = 0.0041999190156327484
+12:22:17 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 4: loss = 0.046144443346977614, delta_loss = 0.003779092986049039
+12:22:23 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 5: loss = 0.04272123637249835, delta_loss = 0.003423206974479266
+12:22:30 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 6: loss = 0.03963663448236217, delta_loss = 0.0030846018901361794
+12:22:36 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 7: loss = 0.03683868766895637, delta_loss = 0.0027979468134057967
+12:22:42 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 8: loss = 0.034316067722613385, delta_loss = 0.002522619946342987
+12:22:48 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 9: loss = 0.03204051556740553, delta_loss = 0.0022755521552078536
+12:22:55 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 10: loss = 0.029981630811424312, delta_loss = 0.002058884755981219
+12:23:01 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 11: loss = 0.028115688870833738, delta_loss = 0.0018659419405905736
+12:23:07 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 12: loss = 0.026431043498431412, delta_loss = 0.0016846453724023262
+12:23:13 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 13: loss = 0.02490478844965643, delta_loss = 0.0015262550487749812
+12:23:19 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 14: loss = 0.0235246433502799, delta_loss = 0.0013801450993765306
+12:23:25 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 15: loss = 0.022279169726867474, delta_loss = 0.0012454736234124263
+12:23:31 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 16: loss = 0.02114645478220341, delta_loss = 0.0011327149446640622
+12:23:38 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 17: loss = 0.020123228871555557, delta_loss = 0.0010232259106478549
+12:23:44 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 18: loss = 0.019202561712498734, delta_loss = 9.206671590568233E-4
+12:23:50 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 19: loss = 0.018365306432669537, delta_loss = 8.372552798291966E-4
+12:23:56 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 20: loss = 0.017605970199426276, delta_loss = 7.593362332432609E-4
+12:24:02 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 21: loss = 0.01691969199487345, delta_loss = 6.862782045528246E-4
+12:24:08 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 22: loss = 0.01629797718506957, delta_loss = 6.217148098038826E-4
+12:24:14 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 23: loss = 0.015737228175238347, delta_loss = 5.607490098312219E-4
+12:24:21 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 24: loss = 0.015226369542119323, delta_loss = 5.108586331190237E-4
+12:24:27 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 25: loss = 0.014765282077843703, delta_loss = 4.6108746427562033E-4
+12:24:33 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 26: loss = 0.01434990987128187, delta_loss = 4.1537220656183253E-4
+12:24:39 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 27: loss = 0.01397020151680689, delta_loss = 3.7970835447498005E-4
+12:24:45 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 28: loss = 0.013627541298129337, delta_loss = 3.4266021867755334E-4
+12:24:51 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 29: loss = 0.013320137126458709, delta_loss = 3.0740417167062807E-4
+12:24:58 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 30: loss = 0.013036888660571079, delta_loss = 2.832484658876304E-4
+12:25:04 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 31: loss = 0.012783299028182073, delta_loss = 2.53589632389006E-4
+12:25:10 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 32: loss = 0.012552781705437478, delta_loss = 2.3051732274459447E-4
+12:25:16 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 33: loss = 0.01234478712120152, delta_loss = 2.0799458423595776E-4
+12:25:22 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 34: loss = 0.012155548849947304, delta_loss = 1.8923827125421656E-4
+12:25:28 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 35: loss = 0.011985476664262406, delta_loss = 1.700721856848983E-4
+12:25:34 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 36: loss = 0.01182711373499169, delta_loss = 1.5836292927071637E-4
+12:25:41 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 37: loss = 0.011688089952313182, delta_loss = 1.3902378267850735E-4
+12:25:47 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 38: loss = 0.011562742988165533, delta_loss = 1.25346964147649E-4
+12:25:53 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 39: loss = 0.011448085047977855, delta_loss = 1.1465794018767836E-4
+12:25:59 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 40: loss = 0.011341007386477454, delta_loss = 1.0707766150040016E-4
+12:26:05 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 41: loss = 0.011248880264073854, delta_loss = 9.212712240360028E-5
+12:26:11 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 42: loss = 0.011162948900100349, delta_loss = 8.593136397350501E-5
+12:26:17 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 43: loss = 0.011083659766955202, delta_loss = 7.928913314514743E-5
+12:26:23 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 44: loss = 0.011013888480770527, delta_loss = 6.977128618467464E-5
+12:26:29 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 45: loss = 0.010950582673478258, delta_loss = 6.33058072922691E-5
+12:26:35 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 46: loss = 0.01089324953133924, delta_loss = 5.733314213901726E-5
+12:26:41 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 47: loss = 0.010839720961519889, delta_loss = 5.352856981935203E-5
+12:26:48 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 48: loss = 0.010793025614914365, delta_loss = 4.669534660552317E-5
+12:26:54 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 49: loss = 0.010749201401721196, delta_loss = 4.3824213193169315E-5
+12:27:00 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 50: loss = 0.010710983746647383, delta_loss = 3.8217655073813014E-5
+12:27:06 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 51: loss = 0.010675284834984295, delta_loss = 3.569891166308771E-5
+12:27:12 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 52: loss = 0.010641681136026527, delta_loss = 3.3603698957768505E-5
+12:27:19 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 53: loss = 0.01061483672503917, delta_loss = 2.684441098735682E-5
+12:27:25 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 54: loss = 0.010587971214541199, delta_loss = 2.68655104979712E-5
+12:27:31 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 55: loss = 0.010563300121403428, delta_loss = 2.467109313777048E-5
+12:27:37 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 56: loss = 0.010542283580797887, delta_loss = 2.1016540605541673E-5
+12:27:43 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 57: loss = 0.010523860870530343, delta_loss = 1.8422710267543274E-5
+12:27:50 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 58: loss = 0.010504941286080512, delta_loss = 1.8919584449831467E-5
+12:27:56 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 59: loss = 0.010488317291336065, delta_loss = 1.662399474444687E-5
+12:28:02 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 60: loss = 0.010475473133937516, delta_loss = 1.2844157398548758E-5
+12:28:08 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 61: loss = 0.010460538580195643, delta_loss = 1.4934553741872969E-5
+12:28:14 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 62: loss = 0.010446968860407359, delta_loss = 1.3569719788284265E-5
+12:28:20 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 63: loss = 0.010437796662519613, delta_loss = 9.17219788774612E-6
+12:28:26 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 64: loss = 0.01042775778574692, delta_loss = 1.003887677269305E-5
+12:28:32 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 65: loss = 0.010418178451791304, delta_loss = 9.579333955615776E-6
+12:28:38 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 66: loss = 0.010411380028172055, delta_loss = 6.798423619249622E-6
+12:28:45 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 67: loss = 0.01040247734267422, delta_loss = 8.902685497833712E-6
+12:28:51 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 68: loss = 0.010395886542447332, delta_loss = 6.590800226888988E-6
+12:28:57 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 69: loss = 0.010389410723895183, delta_loss = 6.475818552148516E-6
+12:29:03 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 70: loss = 0.010383152773594853, delta_loss = 6.257950300330578E-6
+12:29:10 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 71: loss = 0.010380445293852285, delta_loss = 2.7074797425679503E-6
+12:29:17 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 72: loss = 0.010375960676191039, delta_loss = 4.484617661245846E-6
+12:29:24 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 73: loss = 0.010369744243245127, delta_loss = 6.216432945911621E-6
+12:29:31 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 74: loss = 0.010366465711904789, delta_loss = 3.278531340338703E-6
+12:29:38 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 75: loss = 0.010361671267957614, delta_loss = 4.794443947174834E-6
+12:29:44 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 76: loss = 0.010360446003256259, delta_loss = 1.2252647013551166E-6
+12:29:51 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 77: loss = 0.010355404926365233, delta_loss = 5.041076891025564E-6
+12:29:58 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 78: loss = 0.010353312113382864, delta_loss = 2.092812982369338E-6
+12:30:05 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 79: loss = 0.010352548826782475, delta_loss = 7.632866003883659E-7
+12:30:11 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 80: loss = 0.010349280608039331, delta_loss = 3.268218743144105E-6
+12:30:18 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 81: loss = 0.010347783892476332, delta_loss = 1.4967155629996148E-6
+12:30:24 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 82: loss = 0.010346053245604296, delta_loss = 1.730646872035238E-6
+12:30:31 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 83: loss = 0.01034288691512777, delta_loss = 3.1663304765269795E-6
+12:30:38 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 84: loss = 0.010341494111299686, delta_loss = 1.3928038280833221E-6
+12:30:45 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 85: loss = 0.01033860401051793, delta_loss = 2.8901007817563884E-6
+12:30:52 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 86: loss = 0.010338421961275185, delta_loss = 1.8204924274491108E-7
+12:30:58 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 87: loss = 0.010336929177306674, delta_loss = 1.4927839685104083E-6
+12:31:05 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 88: loss = 0.01033801274004389, delta_loss = -1.0835627372151463E-6
+12:31:12 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 89: loss = 0.010336293999359005, delta_loss = 1.718740684884465E-6
+12:31:19 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 90: loss = 0.010333130453953886, delta_loss = 3.1635454051191086E-6
+12:31:25 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 91: loss = 0.01033418971278985, delta_loss = -1.0592588359642496E-6
+12:31:32 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 92: loss = 0.010331367030703944, delta_loss = 2.8226820859064E-6
+12:31:39 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 93: loss = 0.010332737045549906, delta_loss = -1.3700148459618033E-6
+12:31:45 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 94: loss = 0.010329991454506264, delta_loss = 2.7455910436412906E-6
+12:31:52 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 95: loss = 0.010330054997816286, delta_loss = -6.354331002177138E-8
+12:31:59 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 96: loss = 0.010329675492386226, delta_loss = 3.7950543006065596E-7
+12:32:05 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 97: loss = 0.010328726425900459, delta_loss = 9.490664857666337E-7
+12:32:12 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 98: loss = 0.010328397645655867, delta_loss = 3.287802445919863E-7
+12:32:19 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 99: loss = 0.010325951515955082, delta_loss = 2.446129700784533E-6
+12:32:25 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 100: loss = 0.010326156323291457, delta_loss = -2.0480733637501247E-7
+12:32:27 [main] INFO (AbstractTask.java:294) - measure of RecallEvaluator is 0.4010207579054577
+12:32:27 [main] INFO (AbstractTask.java:294) - measure of NoveltyEvaluator is 4.654235659128877
+12:32:27 [main] INFO (AbstractTask.java:294) - measure of MAPEvaluator is 0.43169491148474304
+12:32:27 [main] INFO (AbstractTask.java:294) - measure of AUCEvaluator is 0.8834308621998098
+12:32:27 [main] INFO (AbstractTask.java:294) - measure of MRREvaluator is 0.5972778222578072
+12:32:27 [main] INFO (AbstractTask.java:294) - measure of PrecisionEvaluator is 0.4176140912730168
+12:32:27 [main] INFO (AbstractTask.java:294) - measure of NDCGEvaluator is 0.503802675839773
+
+18:15:16 [main] INFO (Nd4jBackend.java:194) - Loaded [CpuBackend] backend
+18:15:16 [main] INFO (Reflections.java:229) - Reflections took 230 ms to scan 192 urls, producing 62937 keys and 68417 values 
+18:15:16 [main] INFO (NativeOpsHolder.java:49) - Number of threads used for NativeOps: 4
+18:15:16 [main] INFO (Reflections.java:229) - Reflections took 84 ms to scan 13 urls, producing 31 keys and 227 values 
+18:15:17 [main] INFO (Nd4jBlas.java:37) - Number of threads used for BLAS: 4
+18:15:17 [main] INFO (DefaultOpExecutioner.java:565) - Backend used: [CPU]; OS: [Windows 7]
+18:15:17 [main] INFO (DefaultOpExecutioner.java:566) - Cores: [4]; Memory: [1.8GB];
+18:15:17 [main] INFO (DefaultOpExecutioner.java:567) - Blas vendor: [OPENBLAS]
+18:15:17 [pool-4-thread-2] INFO (Reflections.java:229) - Reflections took 154 ms to scan 13 urls, producing 387 keys and 1538 values 
+18:15:22 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 1: loss = 0.058767367644099074, delta_loss = -0.058767367644099074
+18:15:26 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 2: loss = 0.05412815664754125, delta_loss = 0.00463921099655782
+18:15:29 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 3: loss = 0.04992342815925886, delta_loss = 0.0042047284882823915
+18:15:33 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 4: loss = 0.046144674335433025, delta_loss = 0.0037787538238258367
+18:15:37 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 5: loss = 0.042721023278221554, delta_loss = 0.0034236510572114714
+18:15:41 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 6: loss = 0.039634459296172556, delta_loss = 0.003086563982048998
+18:15:45 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 7: loss = 0.0368436502446339, delta_loss = 0.0027908090515386536
+18:15:49 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 8: loss = 0.03431886251165327, delta_loss = 0.002524787732980635
+18:15:53 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 9: loss = 0.03204319806734892, delta_loss = 0.002275664444304347
+18:15:57 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 10: loss = 0.029978778226135996, delta_loss = 0.0020644198412129236
+18:16:01 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 11: loss = 0.028114422189792775, delta_loss = 0.0018643560363432211
+18:16:04 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 12: loss = 0.026428358491653255, delta_loss = 0.00168606369813952
+18:16:08 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 13: loss = 0.024903894397244726, delta_loss = 0.0015244640944085293
+18:16:12 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 14: loss = 0.02352525420219804, delta_loss = 0.0013786401950466876
+18:16:16 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 15: loss = 0.022278603269603167, delta_loss = 0.0012466509325948713
+18:16:20 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 16: loss = 0.021146299513598494, delta_loss = 0.0011323037560046732
+18:16:24 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 17: loss = 0.020127581795087935, delta_loss = 0.001018717718510559
+18:16:28 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 18: loss = 0.01920163498279449, delta_loss = 9.259468122934447E-4
+18:16:31 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 19: loss = 0.018364888598617055, delta_loss = 8.367463841774357E-4
+18:16:35 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 20: loss = 0.017604686636501644, delta_loss = 7.602019621154102E-4
+18:16:39 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 21: loss = 0.01691979550883681, delta_loss = 6.848911276648335E-4
+18:16:43 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 22: loss = 0.01629890328462779, delta_loss = 6.208922242090208E-4
+18:16:47 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 23: loss = 0.01573593517530083, delta_loss = 5.629681093269612E-4
+18:16:50 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 24: loss = 0.015227637856010752, delta_loss = 5.082973192900766E-4
+18:16:54 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 25: loss = 0.014764788507275377, delta_loss = 4.628493487353752E-4
+18:16:58 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 26: loss = 0.014348420254495937, delta_loss = 4.1636825277944003E-4
+18:17:02 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 27: loss = 0.013969831701604424, delta_loss = 3.7858855289151297E-4
+18:17:06 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 28: loss = 0.013627465938247261, delta_loss = 3.4236576335716293E-4
+18:17:09 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 29: loss = 0.01331796164006455, delta_loss = 3.0950429818271154E-4
+18:17:13 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 30: loss = 0.013035070251701177, delta_loss = 2.828913883633731E-4
+18:17:17 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 31: loss = 0.012783100074971304, delta_loss = 2.519701767298727E-4
+18:17:21 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 32: loss = 0.012552203062096952, delta_loss = 2.3089701287435163E-4
+18:17:25 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 33: loss = 0.01234447248840787, delta_loss = 2.0773057368908207E-4
+18:17:29 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 34: loss = 0.012156693407192587, delta_loss = 1.8777908121528353E-4
+18:17:32 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 35: loss = 0.011984642388971185, delta_loss = 1.7205101822140127E-4
+18:17:36 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 36: loss = 0.011829645323213192, delta_loss = 1.5499706575799327E-4
+18:17:40 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 37: loss = 0.011689651360040892, delta_loss = 1.399939631723003E-4
+18:17:44 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 38: loss = 0.011561876768965081, delta_loss = 1.2777459107581046E-4
+18:17:48 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 39: loss = 0.01144619613467638, delta_loss = 1.1568063428870137E-4
+18:17:51 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 40: loss = 0.011341556989246, delta_loss = 1.0463914543037967E-4
+18:17:55 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 41: loss = 0.01124756185702122, delta_loss = 9.399513222478097E-5
+18:17:59 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 42: loss = 0.011160703537005722, delta_loss = 8.685832001549716E-5
+18:18:03 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 43: loss = 0.01108438473746705, delta_loss = 7.631879953867195E-5
+18:18:07 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 44: loss = 0.011015285228928754, delta_loss = 6.909950853829609E-5
+18:18:11 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 45: loss = 0.010950316534269453, delta_loss = 6.496869465930089E-5
+18:18:14 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 46: loss = 0.010891234114795348, delta_loss = 5.908241947410499E-5
+18:18:18 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 47: loss = 0.010840472179019815, delta_loss = 5.076193577553331E-5
+18:18:22 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 48: loss = 0.010793367583058738, delta_loss = 4.7104595961076565E-5
+18:18:26 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 49: loss = 0.010750289843314382, delta_loss = 4.307773974435679E-5
+18:18:30 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 50: loss = 0.010710653291836708, delta_loss = 3.9636551477673435E-5
+18:18:33 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 51: loss = 0.010675771229087359, delta_loss = 3.488206274934909E-5
+18:18:37 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 52: loss = 0.010643324169786321, delta_loss = 3.244705930103772E-5
+18:18:41 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 53: loss = 0.010614192852156786, delta_loss = 2.913131762953547E-5
+18:18:45 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 54: loss = 0.010588438216936473, delta_loss = 2.575463522031321E-5
+18:18:48 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 55: loss = 0.010563707511136552, delta_loss = 2.473070579992083E-5
+18:18:52 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 56: loss = 0.010542605570481957, delta_loss = 2.1101940654594947E-5
+18:18:56 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 57: loss = 0.010523677194350677, delta_loss = 1.892837613128029E-5
+18:19:00 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 58: loss = 0.010504938115070729, delta_loss = 1.8739079279947446E-5
+18:19:04 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 59: loss = 0.01048893057882216, delta_loss = 1.6007536248568294E-5
+18:19:07 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 60: loss = 0.010474046694985115, delta_loss = 1.4883883837045475E-5
+18:19:11 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 61: loss = 0.010461350256008955, delta_loss = 1.2696438976160518E-5
+18:19:15 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 62: loss = 0.01044917373478524, delta_loss = 1.217652122371439E-5
+18:19:19 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 63: loss = 0.010436990761640987, delta_loss = 1.2182973144253886E-5
+18:19:22 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 64: loss = 0.010427896039432654, delta_loss = 9.09472220833249E-6
+18:19:26 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 65: loss = 0.010418946329297194, delta_loss = 8.949710135460268E-6
+18:19:30 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 66: loss = 0.010409654000263809, delta_loss = 9.292329033384894E-6
+18:19:34 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 67: loss = 0.010403329572108707, delta_loss = 6.3244281551019105E-6
+18:19:37 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 68: loss = 0.010395986802316813, delta_loss = 7.342769791893883E-6
+18:19:41 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 69: loss = 0.010389525027915502, delta_loss = 6.461774401311446E-6
+18:19:45 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 70: loss = 0.010385510517388011, delta_loss = 4.0145105274901755E-6
+18:19:49 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 71: loss = 0.010379281058724439, delta_loss = 6.229458663572357E-6
+18:19:52 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 72: loss = 0.010374560757921392, delta_loss = 4.7203008030471255E-6
+18:19:56 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 73: loss = 0.01037174079823353, delta_loss = 2.8199596878615563E-6
+18:20:00 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 74: loss = 0.010365657921936966, delta_loss = 6.082876296564094E-6
+18:20:04 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 75: loss = 0.010364391913372802, delta_loss = 1.2660085641647695E-6
+18:20:08 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 76: loss = 0.01036029572846085, delta_loss = 4.0961849119523774E-6
+18:20:12 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 77: loss = 0.010355235255856106, delta_loss = 5.060472604742974E-6
+18:20:16 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 78: loss = 0.010354752528999332, delta_loss = 4.827268567739879E-7
+18:20:19 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 79: loss = 0.010349903030511875, delta_loss = 4.849498487457388E-6
+18:20:23 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 80: loss = 0.010348183314183664, delta_loss = 1.71971632821101E-6
+18:20:27 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 81: loss = 0.01034722908108792, delta_loss = 9.54233095743287E-7
+18:20:31 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 82: loss = 0.0103460349409376, delta_loss = 1.1941401503214044E-6
+18:20:35 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 83: loss = 0.010344513452423794, delta_loss = 1.5214885138049167E-6
+18:20:39 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 84: loss = 0.010340477679189417, delta_loss = 4.035773234377024E-6
+18:20:42 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 85: loss = 0.010341152775286518, delta_loss = -6.750960971010911E-7
+18:20:46 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 86: loss = 0.010339061812242896, delta_loss = 2.09096304362201E-6
+18:20:50 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 87: loss = 0.010336920501922475, delta_loss = 2.1413103204210443E-6
+18:20:54 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 88: loss = 0.01033537526721145, delta_loss = 1.5452347110252868E-6
+18:20:58 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 89: loss = 0.010335266976089776, delta_loss = 1.0829112167404231E-7
+18:21:01 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 90: loss = 0.010334482468062534, delta_loss = 7.845080272420035E-7
+18:21:05 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 91: loss = 0.010333131007157171, delta_loss = 1.351460905362617E-6
+18:21:09 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 92: loss = 0.010332569772511036, delta_loss = 5.612346461354722E-7
+18:21:13 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 93: loss = 0.010331797855097762, delta_loss = 7.719174132739259E-7
+18:21:17 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 94: loss = 0.010329970513237006, delta_loss = 1.8273418607561015E-6
+18:21:21 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 95: loss = 0.010331615604776592, delta_loss = -1.6450915395864463E-6
+18:21:25 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 96: loss = 0.010330683769738743, delta_loss = 9.318350378487855E-7
+18:21:28 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 97: loss = 0.010329363006789532, delta_loss = 1.3207629492115874E-6
+18:21:32 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 98: loss = 0.010327017180712139, delta_loss = 2.3458260773930734E-6
+18:21:36 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 99: loss = 0.010327440950158976, delta_loss = -4.2376944683723827E-7
+18:21:40 [main] INFO (ModelRecommender.java:51) - CDAERecommender iter 100: loss = 0.01032686510460687, delta_loss = 5.758455521066852E-7
+18:21:41 [main] INFO (AbstractTask.java:294) - measure of RecallEvaluator is 0.40082059777735524
+18:21:41 [main] INFO (AbstractTask.java:294) - measure of NoveltyEvaluator is 4.654239514972693
+18:21:41 [main] INFO (AbstractTask.java:294) - measure of AUCEvaluator is 0.8834298916793513
+18:21:41 [main] INFO (AbstractTask.java:294) - measure of MAPEvaluator is 0.43159082821812983
+18:21:41 [main] INFO (AbstractTask.java:294) - measure of MRREvaluator is 0.5972778222578072
+18:21:41 [main] INFO (AbstractTask.java:294) - measure of PrecisionEvaluator is 0.4174539631705348
+18:21:41 [main] INFO (AbstractTask.java:294) - measure of NDCGEvaluator is 0.5036698632772765

@@ -1,0 +1,134 @@
+17/08/07 21:58:34 INFO ArffDataModel: Transform data to Convertor successfully!
+17/08/07 21:58:35 INFO ArffDataModel: Split data to train Set and test Set successfully!
+17/08/07 21:58:35 INFO ArffDataModel: Data size of training is 6123
+17/08/07 21:58:35 INFO ArffDataModel: Data size of testing is 1629
+17/08/07 21:58:35 INFO EFMRecommender: numUsers:422
+17/08/07 21:58:35 INFO EFMRecommender: numItems:520
+17/08/07 21:58:35 INFO EFMRecommender: numFeatures:260
+17/08/07 21:58:35 INFO EFMRecommender: Job Setup completed.
+17/08/07 21:58:35 INFO EFMRecommender: iter:1, loss:109080.11609616502
+17/08/07 21:58:35 INFO EFMRecommender: iter:2, loss:62721.79596727812
+17/08/07 21:58:35 INFO EFMRecommender: iter:3, loss:31283.095346061622
+17/08/07 21:58:35 INFO EFMRecommender: iter:4, loss:18713.055337896785
+17/08/07 21:58:35 INFO EFMRecommender: iter:5, loss:13986.952058667828
+17/08/07 21:58:35 INFO EFMRecommender: iter:6, loss:11813.686078777528
+17/08/07 21:58:35 INFO EFMRecommender: iter:7, loss:10575.876932051164
+17/08/07 21:58:35 INFO EFMRecommender: iter:8, loss:9764.573056251169
+17/08/07 21:58:35 INFO EFMRecommender: iter:9, loss:9185.68861512558
+17/08/07 21:58:35 INFO EFMRecommender: iter:10, loss:8748.717550369247
+17/08/07 21:58:35 INFO EFMRecommender: iter:11, loss:8404.735162718547
+17/08/07 21:58:35 INFO EFMRecommender: iter:12, loss:8124.698406942909
+17/08/07 21:58:35 INFO EFMRecommender: iter:13, loss:7890.327757995943
+17/08/07 21:58:35 INFO EFMRecommender: iter:14, loss:7689.6518600685295
+17/08/07 21:58:35 INFO EFMRecommender: iter:15, loss:7514.585490270802
+17/08/07 21:58:36 INFO EFMRecommender: iter:16, loss:7359.519024730789
+17/08/07 21:58:36 INFO EFMRecommender: iter:17, loss:7220.460369346658
+17/08/07 21:58:36 INFO EFMRecommender: iter:18, loss:7094.497566359602
+17/08/07 21:58:36 INFO EFMRecommender: iter:19, loss:6979.45488800684
+17/08/07 21:58:36 INFO EFMRecommender: iter:20, loss:6873.66872411813
+17/08/07 21:58:36 INFO EFMRecommender: iter:21, loss:6775.839054971881
+17/08/07 21:58:36 INFO EFMRecommender: iter:22, loss:6684.929366851058
+17/08/07 21:58:36 INFO EFMRecommender: iter:23, loss:6600.098062079667
+17/08/07 21:58:36 INFO EFMRecommender: iter:24, loss:6520.650634993566
+17/08/07 21:58:36 INFO EFMRecommender: iter:25, loss:6446.005738491915
+17/08/07 21:58:36 INFO EFMRecommender: iter:26, loss:6375.670681634302
+17/08/07 21:58:36 INFO EFMRecommender: iter:27, loss:6309.2234288790405
+17/08/07 21:58:36 INFO EFMRecommender: iter:28, loss:6246.299150184888
+17/08/07 21:58:36 INFO EFMRecommender: iter:29, loss:6186.580003826958
+17/08/07 21:58:36 INFO EFMRecommender: iter:30, loss:6129.787247997551
+17/08/07 21:58:36 INFO EFMRecommender: iter:31, loss:6075.675052610544
+17/08/07 21:58:36 INFO EFMRecommender: iter:32, loss:6024.0255688047055
+17/08/07 21:58:36 INFO EFMRecommender: iter:33, loss:5974.644941388906
+17/08/07 21:58:36 INFO EFMRecommender: iter:34, loss:5927.360038326494
+17/08/07 21:58:36 INFO EFMRecommender: iter:35, loss:5882.015733740528
+17/08/07 21:58:36 INFO EFMRecommender: iter:36, loss:5838.472624978259
+17/08/07 21:58:36 INFO EFMRecommender: iter:37, loss:5796.605095522463
+17/08/07 21:58:36 INFO EFMRecommender: iter:38, loss:5756.299657784664
+17/08/07 21:58:36 INFO EFMRecommender: iter:39, loss:5717.453525743071
+17/08/07 21:58:36 INFO EFMRecommender: iter:40, loss:5679.973378872929
+17/08/07 21:58:36 INFO EFMRecommender: iter:41, loss:5643.774287178489
+17/08/07 21:58:36 INFO EFMRecommender: iter:42, loss:5608.778773285578
+17/08/07 21:58:36 INFO EFMRecommender: iter:43, loss:5574.915992140869
+17/08/07 21:58:36 INFO EFMRecommender: iter:44, loss:5542.121012318144
+17/08/07 21:58:36 INFO EFMRecommender: iter:45, loss:5510.334185579478
+17/08/07 21:58:36 INFO EFMRecommender: iter:46, loss:5479.500593390583
+17/08/07 21:58:36 INFO EFMRecommender: iter:47, loss:5449.569560709597
+17/08/07 21:58:36 INFO EFMRecommender: iter:48, loss:5420.494228667279
+17/08/07 21:58:36 INFO EFMRecommender: iter:49, loss:5392.231178821964
+17/08/07 21:58:36 INFO EFMRecommender: iter:50, loss:5364.740102556505
+17/08/07 21:58:36 INFO EFMRecommender: user 480's most cared features are 
+相机外观:0.6257873347180638
+镜头感觉:0.6181575224233951
+照片:0.6000765650462779
+性价比:0.5980755867280718
+功能:0.5979946979459931
+
+17/08/07 21:58:36 INFO EFMRecommender: item 1233's feature values are
+相机外观:0.6824093807661237
+镜头感觉:0.8862679168601082
+照片:0.7626960796666442
+性价比:0.6770741616652897
+功能:0.7110926307208605
+
+17/08/07 21:58:36 INFO EFMRecommender: item 1228's feature values are
+相机外观:0.17442063007293734
+镜头感觉:0.2564715015149186
+照片:0.12774374487647733
+性价比:0.20529570157258487
+功能:0.19281074771955475
+
+17/08/07 21:58:36 INFO EFMRecommender: So we recommend item 1233, disRecommend item 1228 to user 480
+17/08/07 21:58:36 INFO EFMRecommender: ___________________________
+17/08/07 21:58:36 INFO EFMRecommender: user 8517's most cared features are 
+相机外观:0.5892076909962453
+光学防抖:0.5848378916263466
+性价比:0.5762974413806419
+镜头感觉:0.5644893675064225
+功能:0.5583871499405679
+
+17/08/07 21:58:36 INFO EFMRecommender: item 1379's feature values are
+相机外观:0.6098339156802638
+光学防抖:0.4957735712784901
+性价比:0.5624860055637476
+镜头感觉:0.5844379706926882
+功能:0.5830669527876529
+
+17/08/07 21:58:36 INFO EFMRecommender: item 1228's feature values are
+相机外观:0.17442063007293734
+光学防抖:0.18347297815830893
+性价比:0.20529570157258487
+镜头感觉:0.2564715015149186
+功能:0.19281074771955475
+
+17/08/07 21:58:36 INFO EFMRecommender: So we recommend item 1379, disRecommend item 1228 to user 8517
+17/08/07 21:58:36 INFO EFMRecommender: ___________________________
+17/08/07 21:58:36 INFO EFMRecommender: user 550's most cared features are 
+合焦:0.6653846668477311
+变焦镜头:0.6651772403193429
+图像效果:0.6026258418491486
+镜头成像:0.5888033854429223
+效果:0.5809487110246723
+
+17/08/07 21:58:36 INFO EFMRecommender: item 2287's feature values are
+合焦:0.8046789852127729
+变焦镜头:0.8961973449186544
+图像效果:0.6438658439719971
+镜头成像:0.703855769506574
+效果:0.6559406432007886
+
+17/08/07 21:58:36 INFO EFMRecommender: item 897's feature values are
+合焦:0.2917879996767565
+变焦镜头:0.24311035545229442
+图像效果:0.21830182667430376
+镜头成像:0.12529717223920606
+效果:0.3077974091562321
+
+17/08/07 21:58:36 INFO EFMRecommender: So we recommend item 2287, disRecommend item 897 to user 550
+17/08/07 21:58:36 INFO EFMRecommender: ___________________________
+17/08/07 21:58:36 INFO EFMRecommender: Job Train completed.
+17/08/07 21:58:36 INFO EFMRecommender: Job End.
+17/08/07 21:58:36 INFO RecommenderJob: Evaluator value:RMSE is 0.8327914668929777
+17/08/07 21:58:36 INFO RecommenderJob: Evaluator value:MPE is 0.860036832412523
+17/08/07 21:58:36 INFO RecommenderJob: Evaluator value:MAE is 0.5860109775502593
+17/08/07 21:58:36 INFO RecommenderJob: Evaluator value:MSE is 0.6935416273297575
+17/08/07 21:58:36 INFO RecommenderJob: Result path is ../result/test/efmtest/dc_dense.arff-efm-output/efm

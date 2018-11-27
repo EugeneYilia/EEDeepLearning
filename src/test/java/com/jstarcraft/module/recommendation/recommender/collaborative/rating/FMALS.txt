@@ -1,0 +1,224 @@
+17/07/22 16:59:36 INFO ArffDataModel: Transform data to Convertor successfully!
+17/07/22 16:59:36 INFO ArffDataModel: Split data to train Set and test Set successfully!
+17/07/22 16:59:36 INFO ArffDataModel: Data size of training is 9
+17/07/22 16:59:36 INFO ArffDataModel: Data size of testing is 9
+17/07/22 16:59:36 INFO FMALSRecommender: Job Setup completed.
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 0: loss = 502.86437200923086, delta_loss = -502.86438
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 1: loss = 20.86387133709272, delta_loss = 482.0005
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 2: loss = 10.139758568450771, delta_loss = 10.7241125
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 3: loss = 5.444816378546021, delta_loss = 4.694942
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 4: loss = 3.4856253217035036, delta_loss = 1.9591911
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 5: loss = 2.671281045842095, delta_loss = 0.8143443
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 6: loss = 2.3335742427064456, delta_loss = 0.3377068
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 7: loss = 2.1934060702621387, delta_loss = 0.14016818
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 8: loss = 2.134525161610286, delta_loss = 0.05888091
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 9: loss = 2.108704587226154, delta_loss = 0.025820574
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 10: loss = 2.096082236969193, delta_loss = 0.01262235
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 11: loss = 2.088574748627991, delta_loss = 0.007507488
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 12: loss = 2.082956093391708, delta_loss = 0.005618655
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 13: loss = 2.0779809816950934, delta_loss = 0.0049751117
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 14: loss = 2.07319714952666, delta_loss = 0.004783832
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 15: loss = 2.0684600819924217, delta_loss = 0.0047370675
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 16: loss = 2.0637380979177324, delta_loss = 0.0047219843
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 17: loss = 2.059036287417861, delta_loss = 0.0047018104
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 18: loss = 2.0543683315857724, delta_loss = 0.004667956
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 19: loss = 2.049747104277684, delta_loss = 0.0046212273
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 20: loss = 2.045182299677409, delta_loss = 0.0045648045
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 21: loss = 2.040680452069378, delta_loss = 0.0045018476
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 22: loss = 2.0362455993147854, delta_loss = 0.004434853
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 23: loss = 2.0318799836531674, delta_loss = 0.0043656155
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 24: loss = 2.027584617892477, delta_loss = 0.004295366
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 25: loss = 2.0233596981913595, delta_loss = 0.0042249197
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 26: loss = 2.019204889994276, delta_loss = 0.0041548084
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 27: loss = 2.015119520486369, delta_loss = 0.0040853694
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 28: loss = 2.0111027058949764, delta_loss = 0.0040168148
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 29: loss = 2.0071534347556574, delta_loss = 0.003949271
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 30: loss = 2.003270621951231, delta_loss = 0.0038828128
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 31: loss = 1.9994531435680523, delta_loss = 0.0038174784
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 32: loss = 1.9956998592510116, delta_loss = 0.0037532842
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 33: loss = 1.992009626449274, delta_loss = 0.0036902328
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 34: loss = 1.9883813094183613, delta_loss = 0.003628317
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 35: loss = 1.9848137848394303, delta_loss = 0.0035675245
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 36: loss = 1.9813059452603645, delta_loss = 0.0035078395
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 37: loss = 1.9778567011369697, delta_loss = 0.0034492442
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 38: loss = 1.9744649819763729, delta_loss = 0.0033917192
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 39: loss = 1.9711297369062681, delta_loss = 0.0033352452
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 40: loss = 1.9678499348784586, delta_loss = 0.003279802
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 41: loss = 1.9646245646408758, delta_loss = 0.0032253703
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 42: loss = 1.9614526345643657, delta_loss = 0.00317193
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 43: loss = 1.958333172379731, delta_loss = 0.0031194622
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 44: loss = 1.9552652248606504, delta_loss = 0.0030679475
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 45: loss = 1.9522478574753077, delta_loss = 0.0030173673
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 46: loss = 1.9492801540213502, delta_loss = 0.0029677034
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 47: loss = 1.9463612162534936, delta_loss = 0.0029189377
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 48: loss = 1.9434901635096842, delta_loss = 0.0028710528
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 49: loss = 1.9406661323395509, delta_loss = 0.0028240313
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 50: loss = 1.9378882761374585, delta_loss = 0.0027778563
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 51: loss = 1.935155764781571, delta_loss = 0.0027325114
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 52: loss = 1.9324677842797662, delta_loss = 0.0026879804
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 53: loss = 1.9298235364228606, delta_loss = 0.0026442478
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 54: loss = 1.9272222384453677, delta_loss = 0.002601298
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 55: loss = 1.924663122693863, delta_loss = 0.0025591156
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 56: loss = 1.9221454363029404, delta_loss = 0.0025176865
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 57: loss = 1.9196684408786697, delta_loss = 0.0024769953
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 58: loss = 1.9172314121894498, delta_loss = 0.0024370288
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 59: loss = 1.9148336398641028, delta_loss = 0.0023977724
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 60: loss = 1.9124744270970735, delta_loss = 0.0023592128
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 61: loss = 1.9101530903605628, delta_loss = 0.0023213367
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 62: loss = 1.907868959123439, delta_loss = 0.0022841312
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 63: loss = 1.9056213755767646, delta_loss = 0.0022475836
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 64: loss = 1.9034096943657808, delta_loss = 0.002211681
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 65: loss = 1.9012332823281848, delta_loss = 0.0021764121
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 66: loss = 1.899091518238557, delta_loss = 0.0021417642
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 67: loss = 1.8969837925587665, delta_loss = 0.0021077257
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 68: loss = 1.8949095071942277, delta_loss = 0.0020742854
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 69: loss = 1.8928680752558484, delta_loss = 0.0020414318
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 70: loss = 1.8908589208275306, delta_loss = 0.0020091545
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 71: loss = 1.88888147873909, delta_loss = 0.001977442
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 72: loss = 1.8869351943444514, delta_loss = 0.0019462844
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 73: loss = 1.8850195233049951, delta_loss = 0.001915671
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 74: loss = 1.8831339313779227, delta_loss = 0.0018855919
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 75: loss = 1.8812778942095147, delta_loss = 0.0018560372
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 76: loss = 1.8794508971331658, delta_loss = 0.001826997
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 77: loss = 1.877652434972068, delta_loss = 0.0017984621
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 78: loss = 1.8758820118464323, delta_loss = 0.0017704231
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 79: loss = 1.8741391409851373, delta_loss = 0.0017428709
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 80: loss = 1.8724233445416862, delta_loss = 0.0017157964
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 81: loss = 1.870734153414377, delta_loss = 0.0016891911
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 82: loss = 1.869071107070566, delta_loss = 0.0016630463
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 83: loss = 1.8674337533749346, delta_loss = 0.0016373537
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 84: loss = 1.8658216484216608, delta_loss = 0.0016121049
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 85: loss = 1.8642343563703816, delta_loss = 0.0015872921
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 86: loss = 1.8626714492858774, delta_loss = 0.0015629071
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 87: loss = 1.861132506981356, delta_loss = 0.0015389423
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 88: loss = 1.859617116865284, delta_loss = 0.0015153901
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 89: loss = 1.8581248737916347, delta_loss = 0.001492243
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 90: loss = 1.8566553799135068, delta_loss = 0.0014694938
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 91: loss = 1.8552082445400049, delta_loss = 0.0014471353
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 92: loss = 1.8537830839963103, delta_loss = 0.0014251606
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 93: loss = 1.852379521486863, delta_loss = 0.0014035625
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 94: loss = 1.8509971869615816, delta_loss = 0.0013823345
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 95: loss = 1.8496357169850353, delta_loss = 0.00136147
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 96: loss = 1.8482947546085033, delta_loss = 0.0013409624
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 97: loss = 1.8469739492448545, delta_loss = 0.0013208054
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 98: loss = 1.8456729565461636, delta_loss = 0.0013009927
+17/07/22 16:59:36 INFO FMALSRecommender: FMALSRecommender iter 99: loss = 1.8443914382840156, delta_loss = 0.0012815183
+17/07/22 16:59:36 INFO FMALSRecommender: Job Train completed.
+17/07/22 16:59:36 INFO FMALSRecommender: Job End.
+17/07/22 16:59:36 INFO Task: Evaluator value:MAE is 3.95490393179119
+17/07/22 16:59:36 INFO Task: Evaluator value:MSE is 25.325061561105922
+17/07/22 16:59:36 INFO Task: Evaluator value:RMSE is 5.032401172512573
+17/07/22 16:59:36 INFO Task: Evaluator value:MPE is 1.0
+17/07/22 16:59:36 INFO Task: Result path is result/test/arfftest-fmals-output/fmals
+17/07/22 16:59:37 INFO ArffDataModel: Transform data to Convertor successfully!
+17/07/22 16:59:37 INFO ArffDataModel: Split data to train Set and test Set successfully!
+17/07/22 16:59:37 INFO ArffDataModel: Data size of training is 28411
+17/07/22 16:59:37 INFO ArffDataModel: Data size of testing is 7086
+17/07/22 16:59:37 INFO FMALSRecommender: Job Setup completed.
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 0: loss = 283806.16197282006, delta_loss = -283806.16
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 1: loss = 14346.840027616, delta_loss = 269459.3
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 2: loss = 13374.585784811405, delta_loss = 972.2543
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 3: loss = 12863.039241849698, delta_loss = 511.54654
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 4: loss = 12636.616725311662, delta_loss = 226.42252
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 5: loss = 12528.088652457067, delta_loss = 108.528076
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 6: loss = 12465.030031166278, delta_loss = 63.05862
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 7: loss = 12422.559587391364, delta_loss = 42.470444
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 8: loss = 12391.555587709283, delta_loss = 31.004
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 9: loss = 12367.787849799422, delta_loss = 23.767738
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 10: loss = 12349.018849680855, delta_loss = 18.769001
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 11: loss = 12333.941247815654, delta_loss = 15.077601
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 12: loss = 12321.673012976458, delta_loss = 12.268235
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 13: loss = 12311.538619225885, delta_loss = 10.134394
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 14: loss = 12303.002751382599, delta_loss = 8.535868
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 15: loss = 12295.657697005994, delta_loss = 7.345054
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 16: loss = 12289.213641341847, delta_loss = 6.4440556
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 17: loss = 12283.479538107156, delta_loss = 5.734103
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 18: loss = 12278.338129193346, delta_loss = 5.141409
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 19: loss = 12273.720733113232, delta_loss = 4.617396
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 20: loss = 12269.58559589868, delta_loss = 4.135137
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 21: loss = 12265.901777807918, delta_loss = 3.683818
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 22: loss = 12262.639137425193, delta_loss = 3.2626405
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 23: loss = 12259.763795853789, delta_loss = 2.8753417
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 24: loss = 12257.23762639973, delta_loss = 2.5261695
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 25: loss = 12255.020013466114, delta_loss = 2.217613
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 26: loss = 12253.070350389751, delta_loss = 1.949663
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 27: loss = 12251.350272702075, delta_loss = 1.7200776
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 28: loss = 12249.825174265534, delta_loss = 1.5250984
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 29: loss = 12248.464953087781, delta_loss = 1.3602211
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 30: loss = 12247.244140238394, delta_loss = 1.2208128
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 31: loss = 12246.141623318954, delta_loss = 1.1025169
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 32: loss = 12245.140152370504, delta_loss = 1.0014709
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 33: loss = 12244.225763866993, delta_loss = 0.9143885
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 34: loss = 12243.387207242959, delta_loss = 0.83855665
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 35: loss = 12242.615419473344, delta_loss = 0.77178776
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 36: loss = 12241.90306774589, delta_loss = 0.71235174
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 37: loss = 12241.244165283824, delta_loss = 0.65890247
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 38: loss = 12240.633757435373, delta_loss = 0.6104078
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 39: loss = 12240.067671333069, delta_loss = 0.5660861
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 40: loss = 12239.5423209422, delta_loss = 0.5253504
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 41: loss = 12239.054558977488, delta_loss = 0.48776197
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 42: loss = 12238.601567478836, delta_loss = 0.4529915
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 43: loss = 12238.180779422277, delta_loss = 0.42078805
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 44: loss = 12237.789824545634, delta_loss = 0.39095488
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 45: loss = 12237.426493440164, delta_loss = 0.3633311
+17/07/22 16:59:38 INFO FMALSRecommender: FMALSRecommender iter 46: loss = 12237.088714894968, delta_loss = 0.33777854
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 47: loss = 12236.774542395733, delta_loss = 0.3141725
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 48: loss = 12236.482146554026, delta_loss = 0.29239583
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 49: loss = 12236.209811028573, delta_loss = 0.27233553
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 50: loss = 12235.955930180062, delta_loss = 0.25388086
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 51: loss = 12235.719007270416, delta_loss = 0.2369229
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 52: loss = 12235.497652459719, delta_loss = 0.22135481
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 53: loss = 12235.290580194494, delta_loss = 0.20707226
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 54: loss = 12235.096605825887, delta_loss = 0.19397438
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 55: loss = 12234.914641455178, delta_loss = 0.18196437
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 56: loss = 12234.743691107196, delta_loss = 0.17095035
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 57: loss = 12234.582845384377, delta_loss = 0.16084573
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 58: loss = 12234.431275774059, delta_loss = 0.1515696
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 59: loss = 12234.288228776502, delta_loss = 0.143047
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 60: loss = 12234.153020004156, delta_loss = 0.13520877
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 61: loss = 12234.02502838234, delta_loss = 0.12799162
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 62: loss = 12233.903690549978, delta_loss = 0.12133783
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 63: loss = 12233.788495535795, delta_loss = 0.11519501
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 64: loss = 12233.67897976084, delta_loss = 0.10951577
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 65: loss = 12233.57472240081, delta_loss = 0.10425736
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 66: loss = 12233.475341114881, delta_loss = 0.09938128
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 67: loss = 12233.38048815369, delta_loss = 0.09485296
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 68: loss = 12233.289846824404, delta_loss = 0.09064133
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 69: loss = 12233.203128308021, delta_loss = 0.086718515
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 70: loss = 12233.120068798085, delta_loss = 0.08305951
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 71: loss = 12233.040426946583, delta_loss = 0.07964185
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 72: loss = 12232.963981583269, delta_loss = 0.07644536
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 73: loss = 12232.890529688344, delta_loss = 0.07345189
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 74: loss = 12232.819884592667, delta_loss = 0.070645094
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 75: loss = 12232.751874381525, delta_loss = 0.06801021
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 76: loss = 12232.686340476246, delta_loss = 0.065533906
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 77: loss = 12232.623136382697, delta_loss = 0.063204095
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 78: loss = 12232.562126574307, delta_loss = 0.06100981
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 79: loss = 12232.50318550673, delta_loss = 0.058941066
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 80: loss = 12232.446196737987, delta_loss = 0.05698877
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 81: loss = 12232.391052146166, delta_loss = 0.055144593
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 82: loss = 12232.33765123152, delta_loss = 0.053400915
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 83: loss = 12232.285900493582, delta_loss = 0.05175074
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 84: loss = 12232.235712870364, delta_loss = 0.050187625
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 85: loss = 12232.18700723541, delta_loss = 0.048705634
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 86: loss = 12232.139707944243, delta_loss = 0.047299292
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 87: loss = 12232.093744424157, delta_loss = 0.04596352
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 88: loss = 12232.049050800124, delta_loss = 0.044693623
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 89: loss = 12232.005565557549, delta_loss = 0.043485243
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 90: loss = 12231.963231230635, delta_loss = 0.042334326
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 91: loss = 12231.921994117829, delta_loss = 0.041237112
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 92: loss = 12231.881804022036, delta_loss = 0.040190097
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 93: loss = 12231.842614008969, delta_loss = 0.039190013
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 94: loss = 12231.804380182857, delta_loss = 0.038233828
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 95: loss = 12231.767061483093, delta_loss = 0.0373187
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 96: loss = 12231.730619488504, delta_loss = 0.036441993
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 97: loss = 12231.695018242033, delta_loss = 0.035601247
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 98: loss = 12231.66022408058, delta_loss = 0.034794163
+17/07/22 16:59:39 INFO FMALSRecommender: FMALSRecommender iter 99: loss = 12231.62620548244, delta_loss = 0.0340186
+17/07/22 16:59:39 INFO FMALSRecommender: Job Train completed.
+17/07/22 16:59:39 INFO FMALSRecommender: Job End.
+17/07/22 16:59:39 INFO Task: Evaluator value:MAE is 0.6398942538292731
+17/07/22 16:59:39 INFO Task: Evaluator value:MSE is 0.7095630116345797
+17/07/22 16:59:39 INFO Task: Evaluator value:RMSE is 0.8423556325178693
+17/07/22 16:59:39 INFO Task: Evaluator value:MPE is 0.9878633926051369
+17/07/22 16:59:39 INFO Task: Result path is result/test/datamodeltest/ratings.arff-fmals-output/fmals

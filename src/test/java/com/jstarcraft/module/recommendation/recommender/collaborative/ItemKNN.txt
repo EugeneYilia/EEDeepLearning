@@ -1,0 +1,40 @@
+17/06/29 19:16:07 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/29 19:16:07 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/29 19:16:07 INFO TextDataConvertor: All dataset files size 411942
+17/06/29 19:16:07 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/29 19:16:07 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/29 19:16:07 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/29 19:16:08 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/29 19:16:08 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/29 19:16:08 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/29 19:16:08 INFO TextDataModel: Data size of training is 28408
+17/06/29 19:16:08 INFO TextDataModel: Data size of testing is 7086
+17/06/29 19:16:10 INFO ItemKNNRecommender: Job Setup completed.
+17/06/29 19:16:10 INFO ItemKNNRecommender: Job Train completed.
+17/06/29 19:16:10 INFO ItemKNNRecommender: Job End.
+17/06/29 19:16:10 INFO RecommenderJob: Evaluator value:MAE is 0.6213220398156383
+17/06/29 19:16:10 INFO RecommenderJob: Evaluator value:RMSE is 0.8228590924637625
+17/06/29 19:16:10 INFO RecommenderJob: Evaluator value:MPE is 0.9520180637877504
+17/06/29 19:16:10 INFO RecommenderJob: Evaluator value:MSE is 0.677097086050287
+17/06/29 19:16:10 INFO RecommenderJob: Result path is result/filmtrust/rating-itemknn-output/itemknn
+17/06/29 19:16:10 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/29 19:16:10 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/29 19:16:10 INFO TextDataConvertor: All dataset files size 411942
+17/06/29 19:16:10 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/29 19:16:10 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/29 19:16:10 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/29 19:16:10 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/29 19:16:10 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/29 19:16:10 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/29 19:16:10 INFO TextDataModel: Data size of training is 28408
+17/06/29 19:16:10 INFO TextDataModel: Data size of testing is 7086
+17/06/29 19:16:12 INFO ItemKNNRecommender: Job Setup completed.
+17/06/29 19:16:12 INFO ItemKNNRecommender: Job Train completed.
+17/06/29 19:16:13 INFO ItemKNNRecommender: Job End.
+17/06/29 19:16:13 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.2374112075769535
+17/06/29 19:16:13 INFO RecommenderJob: Evaluator value:RR top 10 is 0.3257770511519522
+17/06/29 19:16:13 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.29893471139822864
+17/06/29 19:16:13 INFO RecommenderJob: Evaluator value:AP top 10 is 0.25045899314299064
+17/06/29 19:16:13 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.7680386170007433
+17/06/29 19:16:13 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.3225585421260718
+17/06/29 19:16:13 INFO RecommenderJob: Result path is result/filmtrust/rating-itemknn-output/itemknn

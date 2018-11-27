@@ -1,0 +1,237 @@
+17/06/27 15:37:12 INFO TextDataConvertor: Dataset: ...test/datamodeltest/ratings-date.txt
+17/06/27 15:37:12 INFO TextDataConvertor: All dataset files [data\test\datamodeltest\ratings-date.txt]
+17/06/27 15:37:12 INFO TextDataConvertor: All dataset files size 515521
+17/06/27 15:37:12 INFO TextDataConvertor: Now loading dataset file ratings-date
+17/06/27 15:37:12 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/27 15:37:12 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/27 15:37:12 INFO TextDataModel: Data size of training is 28406
+17/06/27 15:37:12 INFO TextDataModel: Data size of testing is 7086
+17/06/27 15:37:13 INFO ItemBigramRecommender: Job Setup completed.
+17/06/27 15:37:13 INFO ItemBigramRecommender: eStep time is 38
+17/06/27 15:37:13 INFO ItemBigramRecommender: mStep time is 164
+17/06/27 15:37:13 INFO ItemBigramRecommender: eStep time is 16
+17/06/27 15:37:14 INFO ItemBigramRecommender: mStep time is 146
+17/06/27 15:37:14 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:14 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:14 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:14 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:14 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:14 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:14 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:14 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:14 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:14 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:14 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:14 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:14 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:14 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:14 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:14 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:14 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:15 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:15 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:15 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:15 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:15 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:15 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:15 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:15 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:15 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:15 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:15 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:15 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:15 INFO ItemBigramRecommender: mStep time is 103
+17/06/27 15:37:15 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:15 INFO ItemBigramRecommender: mStep time is 103
+17/06/27 15:37:15 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:16 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:16 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:16 INFO ItemBigramRecommender: mStep time is 104
+17/06/27 15:37:16 INFO ItemBigramRecommender: sumAlpha is 29.994420117360445
+17/06/27 15:37:16 INFO ItemBigramRecommender: readoutParams time is 223
+17/06/27 15:37:16 INFO ItemBigramRecommender: eStep time is 85
+17/06/27 15:37:16 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:16 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:16 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:16 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:16 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:16 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:16 INFO ItemBigramRecommender: mStep time is 103
+17/06/27 15:37:16 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:16 INFO ItemBigramRecommender: mStep time is 103
+17/06/27 15:37:17 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:17 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:17 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:17 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:17 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:17 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:17 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:17 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:17 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:17 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:17 INFO ItemBigramRecommender: sumAlpha is 43.11138901805084
+17/06/27 15:37:17 INFO ItemBigramRecommender: readoutParams time is 197
+17/06/27 15:37:17 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:17 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:17 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:18 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:18 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:18 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:18 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:18 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:18 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:18 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:18 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:18 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:18 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:18 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:18 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:18 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:18 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:18 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:18 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:18 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:19 INFO ItemBigramRecommender: sumAlpha is 54.775193660123115
+17/06/27 15:37:19 INFO ItemBigramRecommender: readoutParams time is 197
+17/06/27 15:37:19 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:19 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:19 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:19 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:19 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:19 INFO ItemBigramRecommender: mStep time is 99
+17/06/27 15:37:19 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:19 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:19 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:19 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:19 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:19 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:19 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:19 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:19 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:20 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:20 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:20 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:20 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:20 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:20 INFO ItemBigramRecommender: sumAlpha is 65.56017002728495
+17/06/27 15:37:20 INFO ItemBigramRecommender: readoutParams time is 197
+17/06/27 15:37:20 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:20 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:20 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:20 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:20 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:20 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:20 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:20 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:20 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:21 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:21 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:21 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:21 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:21 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:21 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:21 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:21 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:21 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:21 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:21 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:21 INFO ItemBigramRecommender: sumAlpha is 75.65566835396604
+17/06/27 15:37:21 INFO ItemBigramRecommender: readoutParams time is 197
+17/06/27 15:37:21 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:21 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:21 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:22 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:22 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:22 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:22 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:22 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:22 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:22 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:22 INFO ItemBigramRecommender: eStep time is 88
+17/06/27 15:37:22 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:22 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:22 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:22 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:22 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:22 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:22 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:22 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:23 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:23 INFO ItemBigramRecommender: sumAlpha is 84.91910013586349
+17/06/27 15:37:23 INFO ItemBigramRecommender: readoutParams time is 196
+17/06/27 15:37:23 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:23 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:23 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:23 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:23 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:23 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:23 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:23 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:23 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:23 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:23 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:23 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:23 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:24 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:24 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:24 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:24 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:24 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:24 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:24 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:24 INFO ItemBigramRecommender: sumAlpha is 93.66713061384388
+17/06/27 15:37:24 INFO ItemBigramRecommender: readoutParams time is 196
+17/06/27 15:37:24 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:24 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:24 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:24 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:24 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:24 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:24 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:25 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:25 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:25 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:25 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:25 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:25 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:25 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:25 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:25 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:25 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:25 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:25 INFO ItemBigramRecommender: eStep time is 15
+17/06/27 15:37:25 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:25 INFO ItemBigramRecommender: sumAlpha is 101.99973971564742
+17/06/27 15:37:25 INFO ItemBigramRecommender: readoutParams time is 196
+17/06/27 15:37:25 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:26 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:26 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:26 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:26 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:26 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:26 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:26 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:26 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:26 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:26 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:26 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:26 INFO ItemBigramRecommender: eStep time is 16
+17/06/27 15:37:26 INFO ItemBigramRecommender: mStep time is 102
+17/06/27 15:37:26 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:26 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:26 INFO ItemBigramRecommender: eStep time is 14
+17/06/27 15:37:26 INFO ItemBigramRecommender: mStep time is 100
+17/06/27 15:37:26 INFO ItemBigramRecommender: eStep time is 13
+17/06/27 15:37:27 INFO ItemBigramRecommender: mStep time is 101
+17/06/27 15:37:27 INFO ItemBigramRecommender: sumAlpha is 109.98424106628353
+17/06/27 15:37:27 INFO ItemBigramRecommender: readoutParams time is 195
+17/06/27 15:37:27 INFO ItemBigramRecommender: estimateParams time is 121
+17/06/27 15:37:27 INFO ItemBigramRecommender: Job Train completed.
+17/06/27 15:37:27 INFO ItemBigramRecommender: Job End.
+17/06/27 15:37:27 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.5340444875678175
+17/06/27 15:37:27 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.3047468354430387
+17/06/27 15:37:27 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.4591708572811962
+17/06/27 15:37:27 INFO RecommenderJob: Evaluator value:AP top 10 is 0.3693317753730651
+17/06/27 15:37:27 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5057850487241308
+17/06/27 15:37:27 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.8938518422114747
+17/06/27 15:37:27 INFO RecommenderJob: Result path is result/test/datamodeltest/ratings-date.txt-itembigram-output/itembigram

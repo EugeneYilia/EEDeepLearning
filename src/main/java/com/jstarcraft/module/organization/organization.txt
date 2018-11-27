@@ -1,0 +1,90 @@
+权限领域设计:
+组织权限架构的5个要素用户(User),分组(Group),角色(Role),权限(Permission)和资源(Resource).
+
+分组是一种资源.
+
+组织最小的粒度是分组(Group).
+
+一个角色(Role)最大的权限不会超过它所属的分组.
+
+区分组合关系(Combination)与聚合关系(Aggregation)
+
+组合关系代表对象之间的关联不是主从关系.一个对象的创建与销毁不会影响到另外一个对象的生命周期.
+聚合关系代表对象之间的关联是主从关系.主对象的生命周期会影响从对象的生命周期.
+
+用户与分组是组合关系;分组与分组是组合关系;角色与权限是组合关系;
+分组与角色和资源是聚合关系;资源与权限是聚合关系;
+
+面向资源的架构体系:
+扁平化(所有Resource都必须归属于某一个Group),层次化(Group与Group之间互相套嵌).
+组织管理基于Group,权限管理基于Property.
+资源是最小的组织单位.
+属性是最小的权限单位.
+访问控制基于注解,属性定义基于配置.
+
+权限控制分为基于注解与基于接口.
+基于注解分为URL模式与代理模式.
+
+
+
+聚合关系代表能够在主对象内创建(Create)/删除(Delete)从对象;
+组合关系代表只能修改两个对象之间的联系(Update);
+
+资源创建时,会由拥有者(Owner)指定基础的权限(Permission).权限不能被创建或者删除.
+
+
+
+RBAC权限管理:
+http://blog.csdn.net/painsonline/article/details/7183613/
+
+资源基础操作:
+实体:Create,Delete,Get
+属性:值类型(Update,Get),集合类型(Create,Delete,Get),映射类型(Create,Delete,Read,Write)
+
+
+resourceType/resourceId?propertyName={}
+示例
+创建组
+Create	url = groups/				data = {groupId:{},userId:{}}
+获取组列表
+Get		url = groups/
+删除组
+Delete	url = groups/1/
+
+获取组属性列表
+Get		url = groups/1/
+获取组属性(值类型)
+Get		url = groups/owner/
+修改组属性(值类型)
+Update	url = groups/owner/			data = {oldValue:{},newValue:{}}
+创建组属性(集合类型)
+Create	url = groups/1/roles/manager/
+获取组属性(集合类型)
+Get		url = groups/1/roles/
+删除组属性(集合类型)
+Delete	url = groups/1/roles/manager/
+
+创建资源
+Create	url = dialogues/			data = {groupId:{},userId:{}}
+删除资源
+Delete	url = dialogues/1/
+获取资源属性
+Get		url = dialogues/1/users/
+创建资源属性(集合类型)
+Create	url = dialogues/1/users/1
+删除资源属性(集合类型)
+Delete	url = dialogues/1/users/1
+
+根据反射、注解或者配置构建权限集合
+
+使用注解+代理的模式控制权限
+
+资源属性可以是字段,方法或者参数.
+
+
+
+
+
+
+
+

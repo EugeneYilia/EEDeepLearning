@@ -1,0 +1,120 @@
+17/06/03 21:12:57 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 21:12:57 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 21:12:57 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 21:12:57 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 21:12:57 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 21:12:57 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 21:12:57 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 21:12:57 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 21:12:57 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 21:12:57 INFO TextDataModel: Data size of training is 28408
+17/06/03 21:12:57 INFO TextDataModel: Data size of testing is 7086
+17/06/03 21:12:58 INFO TextDataModel: Transform data to Feature successfully!
+17/06/03 21:12:58 INFO TrustSVDRecommender: Job Setup completed.
+17/06/03 21:12:58 INFO TrustSVDRecommender: TrustSVDRecommender iter 1: loss = 20624.211745897424, delta_loss = -20624.21
+17/06/03 21:12:59 INFO TrustSVDRecommender: TrustSVDRecommender iter 2: loss = 14084.082530199745, delta_loss = 6540.1294
+17/06/03 21:12:59 INFO TrustSVDRecommender: TrustSVDRecommender iter 3: loss = 12363.380965057364, delta_loss = 1720.7015
+17/06/03 21:12:59 INFO TrustSVDRecommender: TrustSVDRecommender iter 4: loss = 11578.12357574444, delta_loss = 785.2574
+17/06/03 21:13:00 INFO TrustSVDRecommender: TrustSVDRecommender iter 5: loss = 11123.096982274814, delta_loss = 455.02658
+17/06/03 21:13:00 INFO TrustSVDRecommender: TrustSVDRecommender iter 6: loss = 10824.862276444801, delta_loss = 298.2347
+17/06/03 21:13:00 INFO TrustSVDRecommender: TrustSVDRecommender iter 7: loss = 10614.398282751483, delta_loss = 210.46399
+17/06/03 21:13:00 INFO TrustSVDRecommender: TrustSVDRecommender iter 8: loss = 10457.9610110302, delta_loss = 156.43727
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 9: loss = 10336.848211329656, delta_loss = 121.1128
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 10: loss = 10239.87076266259, delta_loss = 96.97745
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 11: loss = 10159.980789809275, delta_loss = 79.88998
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 12: loss = 10092.567773539464, delta_loss = 67.41302
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 13: loss = 10034.519488507, delta_loss = 58.048286
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 14: loss = 9983.675980880136, delta_loss = 50.843506
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 15: loss = 9938.498748751437, delta_loss = 45.17723
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 16: loss = 9897.864514994926, delta_loss = 40.634235
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 17: loss = 9860.93342263172, delta_loss = 36.93109
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 18: loss = 9827.063058360101, delta_loss = 33.870365
+17/06/03 21:13:01 INFO TrustSVDRecommender: TrustSVDRecommender iter 19: loss = 9795.751266221678, delta_loss = 31.311792
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 20: loss = 9766.597433408646, delta_loss = 29.153833
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 21: loss = 9739.275831115094, delta_loss = 27.321602
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 22: loss = 9713.516969644785, delta_loss = 25.758862
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 23: loss = 9689.094375142162, delta_loss = 24.422594
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 24: loss = 9665.815104737163, delta_loss = 23.27927
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 25: loss = 9643.512890010383, delta_loss = 22.302216
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 26: loss = 9622.043166444153, delta_loss = 21.469723
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 27: loss = 9601.279483330221, delta_loss = 20.763683
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 28: loss = 9581.110941912953, delta_loss = 20.168541
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 29: loss = 9561.440407984494, delta_loss = 19.670534
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 30: loss = 9542.183307212934, delta_loss = 19.257101
+17/06/03 21:13:02 INFO TrustSVDRecommender: TrustSVDRecommender iter 31: loss = 9523.26684941881, delta_loss = 18.916458
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 32: loss = 9504.629549778205, delta_loss = 18.6373
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 33: loss = 9486.220927375116, delta_loss = 18.408623
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 34: loss = 9468.00126911768, delta_loss = 18.219658
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 35: loss = 9449.94135479718, delta_loss = 18.059914
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 36: loss = 9432.022050277496, delta_loss = 17.919304
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 37: loss = 9414.233693501104, delta_loss = 17.788357
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 38: loss = 9396.575223248612, delta_loss = 17.65847
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 39: loss = 9379.053033083906, delta_loss = 17.52219
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 40: loss = 9361.679570184853, delta_loss = 17.373463
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 41: loss = 9344.471735981231, delta_loss = 17.207834
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 42: loss = 9327.44917790718, delta_loss = 17.022558
+17/06/03 21:13:03 INFO TrustSVDRecommender: TrustSVDRecommender iter 43: loss = 9310.632583212748, delta_loss = 16.816595
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 44: loss = 9294.042092627435, delta_loss = 16.59049
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 45: loss = 9277.695942335526, delta_loss = 16.34615
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 46: loss = 9261.609418425254, delta_loss = 16.086523
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 47: loss = 9245.794172988039, delta_loss = 15.815246
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 48: loss = 9230.257911631137, delta_loss = 15.536262
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 49: loss = 9215.004424633153, delta_loss = 15.253487
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 50: loss = 9200.033904025733, delta_loss = 14.970521
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 51: loss = 9185.343470093223, delta_loss = 14.6904335
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 52: loss = 9170.927823890066, delta_loss = 14.415647
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 53: loss = 9156.779946394832, delta_loss = 14.147878
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 54: loss = 9142.891776889684, delta_loss = 13.888169
+17/06/03 21:13:04 INFO TrustSVDRecommender: TrustSVDRecommender iter 55: loss = 9129.254819971342, delta_loss = 13.636957
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 56: loss = 9115.860648585136, delta_loss = 13.394172
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 57: loss = 9102.701287530343, delta_loss = 13.159361
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 58: loss = 9089.769475913872, delta_loss = 12.931811
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 59: loss = 9077.058817652762, delta_loss = 12.710658
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 60: loss = 9064.563835936877, delta_loss = 12.494982
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 61: loss = 9052.279951235236, delta_loss = 12.283885
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 62: loss = 9040.20340327675, delta_loss = 12.076548
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 63: loss = 9028.331136682149, delta_loss = 11.872267
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 64: loss = 9016.66066738887, delta_loss = 11.670469
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 65: loss = 9005.189944263167, delta_loss = 11.470723
+17/06/03 21:13:05 INFO TrustSVDRecommender: TrustSVDRecommender iter 66: loss = 8993.917216931313, delta_loss = 11.272727
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 67: loss = 8982.840917517526, delta_loss = 11.0763
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 68: loss = 8971.9595613051, delta_loss = 10.881356
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 69: loss = 8961.271668315863, delta_loss = 10.687893
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 70: loss = 8950.775706322225, delta_loss = 10.495962
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 71: loss = 8940.470053663857, delta_loss = 10.305653
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 72: loss = 8930.352979603367, delta_loss = 10.117074
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 73: loss = 8920.422639162678, delta_loss = 9.930341
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 74: loss = 8910.677079096771, delta_loss = 9.74556
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 75: loss = 8901.11425183728, delta_loss = 9.562827
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 76: loss = 8891.732034277824, delta_loss = 9.382217
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 77: loss = 8882.528248975103, delta_loss = 9.203785
+17/06/03 21:13:06 INFO TrustSVDRecommender: TrustSVDRecommender iter 78: loss = 8873.500685500292, delta_loss = 9.027563
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 79: loss = 8864.64712027548, delta_loss = 8.853565
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 80: loss = 8855.965333842327, delta_loss = 8.681787
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 81: loss = 8847.453124595075, delta_loss = 8.512209
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 82: loss = 8839.108318865634, delta_loss = 8.344806
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 83: loss = 8830.928777006979, delta_loss = 8.179542
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 84: loss = 8822.912395852496, delta_loss = 8.016381
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 85: loss = 8815.057107757893, delta_loss = 7.855288
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 86: loss = 8807.360876842886, delta_loss = 7.696231
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 87: loss = 8799.821692826084, delta_loss = 7.539184
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 88: loss = 8792.437563204523, delta_loss = 7.3841295
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 89: loss = 8785.206504246335, delta_loss = 7.231059
+17/06/03 21:13:07 INFO TrustSVDRecommender: TrustSVDRecommender iter 90: loss = 8778.12653148169, delta_loss = 7.0799727
+17/06/03 21:13:08 INFO TrustSVDRecommender: TrustSVDRecommender iter 91: loss = 8771.195650127138, delta_loss = 6.9308815
+17/06/03 21:13:08 INFO TrustSVDRecommender: TrustSVDRecommender iter 92: loss = 8764.411845949515, delta_loss = 6.783804
+17/06/03 21:13:08 INFO TrustSVDRecommender: TrustSVDRecommender iter 93: loss = 8757.773076938074, delta_loss = 6.638769
+17/06/03 21:13:08 INFO TrustSVDRecommender: TrustSVDRecommender iter 94: loss = 8751.277266146193, delta_loss = 6.495811
+17/06/03 21:13:08 INFO TrustSVDRecommender: TrustSVDRecommender iter 95: loss = 8744.922295840932, delta_loss = 6.3549705
+17/06/03 21:13:08 INFO TrustSVDRecommender: TrustSVDRecommender iter 96: loss = 8738.706003191604, delta_loss = 6.216293
+17/06/03 21:13:08 INFO TrustSVDRecommender: TrustSVDRecommender iter 97: loss = 8732.626177507342, delta_loss = 6.079826
+17/06/03 21:13:08 INFO TrustSVDRecommender: TrustSVDRecommender iter 98: loss = 8726.680559055798, delta_loss = 5.9456186
+17/06/03 21:13:08 INFO TrustSVDRecommender: TrustSVDRecommender iter 99: loss = 8720.866839385553, delta_loss = 5.8137197
+17/06/03 21:13:08 INFO TrustSVDRecommender: TrustSVDRecommender iter 100: loss = 8715.18266310528, delta_loss = 5.6841764
+17/06/03 21:13:08 INFO TrustSVDRecommender: Job Train completed.
+17/06/03 21:13:08 INFO TrustSVDRecommender: Job End.
+17/06/03 21:13:08 INFO RecommenderJob: Evaluator value:MAE is 0.6133142404960893
+17/06/03 21:13:08 INFO RecommenderJob: Evaluator value:MPE is 0.9901213660739486
+17/06/03 21:13:08 INFO RecommenderJob: Evaluator value:RMSE is 0.7918984175921658
+17/06/03 21:13:08 INFO RecommenderJob: Evaluator value:MSE is 0.6271031037849762
+17/06/03 21:13:08 INFO RecommenderJob: Result path is result/filmtrust/rating-trustsvd-output/trustsvd

@@ -1,0 +1,19 @@
+17/06/03 16:07:21 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 16:07:21 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 16:07:21 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 16:07:21 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 16:07:21 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 16:07:21 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 16:07:21 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 16:07:21 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 16:07:21 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 16:07:21 INFO TextDataModel: Data size of training is 28408
+17/06/03 16:07:21 INFO TextDataModel: Data size of testing is 7086
+17/06/03 16:07:21 INFO UserAverageRecommender: Job Setup completed.
+17/06/03 16:07:21 INFO UserAverageRecommender: Job Train completed.
+17/06/03 16:07:21 INFO UserAverageRecommender: Job End.
+17/06/03 16:07:21 INFO RecommenderJob: Evaluator value:MPE is 0.9777025119954841
+17/06/03 16:07:21 INFO RecommenderJob: Evaluator value:RMSE is 0.8261054248702475
+17/06/03 16:07:21 INFO RecommenderJob: Evaluator value:MAE is 0.6397103396803296
+17/06/03 16:07:21 INFO RecommenderJob: Evaluator value:MSE is 0.6824501730000522
+17/06/03 16:07:21 INFO RecommenderJob: Result path is result/filmtrust/rating-useraverage-output/useraverage

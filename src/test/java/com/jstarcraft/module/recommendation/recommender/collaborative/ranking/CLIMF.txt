@@ -1,0 +1,119 @@
+17/07/14 20:54:46 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/07/14 20:54:46 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/07/14 20:54:46 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/07/14 20:54:46 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/07/14 20:54:46 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/07/14 20:54:46 INFO TextDataModel: Transform data to Convertor successfully!
+17/07/14 20:54:46 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/07/14 20:54:46 INFO TextDataModel: Data size of training is 28408
+17/07/14 20:54:46 INFO TextDataModel: Data size of testing is 7086
+17/07/14 20:54:46 INFO CLIMFRecommender: Job Setup completed.
+17/07/14 20:54:47 INFO CLIMFRecommender: CLIMFRecommender iter 1: loss = -773983.7454222512, delta_loss = 773983.75
+17/07/14 20:54:48 INFO CLIMFRecommender: CLIMFRecommender iter 2: loss = -773929.2641405398, delta_loss = -54.48128
+17/07/14 20:54:49 INFO CLIMFRecommender: CLIMFRecommender iter 3: loss = -773884.8033198343, delta_loss = -44.46082
+17/07/14 20:54:49 INFO CLIMFRecommender: CLIMFRecommender iter 4: loss = -773847.9471766386, delta_loss = -36.856144
+17/07/14 20:54:50 INFO CLIMFRecommender: CLIMFRecommender iter 5: loss = -773816.9936554367, delta_loss = -30.953522
+17/07/14 20:54:50 INFO CLIMFRecommender: CLIMFRecommender iter 6: loss = -773790.7036933913, delta_loss = -26.289963
+17/07/14 20:54:51 INFO CLIMFRecommender: CLIMFRecommender iter 7: loss = -773768.1514705414, delta_loss = -22.552223
+17/07/14 20:54:51 INFO CLIMFRecommender: CLIMFRecommender iter 8: loss = -773748.6302326593, delta_loss = -19.521238
+17/07/14 20:54:52 INFO CLIMFRecommender: CLIMFRecommender iter 9: loss = -773731.5906110264, delta_loss = -17.039621
+17/07/14 20:54:53 INFO CLIMFRecommender: CLIMFRecommender iter 10: loss = -773716.5988546453, delta_loss = -14.991756
+17/07/14 20:54:53 INFO CLIMFRecommender: CLIMFRecommender iter 11: loss = -773703.307758771, delta_loss = -13.291096
+17/07/14 20:54:54 INFO CLIMFRecommender: CLIMFRecommender iter 12: loss = -773691.435939875, delta_loss = -11.871819
+17/07/14 20:54:54 INFO CLIMFRecommender: CLIMFRecommender iter 13: loss = -773680.752751422, delta_loss = -10.683188
+17/07/14 20:54:55 INFO CLIMFRecommender: CLIMFRecommender iter 14: loss = -773671.0671057546, delta_loss = -9.685646
+17/07/14 20:54:55 INFO CLIMFRecommender: CLIMFRecommender iter 15: loss = -773662.2190515953, delta_loss = -8.848054
+17/07/14 20:54:56 INFO CLIMFRecommender: CLIMFRecommender iter 16: loss = -773654.0733299607, delta_loss = -8.145721
+17/07/14 20:54:56 INFO CLIMFRecommender: CLIMFRecommender iter 17: loss = -773646.5143804899, delta_loss = -7.5589495
+17/07/14 20:54:57 INFO CLIMFRecommender: CLIMFRecommender iter 18: loss = -773639.4424138719, delta_loss = -7.0719666
+17/07/14 20:54:58 INFO CLIMFRecommender: CLIMFRecommender iter 19: loss = -773632.7702916904, delta_loss = -6.672122
+17/07/14 20:54:58 INFO CLIMFRecommender: CLIMFRecommender iter 20: loss = -773626.4210135872, delta_loss = -6.349278
+17/07/14 20:54:59 INFO CLIMFRecommender: CLIMFRecommender iter 21: loss = -773620.325669389, delta_loss = -6.095344
+17/07/14 20:54:59 INFO CLIMFRecommender: CLIMFRecommender iter 22: loss = -773614.4217513783, delta_loss = -5.903918
+17/07/14 20:55:00 INFO CLIMFRecommender: CLIMFRecommender iter 23: loss = -773608.6517462574, delta_loss = -5.770005
+17/07/14 20:55:00 INFO CLIMFRecommender: CLIMFRecommender iter 24: loss = -773602.961944204, delta_loss = -5.689802
+17/07/14 20:55:01 INFO CLIMFRecommender: CLIMFRecommender iter 25: loss = -773597.3014194049, delta_loss = -5.660525
+17/07/14 20:55:02 INFO CLIMFRecommender: CLIMFRecommender iter 26: loss = -773591.6211440157, delta_loss = -5.6802754
+17/07/14 20:55:02 INFO CLIMFRecommender: CLIMFRecommender iter 27: loss = -773585.8732076254, delta_loss = -5.7479362
+17/07/14 20:55:03 INFO CLIMFRecommender: CLIMFRecommender iter 28: loss = -773580.0101223253, delta_loss = -5.8630853
+17/07/14 20:55:03 INFO CLIMFRecommender: CLIMFRecommender iter 29: loss = -773573.9841871115, delta_loss = -6.025935
+17/07/14 20:55:04 INFO CLIMFRecommender: CLIMFRecommender iter 30: loss = -773567.7469088327, delta_loss = -6.2372785
+17/07/14 20:55:04 INFO CLIMFRecommender: CLIMFRecommender iter 31: loss = -773561.2484587043, delta_loss = -6.4984503
+17/07/14 20:55:05 INFO CLIMFRecommender: CLIMFRecommender iter 32: loss = -773554.4371589994, delta_loss = -6.8113
+17/07/14 20:55:05 INFO CLIMFRecommender: CLIMFRecommender iter 33: loss = -773547.258994132, delta_loss = -7.178165
+17/07/14 20:55:06 INFO CLIMFRecommender: CLIMFRecommender iter 34: loss = -773539.6571383184, delta_loss = -7.6018558
+17/07/14 20:55:07 INFO CLIMFRecommender: CLIMFRecommender iter 35: loss = -773531.5714968682, delta_loss = -8.085642
+17/07/14 20:55:07 INFO CLIMFRecommender: CLIMFRecommender iter 36: loss = -773522.9382549471, delta_loss = -8.633242
+17/07/14 20:55:08 INFO CLIMFRecommender: CLIMFRecommender iter 37: loss = -773513.6894362529, delta_loss = -9.248818
+17/07/14 20:55:08 INFO CLIMFRecommender: CLIMFRecommender iter 38: loss = -773503.7524698615, delta_loss = -9.936966
+17/07/14 20:55:09 INFO CLIMFRecommender: CLIMFRecommender iter 39: loss = -773493.0497591166, delta_loss = -10.702711
+17/07/14 20:55:09 INFO CLIMFRecommender: CLIMFRecommender iter 40: loss = -773481.4982636292, delta_loss = -11.551496
+17/07/14 20:55:10 INFO CLIMFRecommender: CLIMFRecommender iter 41: loss = -773469.0090886353, delta_loss = -12.489175
+17/07/14 20:55:10 INFO CLIMFRecommender: CLIMFRecommender iter 42: loss = -773455.4870886927, delta_loss = -13.522
+17/07/14 20:55:11 INFO CLIMFRecommender: CLIMFRecommender iter 43: loss = -773440.8304933526, delta_loss = -14.656595
+17/07/14 20:55:12 INFO CLIMFRecommender: CLIMFRecommender iter 44: loss = -773424.9305612979, delta_loss = -15.899932
+17/07/14 20:55:12 INFO CLIMFRecommender: CLIMFRecommender iter 45: loss = -773407.6712755191, delta_loss = -17.259285
+17/07/14 20:55:13 INFO CLIMFRecommender: CLIMFRecommender iter 46: loss = -773388.9290969111, delta_loss = -18.742178
+17/07/14 20:55:13 INFO CLIMFRecommender: CLIMFRecommender iter 47: loss = -773368.572792277, delta_loss = -20.356304
+17/07/14 20:55:14 INFO CLIMFRecommender: CLIMFRecommender iter 48: loss = -773346.4633682519, delta_loss = -22.109425
+17/07/14 20:55:14 INFO CLIMFRecommender: CLIMFRecommender iter 49: loss = -773322.454140159, delta_loss = -24.009228
+17/07/14 20:55:15 INFO CLIMFRecommender: CLIMFRecommender iter 50: loss = -773296.3909652394, delta_loss = -26.063175
+17/07/14 20:55:15 INFO CLIMFRecommender: CLIMFRecommender iter 51: loss = -773268.1126941699, delta_loss = -28.27827
+17/07/14 20:55:16 INFO CLIMFRecommender: CLIMFRecommender iter 52: loss = -773237.451870016, delta_loss = -30.660824
+17/07/14 20:55:17 INFO CLIMFRecommender: CLIMFRecommender iter 53: loss = -773204.2357319301, delta_loss = -33.216137
+17/07/14 20:55:17 INFO CLIMFRecommender: CLIMFRecommender iter 54: loss = -773168.2875552913, delta_loss = -35.948177
+17/07/14 20:55:18 INFO CLIMFRecommender: CLIMFRecommender iter 55: loss = -773129.4283754994, delta_loss = -38.85918
+17/07/14 20:55:18 INFO CLIMFRecommender: CLIMFRecommender iter 56: loss = -773087.4791258328, delta_loss = -41.94925
+17/07/14 20:55:19 INFO CLIMFRecommender: CLIMFRecommender iter 57: loss = -773042.2632078563, delta_loss = -45.21592
+17/07/14 20:55:19 INFO CLIMFRecommender: CLIMFRecommender iter 58: loss = -772993.6095217708, delta_loss = -48.653687
+17/07/14 20:55:20 INFO CLIMFRecommender: CLIMFRecommender iter 59: loss = -772941.3559415477, delta_loss = -52.253582
+17/07/14 20:55:20 INFO CLIMFRecommender: CLIMFRecommender iter 60: loss = -772885.3532443956, delta_loss = -56.002697
+17/07/14 20:55:21 INFO CLIMFRecommender: CLIMFRecommender iter 61: loss = -772825.4694566339, delta_loss = -59.88379
+17/07/14 20:55:22 INFO CLIMFRecommender: CLIMFRecommender iter 62: loss = -772761.5945802485, delta_loss = -63.874878
+17/07/14 20:55:22 INFO CLIMFRecommender: CLIMFRecommender iter 63: loss = -772693.6456289936, delta_loss = -67.94895
+17/07/14 20:55:23 INFO CLIMFRecommender: CLIMFRecommender iter 64: loss = -772621.5718807381, delta_loss = -72.073746
+17/07/14 20:55:23 INFO CLIMFRecommender: CLIMFRecommender iter 65: loss = -772545.3602232286, delta_loss = -76.211655
+17/07/14 20:55:24 INFO CLIMFRecommender: CLIMFRecommender iter 66: loss = -772465.0404249504, delta_loss = -80.3198
+17/07/14 20:55:24 INFO CLIMFRecommender: CLIMFRecommender iter 67: loss = -772380.6901452477, delta_loss = -84.35028
+17/07/14 20:55:25 INFO CLIMFRecommender: CLIMFRecommender iter 68: loss = -772292.4394659381, delta_loss = -88.25068
+17/07/14 20:55:25 INFO CLIMFRecommender: CLIMFRecommender iter 69: loss = -772200.474697519, delta_loss = -91.96477
+17/07/14 20:55:26 INFO CLIMFRecommender: CLIMFRecommender iter 70: loss = -772105.041215283, delta_loss = -95.43348
+17/07/14 20:55:27 INFO CLIMFRecommender: CLIMFRecommender iter 71: loss = -772006.4450735261, delta_loss = -98.59614
+17/07/14 20:55:27 INFO CLIMFRecommender: CLIMFRecommender iter 72: loss = -771905.0531610096, delta_loss = -101.391914
+17/07/14 20:55:28 INFO CLIMFRecommender: CLIMFRecommender iter 73: loss = -771801.2916989085, delta_loss = -103.76146
+17/07/14 20:55:28 INFO CLIMFRecommender: CLIMFRecommender iter 74: loss = -771695.6429290274, delta_loss = -105.64877
+17/07/14 20:55:29 INFO CLIMFRecommender: CLIMFRecommender iter 75: loss = -771588.6399076259, delta_loss = -107.00302
+17/07/14 20:55:29 INFO CLIMFRecommender: CLIMFRecommender iter 76: loss = -771480.8594132573, delta_loss = -107.780495
+17/07/14 20:55:30 INFO CLIMFRecommender: CLIMFRecommender iter 77: loss = -771372.9130721798, delta_loss = -107.94634
+17/07/14 20:55:31 INFO CLIMFRecommender: CLIMFRecommender iter 78: loss = -771265.4369185972, delta_loss = -107.47615
+17/07/14 20:55:31 INFO CLIMFRecommender: CLIMFRecommender iter 79: loss = -771159.0797073432, delta_loss = -106.35721
+17/07/14 20:55:32 INFO CLIMFRecommender: CLIMFRecommender iter 80: loss = -771054.4904057531, delta_loss = -104.5893
+17/07/14 20:55:32 INFO CLIMFRecommender: CLIMFRecommender iter 81: loss = -770952.3053472469, delta_loss = -102.18506
+17/07/14 20:55:33 INFO CLIMFRecommender: CLIMFRecommender iter 82: loss = -770853.1355922471, delta_loss = -99.169754
+17/07/14 20:55:33 INFO CLIMFRecommender: CLIMFRecommender iter 83: loss = -770757.555037803, delta_loss = -95.58055
+17/07/14 20:55:34 INFO CLIMFRecommender: CLIMFRecommender iter 84: loss = -770666.0897871562, delta_loss = -91.46525
+17/07/14 20:55:34 INFO CLIMFRecommender: CLIMFRecommender iter 85: loss = -770579.2092290111, delta_loss = -86.88056
+17/07/14 20:55:35 INFO CLIMFRecommender: CLIMFRecommender iter 86: loss = -770497.3191653106, delta_loss = -81.89006
+17/07/14 20:55:36 INFO CLIMFRecommender: CLIMFRecommender iter 87: loss = -770420.7571936554, delta_loss = -76.56197
+17/07/14 20:55:36 INFO CLIMFRecommender: CLIMFRecommender iter 88: loss = -770349.7904164366, delta_loss = -70.966774
+17/07/14 20:55:37 INFO CLIMFRecommender: CLIMFRecommender iter 89: loss = -770284.6153976301, delta_loss = -65.17502
+17/07/14 20:55:37 INFO CLIMFRecommender: CLIMFRecommender iter 90: loss = -770225.360167502, delta_loss = -59.25523
+17/07/14 20:55:38 INFO CLIMFRecommender: CLIMFRecommender iter 91: loss = -770172.0879725085, delta_loss = -53.272194
+17/07/14 20:55:38 INFO CLIMFRecommender: CLIMFRecommender iter 92: loss = -770124.8024072854, delta_loss = -47.285564
+17/07/14 20:55:39 INFO CLIMFRecommender: CLIMFRecommender iter 93: loss = -770083.4535383068, delta_loss = -41.34887
+17/07/14 20:55:39 INFO CLIMFRecommender: CLIMFRecommender iter 94: loss = -770047.9446301797, delta_loss = -35.508907
+17/07/14 20:55:40 INFO CLIMFRecommender: CLIMFRecommender iter 95: loss = -770018.1391306816, delta_loss = -29.8055
+17/07/14 20:55:41 INFO CLIMFRecommender: CLIMFRecommender iter 96: loss = -769993.8675901853, delta_loss = -24.27154
+17/07/14 20:55:41 INFO CLIMFRecommender: CLIMFRecommender iter 97: loss = -769974.9344405578, delta_loss = -18.93315
+17/07/14 20:55:42 INFO CLIMFRecommender: CLIMFRecommender iter 98: loss = -769961.125614563, delta_loss = -13.808826
+17/07/14 20:55:42 INFO CLIMFRecommender: CLIMFRecommender iter 99: loss = -769952.2778703513, delta_loss = -8.847744
+17/07/14 20:55:43 INFO CLIMFRecommender: CLIMFRecommender iter 100: loss = -769950.4857573615, delta_loss = -1.792113
+17/07/14 20:55:43 INFO CLIMFRecommender: Job Train completed.
+17/07/14 20:55:43 INFO CLIMFRecommender: Job End.
+17/07/14 20:55:43 INFO Task: Evaluator value:RR top 10 is 0.4143411508249704
+17/07/14 20:55:43 INFO Task: Evaluator value:AP top 10 is 0.3093832854036697
+17/07/14 20:55:43 INFO Task: Evaluator value:PRECISION top 10 is 0.2784530386740336
+17/07/14 20:55:43 INFO Task: Evaluator value:AUC top 10 is 0.8133467093918006
+17/07/14 20:55:43 INFO Task: Evaluator value:NDCG top 10 is 0.37488726360481867
+17/07/14 20:55:43 INFO Task: Evaluator value:RECALL top 10 is 0.41413879337414666
+17/07/14 20:55:43 INFO Task: Result path is result/filmtrust/rating-climf-output/climf

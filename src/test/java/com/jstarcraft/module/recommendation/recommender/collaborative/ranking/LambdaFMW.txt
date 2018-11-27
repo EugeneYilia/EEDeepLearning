@@ -1,0 +1,66 @@
+449
+16:52:52 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 0: loss = 35482.32880457817, delta_loss = -35482.33
+313
+16:52:53 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 1: loss = 28994.465748140876, delta_loss = 6487.8633
+289
+16:52:53 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 2: loss = 27412.715765176654, delta_loss = 1581.75
+397
+16:52:54 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 3: loss = 27281.623967258387, delta_loss = 131.0918
+599
+16:52:54 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 4: loss = 27924.700875029786, delta_loss = -643.0769
+848
+16:52:55 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 5: loss = 28922.231736128557, delta_loss = -997.5309
+1042
+16:52:57 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 6: loss = 30225.259340390166, delta_loss = -1303.0276
+1239
+16:52:58 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 7: loss = 31373.59004658107, delta_loss = -1148.3307
+1366
+16:53:00 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 8: loss = 32088.474378934323, delta_loss = -714.88434
+1432
+16:53:01 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 9: loss = 32830.614991306305, delta_loss = -742.1406
+1506
+16:53:03 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 10: loss = 33248.894008976196, delta_loss = -418.27902
+1511
+16:53:05 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 11: loss = 33763.73344705372, delta_loss = -514.8394
+1581
+16:53:07 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 12: loss = 34035.567683316294, delta_loss = -271.83423
+1582
+16:53:08 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 13: loss = 34583.016141514236, delta_loss = -547.4485
+1635
+16:53:10 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 14: loss = 35135.21842167844, delta_loss = -552.2023
+1648
+16:53:12 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 15: loss = 35397.344439358305, delta_loss = -262.126
+1643
+16:53:14 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 16: loss = 35791.083526634364, delta_loss = -393.73907
+1702
+16:53:16 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 17: loss = 35954.95378509932, delta_loss = -163.87025
+1700
+16:53:18 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 18: loss = 36159.55899247796, delta_loss = -204.60521
+1713
+16:53:20 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 19: loss = 36453.99053432583, delta_loss = -294.43155
+1703
+16:53:21 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 20: loss = 36727.61499345591, delta_loss = -273.62445
+1725
+16:53:23 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 21: loss = 36946.03505852058, delta_loss = -218.42006
+1735
+16:53:25 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 22: loss = 37015.62955017972, delta_loss = -69.59449
+1793
+16:53:27 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 23: loss = 37294.04369295509, delta_loss = -278.41415
+1719
+16:53:29 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 24: loss = 37301.576273197934, delta_loss = -7.5325804
+1818
+16:53:31 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 25: loss = 37636.38506209708, delta_loss = -334.80878
+1769
+16:53:33 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 26: loss = 37688.01063538138, delta_loss = -51.625572
+1752
+16:53:35 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 27: loss = 37863.36107634771, delta_loss = -175.35043
+1764
+16:53:37 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 28: loss = 37848.83042578399, delta_loss = 14.53065
+1748
+16:53:39 [main] INFO (ModelRecommender.java:50) - LambdaFMWRecommender iter 29: loss = 38090.637225301056, delta_loss = -241.8068
+16:54:33 [main] INFO (AbstractTask.java:292) - measure of RecallEvaluator is 0.3006153151402524
+16:54:33 [main] INFO (AbstractTask.java:292) - measure of MAPEvaluator is 0.23448058910475714
+16:54:33 [main] INFO (AbstractTask.java:292) - measure of AUCEvaluator is 0.7755908794203721
+16:54:33 [main] INFO (AbstractTask.java:292) - measure of MRREvaluator is 0.36088142319074573
+16:54:33 [main] INFO (AbstractTask.java:292) - measure of PrecisionEvaluator is 0.07444915254237149
+16:54:33 [main] INFO (AbstractTask.java:292) - measure of NDCGEvaluator is 0.28203198318932177

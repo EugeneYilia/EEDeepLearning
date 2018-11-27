@@ -1,0 +1,19 @@
+17/07/01 19:24:52 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/07/01 19:24:52 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/07/01 19:24:52 INFO TextDataConvertor: All dataset files size 411942
+17/07/01 19:24:52 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/07/01 19:24:52 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/07/01 19:24:52 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/07/01 19:24:52 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/07/01 19:24:52 INFO TextDataModel: Transform data to Convertor successfully!
+17/07/01 19:24:52 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/07/01 19:24:52 INFO TextDataModel: Data size of training is 28408
+17/07/01 19:24:52 INFO TextDataModel: Data size of testing is 7086
+17/07/01 19:24:52 INFO LLORMARecommender: Job Setup completed.
+17/07/01 19:25:07 INFO LLORMARecommender: Job Train completed.
+17/07/01 19:25:07 INFO LLORMARecommender: Job End.
+17/07/01 19:25:07 INFO RecommenderJob: Evaluator value:RMSE is 0.8918883899379982
+17/07/01 19:25:07 INFO RecommenderJob: Evaluator value:MPE is 0.9641546711826136
+17/07/01 19:25:07 INFO RecommenderJob: Evaluator value:MAE is 0.6546262750747678
+17/07/01 19:25:07 INFO RecommenderJob: Evaluator value:MSE is 0.7954649001061949
+17/07/01 19:25:07 INFO RecommenderJob: Result path is result/filmtrust/rating-llorma-output/llorma

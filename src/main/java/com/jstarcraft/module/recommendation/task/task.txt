@@ -1,0 +1,24 @@
+Task的核心目标是制作(make)推荐器(Recommender).
+Task与Splitter考虑整合?
+
+Context.valueOf(userAttribute, itemAttribute, scoreAttribute, attributes...)
+DataAttribute Context.getUserAttribute()
+DataAttribute Context.getItemAttribute()
+DataAttribute Context.getScoreAttribute()
+DataAttribute Context.getDataAttribute(name)
+Collection<DataAttribute> Context.getDataAttributes()
+DataModel Context.getScoreModel()
+DataModel Context.createContextModel(name, attributes...)
+DataModel Context.deleteContextModel(name)
+DataModel Context.getContextModel(name)
+Collection<DataModel> Context.getContextModels()
+
+Splitter.valueOf(context)
+DataModel Splitter.getTrainModel()
+DataModel Splitter.getTestModel()
+
+void Recommender.prepare(configuration)
+void Recommender.train(context)
+double Recommender.predict(userIndex, itemIndex)
+
+double Evaluator.evaluate(testModel, recommender)

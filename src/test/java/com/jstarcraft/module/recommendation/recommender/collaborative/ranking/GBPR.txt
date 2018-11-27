@@ -1,0 +1,121 @@
+17/06/03 19:50:51 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 19:50:51 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 19:50:51 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 19:50:51 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 19:50:51 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 19:50:51 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 19:50:51 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 19:50:51 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 19:50:51 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 19:50:51 INFO TextDataModel: Data size of training is 28408
+17/06/03 19:50:51 INFO TextDataModel: Data size of testing is 7086
+17/06/03 19:50:51 INFO GBPRRecommender: Job Setup completed.
+17/06/03 19:50:51 INFO GBPRRecommender: GBPRRecommender iter 1: loss = 34550.57784775804, delta_loss = -34550.58
+17/06/03 19:50:52 INFO GBPRRecommender: GBPRRecommender iter 2: loss = 19666.652910327924, delta_loss = 14883.925
+17/06/03 19:50:52 INFO GBPRRecommender: GBPRRecommender iter 3: loss = 16977.65363885039, delta_loss = 2688.9993
+17/06/03 19:50:52 INFO GBPRRecommender: GBPRRecommender iter 4: loss = 15567.578585139594, delta_loss = 1410.0751
+17/06/03 19:50:53 INFO GBPRRecommender: GBPRRecommender iter 5: loss = 14766.470159964334, delta_loss = 801.1084
+17/06/03 19:50:53 INFO GBPRRecommender: GBPRRecommender iter 6: loss = 14135.972795655483, delta_loss = 630.4974
+17/06/03 19:50:53 INFO GBPRRecommender: GBPRRecommender iter 7: loss = 13870.514652749314, delta_loss = 265.45813
+17/06/03 19:50:53 INFO GBPRRecommender: GBPRRecommender iter 8: loss = 13234.383406005856, delta_loss = 636.1312
+17/06/03 19:50:54 INFO GBPRRecommender: GBPRRecommender iter 9: loss = 12871.44536277368, delta_loss = 362.93805
+17/06/03 19:50:54 INFO GBPRRecommender: GBPRRecommender iter 10: loss = 12718.169837965925, delta_loss = 153.27553
+17/06/03 19:50:54 INFO GBPRRecommender: GBPRRecommender iter 11: loss = 12627.43515360313, delta_loss = 90.73469
+17/06/03 19:50:54 INFO GBPRRecommender: GBPRRecommender iter 12: loss = 12078.842857790347, delta_loss = 548.5923
+17/06/03 19:50:55 INFO GBPRRecommender: GBPRRecommender iter 13: loss = 12060.517150208489, delta_loss = 18.325708
+17/06/03 19:50:55 INFO GBPRRecommender: GBPRRecommender iter 14: loss = 12034.329207822122, delta_loss = 26.187943
+17/06/03 19:50:55 INFO GBPRRecommender: GBPRRecommender iter 15: loss = 11418.387373126556, delta_loss = 615.94183
+17/06/03 19:50:55 INFO GBPRRecommender: GBPRRecommender iter 16: loss = 11241.975457014269, delta_loss = 176.41191
+17/06/03 19:50:55 INFO GBPRRecommender: GBPRRecommender iter 17: loss = 11073.274534136372, delta_loss = 168.70093
+17/06/03 19:50:56 INFO GBPRRecommender: GBPRRecommender iter 18: loss = 10859.375504323521, delta_loss = 213.89903
+17/06/03 19:50:56 INFO GBPRRecommender: GBPRRecommender iter 19: loss = 10914.490697078481, delta_loss = -55.115192
+17/06/03 19:50:56 INFO GBPRRecommender: GBPRRecommender iter 20: loss = 10477.853445210678, delta_loss = 436.63724
+17/06/03 19:50:56 INFO GBPRRecommender: GBPRRecommender iter 21: loss = 10407.55210344563, delta_loss = 70.30134
+17/06/03 19:50:56 INFO GBPRRecommender: GBPRRecommender iter 22: loss = 10167.221405674276, delta_loss = 240.3307
+17/06/03 19:50:57 INFO GBPRRecommender: GBPRRecommender iter 23: loss = 9814.4763190113, delta_loss = 352.7451
+17/06/03 19:50:57 INFO GBPRRecommender: GBPRRecommender iter 24: loss = 9712.11344790232, delta_loss = 102.36287
+17/06/03 19:50:57 INFO GBPRRecommender: GBPRRecommender iter 25: loss = 9519.587638239576, delta_loss = 192.5258
+17/06/03 19:50:57 INFO GBPRRecommender: GBPRRecommender iter 26: loss = 9462.132625382124, delta_loss = 57.455013
+17/06/03 19:50:58 INFO GBPRRecommender: GBPRRecommender iter 27: loss = 9284.27581680144, delta_loss = 177.85681
+17/06/03 19:50:58 INFO GBPRRecommender: GBPRRecommender iter 28: loss = 9107.229338760853, delta_loss = 177.04648
+17/06/03 19:50:58 INFO GBPRRecommender: GBPRRecommender iter 29: loss = 8722.649864135863, delta_loss = 384.57947
+17/06/03 19:50:58 INFO GBPRRecommender: GBPRRecommender iter 30: loss = 8596.076781226968, delta_loss = 126.57308
+17/06/03 19:50:58 INFO GBPRRecommender: GBPRRecommender iter 31: loss = 8711.820210866443, delta_loss = -115.74343
+17/06/03 19:50:59 INFO GBPRRecommender: GBPRRecommender iter 32: loss = 8656.723342631101, delta_loss = 55.096867
+17/06/03 19:50:59 INFO GBPRRecommender: GBPRRecommender iter 33: loss = 8261.943374171009, delta_loss = 394.77997
+17/06/03 19:50:59 INFO GBPRRecommender: GBPRRecommender iter 34: loss = 7949.230435438456, delta_loss = 312.71295
+17/06/03 19:50:59 INFO GBPRRecommender: GBPRRecommender iter 35: loss = 8091.696211709797, delta_loss = -142.46577
+17/06/03 19:50:59 INFO GBPRRecommender: GBPRRecommender iter 36: loss = 7682.067275980452, delta_loss = 409.62894
+17/06/03 19:51:00 INFO GBPRRecommender: GBPRRecommender iter 37: loss = 7704.553989020739, delta_loss = -22.486713
+17/06/03 19:51:00 INFO GBPRRecommender: GBPRRecommender iter 38: loss = 7434.157714487953, delta_loss = 270.39627
+17/06/03 19:51:00 INFO GBPRRecommender: GBPRRecommender iter 39: loss = 7517.636449195045, delta_loss = -83.47874
+17/06/03 19:51:00 INFO GBPRRecommender: GBPRRecommender iter 40: loss = 7213.108895835958, delta_loss = 304.52756
+17/06/03 19:51:01 INFO GBPRRecommender: GBPRRecommender iter 41: loss = 7128.979556287811, delta_loss = 84.12934
+17/06/03 19:51:01 INFO GBPRRecommender: GBPRRecommender iter 42: loss = 7141.872141378185, delta_loss = -12.892585
+17/06/03 19:51:01 INFO GBPRRecommender: GBPRRecommender iter 43: loss = 7043.1662228541445, delta_loss = 98.70592
+17/06/03 19:51:01 INFO GBPRRecommender: GBPRRecommender iter 44: loss = 6778.634048414424, delta_loss = 264.53217
+17/06/03 19:51:01 INFO GBPRRecommender: GBPRRecommender iter 45: loss = 6783.181365130414, delta_loss = -4.5473166
+17/06/03 19:51:02 INFO GBPRRecommender: GBPRRecommender iter 46: loss = 6468.819943902827, delta_loss = 314.36142
+17/06/03 19:51:02 INFO GBPRRecommender: GBPRRecommender iter 47: loss = 6507.046163391964, delta_loss = -38.22622
+17/06/03 19:51:02 INFO GBPRRecommender: GBPRRecommender iter 48: loss = 6515.015323167881, delta_loss = -7.9691596
+17/06/03 19:51:02 INFO GBPRRecommender: GBPRRecommender iter 49: loss = 6476.850039992974, delta_loss = 38.165283
+17/06/03 19:51:02 INFO GBPRRecommender: GBPRRecommender iter 50: loss = 6215.742344933558, delta_loss = 261.1077
+17/06/03 19:51:03 INFO GBPRRecommender: GBPRRecommender iter 51: loss = 6243.022064132022, delta_loss = -27.279718
+17/06/03 19:51:03 INFO GBPRRecommender: GBPRRecommender iter 52: loss = 6044.984071819334, delta_loss = 198.038
+17/06/03 19:51:03 INFO GBPRRecommender: GBPRRecommender iter 53: loss = 6152.750294627538, delta_loss = -107.76622
+17/06/03 19:51:03 INFO GBPRRecommender: GBPRRecommender iter 54: loss = 5835.4053373408615, delta_loss = 317.34497
+17/06/03 19:51:04 INFO GBPRRecommender: GBPRRecommender iter 55: loss = 5956.703388798336, delta_loss = -121.29805
+17/06/03 19:51:04 INFO GBPRRecommender: GBPRRecommender iter 56: loss = 5863.96476345596, delta_loss = 92.738625
+17/06/03 19:51:04 INFO GBPRRecommender: GBPRRecommender iter 57: loss = 5967.275727797011, delta_loss = -103.31097
+17/06/03 19:51:04 INFO GBPRRecommender: GBPRRecommender iter 58: loss = 5856.738280834946, delta_loss = 110.537445
+17/06/03 19:51:04 INFO GBPRRecommender: GBPRRecommender iter 59: loss = 5840.359413577075, delta_loss = 16.378868
+17/06/03 19:51:05 INFO GBPRRecommender: GBPRRecommender iter 60: loss = 5674.466419224534, delta_loss = 165.89299
+17/06/03 19:51:05 INFO GBPRRecommender: GBPRRecommender iter 61: loss = 5678.292851597814, delta_loss = -3.8264325
+17/06/03 19:51:05 INFO GBPRRecommender: GBPRRecommender iter 62: loss = 5577.642524714283, delta_loss = 100.65033
+17/06/03 19:51:05 INFO GBPRRecommender: GBPRRecommender iter 63: loss = 5591.005731721196, delta_loss = -13.363207
+17/06/03 19:51:05 INFO GBPRRecommender: GBPRRecommender iter 64: loss = 5618.660186808549, delta_loss = -27.654455
+17/06/03 19:51:06 INFO GBPRRecommender: GBPRRecommender iter 65: loss = 5493.613777081561, delta_loss = 125.04641
+17/06/03 19:51:06 INFO GBPRRecommender: GBPRRecommender iter 66: loss = 5521.972158726944, delta_loss = -28.358381
+17/06/03 19:51:06 INFO GBPRRecommender: GBPRRecommender iter 67: loss = 5604.143507572695, delta_loss = -82.17135
+17/06/03 19:51:06 INFO GBPRRecommender: GBPRRecommender iter 68: loss = 5241.419873585068, delta_loss = 362.72363
+17/06/03 19:51:06 INFO GBPRRecommender: GBPRRecommender iter 69: loss = 5180.064072325287, delta_loss = 61.3558
+17/06/03 19:51:07 INFO GBPRRecommender: GBPRRecommender iter 70: loss = 5247.923470660694, delta_loss = -67.8594
+17/06/03 19:51:07 INFO GBPRRecommender: GBPRRecommender iter 71: loss = 5305.976029677303, delta_loss = -58.05256
+17/06/03 19:51:07 INFO GBPRRecommender: GBPRRecommender iter 72: loss = 5237.637657831796, delta_loss = 68.33837
+17/06/03 19:51:07 INFO GBPRRecommender: GBPRRecommender iter 73: loss = 5253.889092646806, delta_loss = -16.251434
+17/06/03 19:51:08 INFO GBPRRecommender: GBPRRecommender iter 74: loss = 5183.551362662286, delta_loss = 70.33773
+17/06/03 19:51:08 INFO GBPRRecommender: GBPRRecommender iter 75: loss = 5150.277607964718, delta_loss = 33.273754
+17/06/03 19:51:08 INFO GBPRRecommender: GBPRRecommender iter 76: loss = 5248.162897322601, delta_loss = -97.88529
+17/06/03 19:51:08 INFO GBPRRecommender: GBPRRecommender iter 77: loss = 5124.65838511954, delta_loss = 123.50451
+17/06/03 19:51:08 INFO GBPRRecommender: GBPRRecommender iter 78: loss = 5091.644263820299, delta_loss = 33.014122
+17/06/03 19:51:09 INFO GBPRRecommender: GBPRRecommender iter 79: loss = 4874.129091870946, delta_loss = 217.51517
+17/06/03 19:51:09 INFO GBPRRecommender: GBPRRecommender iter 80: loss = 4979.013376185155, delta_loss = -104.884285
+17/06/03 19:51:09 INFO GBPRRecommender: GBPRRecommender iter 81: loss = 4890.814084037869, delta_loss = 88.199295
+17/06/03 19:51:09 INFO GBPRRecommender: GBPRRecommender iter 82: loss = 4962.176858640419, delta_loss = -71.36278
+17/06/03 19:51:09 INFO GBPRRecommender: GBPRRecommender iter 83: loss = 5010.618764761198, delta_loss = -48.441906
+17/06/03 19:51:10 INFO GBPRRecommender: GBPRRecommender iter 84: loss = 5010.113415470408, delta_loss = 0.5053493
+17/06/03 19:51:10 INFO GBPRRecommender: GBPRRecommender iter 85: loss = 4938.918941707118, delta_loss = 71.19447
+17/06/03 19:51:10 INFO GBPRRecommender: GBPRRecommender iter 86: loss = 4762.560456807396, delta_loss = 176.35849
+17/06/03 19:51:10 INFO GBPRRecommender: GBPRRecommender iter 87: loss = 4964.385532227218, delta_loss = -201.82507
+17/06/03 19:51:10 INFO GBPRRecommender: GBPRRecommender iter 88: loss = 4773.226556666313, delta_loss = 191.15898
+17/06/03 19:51:11 INFO GBPRRecommender: GBPRRecommender iter 89: loss = 4840.097527775128, delta_loss = -66.87097
+17/06/03 19:51:11 INFO GBPRRecommender: GBPRRecommender iter 90: loss = 4908.20701121554, delta_loss = -68.10948
+17/06/03 19:51:11 INFO GBPRRecommender: GBPRRecommender iter 91: loss = 4844.190437227202, delta_loss = 64.01657
+17/06/03 19:51:11 INFO GBPRRecommender: GBPRRecommender iter 92: loss = 4830.06683689408, delta_loss = 14.1236
+17/06/03 19:51:11 INFO GBPRRecommender: GBPRRecommender iter 93: loss = 4715.801261259639, delta_loss = 114.26558
+17/06/03 19:51:12 INFO GBPRRecommender: GBPRRecommender iter 94: loss = 4691.866086257172, delta_loss = 23.935175
+17/06/03 19:51:12 INFO GBPRRecommender: GBPRRecommender iter 95: loss = 4763.470725904553, delta_loss = -71.60464
+17/06/03 19:51:12 INFO GBPRRecommender: GBPRRecommender iter 96: loss = 4830.367400850257, delta_loss = -66.896675
+17/06/03 19:51:12 INFO GBPRRecommender: GBPRRecommender iter 97: loss = 4800.469355230959, delta_loss = 29.898046
+17/06/03 19:51:13 INFO GBPRRecommender: GBPRRecommender iter 98: loss = 4672.824225071963, delta_loss = 127.645134
+17/06/03 19:51:13 INFO GBPRRecommender: GBPRRecommender iter 99: loss = 4550.538644573074, delta_loss = 122.28558
+17/06/03 19:51:13 INFO GBPRRecommender: GBPRRecommender iter 100: loss = 4681.127021971363, delta_loss = -130.58838
+17/06/03 19:51:13 INFO GBPRRecommender: Job Train completed.
+17/06/03 19:51:13 INFO GBPRRecommender: Job End.
+17/06/03 19:51:13 INFO RecommenderJob: Evaluator value:AP top 10 is 0.44142232990860647
+17/06/03 19:51:13 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9319507708350864
+17/06/03 19:51:13 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5432379294470127
+17/06/03 19:51:13 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6335341768433052
+17/06/03 19:51:13 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34514601420678886
+17/06/03 19:51:13 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5886727803460247
+17/06/03 19:51:13 INFO RecommenderJob: Result path is result/filmtrust/rating-gbpr-output/gbpr

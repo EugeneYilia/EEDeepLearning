@@ -1,0 +1,112 @@
+17/07/22 17:00:03 INFO ArffDataModel: Transform data to Convertor successfully!
+17/07/22 17:00:03 INFO ArffDataModel: Split data to train Set and test Set successfully!
+17/07/22 17:00:03 INFO ArffDataModel: Data size of training is 28411
+17/07/22 17:00:03 INFO ArffDataModel: Data size of testing is 7086
+17/07/22 17:00:03 INFO FMSGDRecommender: Job Setup completed.
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 0: loss = 31861.224759763867, delta_loss = -31861.225
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 1: loss = 20923.408916642307, delta_loss = 10937.815
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 2: loss = 18208.453389653023, delta_loss = 2714.9556
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 3: loss = 16614.0092746292, delta_loss = 1594.4441
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 4: loss = 15573.662665595068, delta_loss = 1040.3466
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 5: loss = 14836.12552302746, delta_loss = 737.5372
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 6: loss = 14277.542374532599, delta_loss = 558.5831
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 7: loss = 13832.669680835901, delta_loss = 444.87268
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 8: loss = 13464.9491777869, delta_loss = 367.7205
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 9: loss = 13152.61278805616, delta_loss = 312.3364
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 10: loss = 12881.918142403314, delta_loss = 270.69464
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 11: loss = 12643.710163923088, delta_loss = 238.20798
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 12: loss = 12431.595057185123, delta_loss = 212.11511
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 13: loss = 12240.925451563919, delta_loss = 190.6696
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 14: loss = 12068.209618388662, delta_loss = 172.71584
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 15: loss = 11910.751571288989, delta_loss = 157.45805
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 16: loss = 11766.42225294894, delta_loss = 144.32932
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 17: loss = 11633.508331806172, delta_loss = 132.91393
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 18: loss = 11510.608834087041, delta_loss = 122.8995
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 19: loss = 11396.562377452796, delta_loss = 114.046455
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 20: loss = 11290.394646295006, delta_loss = 106.16773
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 21: loss = 11191.279654430246, delta_loss = 99.11499
+17/07/22 17:00:04 INFO FMSGDRecommender: FMSGDRecommender iter 22: loss = 11098.510641061961, delta_loss = 92.76901
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 23: loss = 11011.477847223796, delta_loss = 87.03279
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 24: loss = 10929.651301263622, delta_loss = 81.826546
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 25: loss = 10852.567312315281, delta_loss = 77.08399
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 26: loss = 10779.817749419086, delta_loss = 72.749565
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 27: loss = 10711.0414410947, delta_loss = 68.776306
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 28: loss = 10645.917208370922, delta_loss = 65.12423
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 29: loss = 10584.15816978888, delta_loss = 61.759037
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 30: loss = 10525.50704687871, delta_loss = 58.651123
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 31: loss = 10469.73226384716, delta_loss = 55.774784
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 32: loss = 10416.624683215832, delta_loss = 53.107582
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 33: loss = 10365.99485482752, delta_loss = 50.62983
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 34: loss = 10317.670682452332, delta_loss = 48.324173
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 35: loss = 10271.495432539847, delta_loss = 46.17525
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 36: loss = 10227.326025239961, delta_loss = 44.169407
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 37: loss = 10185.031559803989, delta_loss = 42.294464
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 38: loss = 10144.492035822152, delta_loss = 40.539524
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 39: loss = 10105.597239060122, delta_loss = 38.8948
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 40: loss = 10068.245766411264, delta_loss = 37.35147
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 41: loss = 10032.344169085009, delta_loss = 35.901596
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 42: loss = 9997.806196766702, delta_loss = 34.53797
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 43: loss = 9964.552128456615, delta_loss = 33.254066
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 44: loss = 9932.508178042915, delta_loss = 32.04395
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 45: loss = 9901.605964614406, delta_loss = 30.902214
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 46: loss = 9871.782039064321, delta_loss = 29.823925
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 47: loss = 9842.977459852227, delta_loss = 28.804579
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 48: loss = 9815.137411855085, delta_loss = 27.840048
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 49: loss = 9788.210863108254, delta_loss = 26.926548
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 50: loss = 9762.150254986, delta_loss = 26.060608
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 51: loss = 9736.911221991446, delta_loss = 25.239033
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 52: loss = 9712.452337825802, delta_loss = 24.458883
+17/07/22 17:00:05 INFO FMSGDRecommender: FMSGDRecommender iter 53: loss = 9688.734884863998, delta_loss = 23.717453
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 54: loss = 9665.722644518839, delta_loss = 23.01224
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 55: loss = 9643.381706304144, delta_loss = 22.340939
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 56: loss = 9621.68029366197, delta_loss = 21.701412
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 57: loss = 9600.588604870325, delta_loss = 21.091688
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 58: loss = 9580.078667524724, delta_loss = 20.509937
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 59: loss = 9560.124205268337, delta_loss = 19.954462
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 60: loss = 9540.700515611577, delta_loss = 19.423689
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 61: loss = 9521.78435777135, delta_loss = 18.916159
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 62: loss = 9503.353849621268, delta_loss = 18.430508
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 63: loss = 9485.388372895628, delta_loss = 17.965477
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 64: loss = 9467.86848592687, delta_loss = 17.519886
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 65: loss = 9450.775843217489, delta_loss = 17.092642
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 66: loss = 9434.093121272635, delta_loss = 16.682722
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 67: loss = 9417.80395012697, delta_loss = 16.289171
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 68: loss = 9401.892850088821, delta_loss = 15.9111
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 69: loss = 9386.3451732568, delta_loss = 15.547677
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 70: loss = 9371.147049403497, delta_loss = 15.198124
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 71: loss = 9356.28533587167, delta_loss = 14.861713
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 72: loss = 9341.747571142952, delta_loss = 14.537765
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 73: loss = 9327.521931788195, delta_loss = 14.225639
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 74: loss = 9313.597192520509, delta_loss = 13.924739
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 75: loss = 9299.962689110132, delta_loss = 13.634503
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 76: loss = 9286.6082839218, delta_loss = 13.354405
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 77: loss = 9273.524333884729, delta_loss = 13.08395
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 78: loss = 9260.701660694278, delta_loss = 12.822673
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 79: loss = 9248.13152307191, delta_loss = 12.570138
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 80: loss = 9235.805590935332, delta_loss = 12.3259325
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 81: loss = 9223.715921327122, delta_loss = 12.089669
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 82: loss = 9211.854935963243, delta_loss = 11.860986
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 83: loss = 9200.215400298348, delta_loss = 11.639536
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 84: loss = 9188.790403968698, delta_loss = 11.424996
+17/07/22 17:00:06 INFO FMSGDRecommender: FMSGDRecommender iter 85: loss = 9177.57334254005, delta_loss = 11.217061
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 86: loss = 9166.557900439278, delta_loss = 11.015442
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 87: loss = 9155.738034999988, delta_loss = 10.819865
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 88: loss = 9145.107961534346, delta_loss = 10.630074
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 89: loss = 9134.662139362272, delta_loss = 10.445822
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 90: loss = 9124.39525872126, delta_loss = 10.266881
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 91: loss = 9114.30222850407, delta_loss = 10.09303
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 92: loss = 9104.37816476196, delta_loss = 9.924064
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 93: loss = 9094.618379918484, delta_loss = 9.759785
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 94: loss = 9085.018372646578, delta_loss = 9.600007
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 95: loss = 9075.573818361738, delta_loss = 9.444554
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 96: loss = 9066.28056029226, delta_loss = 9.293258
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 97: loss = 9057.134601082867, delta_loss = 9.145959
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 98: loss = 9048.13209489884, delta_loss = 9.002506
+17/07/22 17:00:07 INFO FMSGDRecommender: FMSGDRecommender iter 99: loss = 9039.26933999832, delta_loss = 8.862755
+17/07/22 17:00:07 INFO FMSGDRecommender: Job Train completed.
+17/07/22 17:00:07 INFO FMSGDRecommender: Job End.
+17/07/22 17:00:07 INFO Task: Evaluator value:MPE is 0.9896979960485465
+17/07/22 17:00:07 INFO Task: Evaluator value:MAE is 0.6213652106794577
+17/07/22 17:00:07 INFO Task: Evaluator value:MSE is 0.6343314207394537
+17/07/22 17:00:07 INFO Task: Evaluator value:RMSE is 0.7964492581071652
+17/07/22 17:00:07 INFO Task: Result path is result/test/datamodeltest/ratings.arff-fmsgd-output/fmsgd

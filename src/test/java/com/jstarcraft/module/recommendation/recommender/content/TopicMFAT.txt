@@ -1,0 +1,63 @@
+17/08/12 19:09:17 INFO TopicMFATRecommender: number of users : 1429
+17/08/12 19:09:17 INFO TopicMFATRecommender: number of Items : 900
+17/08/12 19:09:17 INFO TopicMFATRecommender: number of words : 11560
+17/08/12 19:09:45 INFO TopicMFATRecommender:  iter:1, finish factors update
+17/08/12 19:09:45 INFO TopicMFATRecommender:  iter:1, finish theta update
+17/08/12 19:09:45 INFO TopicMFATRecommender:  iter:1, finish phi update
+17/08/12 19:09:45 INFO TopicMFATRecommender:  iter:1, loss:6589.263511201094, wordLoss:3373.669875123923
+17/08/12 19:10:06 INFO TopicMFATRecommender:  iter:2, finish factors update
+17/08/12 19:10:06 INFO TopicMFATRecommender:  iter:2, finish theta update
+17/08/12 19:10:06 INFO TopicMFATRecommender:  iter:2, finish phi update
+17/08/12 19:10:06 INFO TopicMFATRecommender:  iter:2, loss:6804.429030478216, wordLoss:3756.8277096603024
+17/08/12 19:10:27 INFO TopicMFATRecommender:  iter:3, finish factors update
+17/08/12 19:10:27 INFO TopicMFATRecommender:  iter:3, finish theta update
+17/08/12 19:10:27 INFO TopicMFATRecommender:  iter:3, finish phi update
+17/08/12 19:10:27 INFO TopicMFATRecommender:  iter:3, loss:6671.142467933885, wordLoss:3756.8277053379543
+17/08/12 19:10:48 INFO TopicMFATRecommender:  iter:4, finish factors update
+17/08/12 19:10:48 INFO TopicMFATRecommender:  iter:4, finish theta update
+17/08/12 19:10:48 INFO TopicMFATRecommender:  iter:4, finish phi update
+17/08/12 19:10:48 INFO TopicMFATRecommender:  iter:4, loss:6561.4643888995215, wordLoss:3756.8277001099914
+17/08/12 19:11:09 INFO TopicMFATRecommender:  iter:5, finish factors update
+17/08/12 19:11:09 INFO TopicMFATRecommender:  iter:5, finish theta update
+17/08/12 19:11:09 INFO TopicMFATRecommender:  iter:5, finish phi update
+17/08/12 19:11:09 INFO TopicMFATRecommender:  iter:5, loss:6469.343761838614, wordLoss:3756.8276946110323
+17/08/12 19:11:30 INFO TopicMFATRecommender:  iter:6, finish factors update
+17/08/12 19:11:30 INFO TopicMFATRecommender:  iter:6, finish theta update
+17/08/12 19:11:30 INFO TopicMFATRecommender:  iter:6, finish phi update
+17/08/12 19:11:30 INFO TopicMFATRecommender:  iter:6, loss:6390.880700339369, wordLoss:3756.827689156068
+17/08/12 19:11:51 INFO TopicMFATRecommender:  iter:7, finish factors update
+17/08/12 19:11:51 INFO TopicMFATRecommender:  iter:7, finish theta update
+17/08/12 19:11:51 INFO TopicMFATRecommender:  iter:7, finish phi update
+17/08/12 19:11:51 INFO TopicMFATRecommender:  iter:7, loss:6323.344464263338, wordLoss:3756.8276824449263
+17/08/12 19:12:12 INFO TopicMFATRecommender:  iter:8, finish factors update
+17/08/12 19:12:12 INFO TopicMFATRecommender:  iter:8, finish theta update
+17/08/12 19:12:12 INFO TopicMFATRecommender:  iter:8, finish phi update
+17/08/12 19:12:12 INFO TopicMFATRecommender:  iter:8, loss:6264.7234270030685, wordLoss:3756.8276737688307
+17/08/12 19:12:34 INFO TopicMFATRecommender:  iter:9, finish factors update
+17/08/12 19:12:34 INFO TopicMFATRecommender:  iter:9, finish theta update
+17/08/12 19:12:34 INFO TopicMFATRecommender:  iter:9, finish phi update
+17/08/12 19:12:34 INFO TopicMFATRecommender:  iter:9, loss:6213.483807513383, wordLoss:3756.8276655798954
+17/08/12 19:12:56 INFO TopicMFATRecommender:  iter:10, finish factors update
+17/08/12 19:12:56 INFO TopicMFATRecommender:  iter:10, finish theta update
+17/08/12 19:12:56 INFO TopicMFATRecommender:  iter:10, finish phi update
+17/08/12 19:12:56 INFO TopicMFATRecommender:  iter:10, loss:6168.426741109722, wordLoss:3756.8276571937085
+17/08/12 19:12:56 INFO RateTask: Evaluator value:MAEEvaluator is 0.639183331062803
+17/08/12 19:12:56 INFO RateTask: Evaluator value:MSEEvaluator is 0.7728584192459655
+17/08/12 19:12:56 INFO RateTask: Evaluator value:MPEEvaluator is 0.9961032635168047
+
+17/08/12 15:25:59 INFO ArffDataModel: Transform data to Convertor successfully!
+17/08/12 15:26:01 INFO ArffDataModel: Split data to train Set and test Set successfully!
+17/08/12 15:26:01 INFO ArffDataModel: Data size of training is 8135
+17/08/12 15:26:01 INFO ArffDataModel: Data size of testing is 2126
+17/08/12 15:26:11 INFO TopicMFATRecommender: number of users : 1429
+17/08/12 15:26:11 INFO TopicMFATRecommender: number of Items : 900
+17/08/12 15:26:11 INFO TopicMFATRecommender: number of words : 11466
+17/08/12 15:26:11 INFO TopicMFATRecommender: Job Setup completed.
+17/08/12 15:50:04 INFO TopicMFATRecommender:  iter:1, finish factors update
+17/08/12 15:50:04 INFO TopicMFATRecommender:  iter:1, finish theta update
+17/08/12 16:31:03 INFO TopicMFATRecommender:  iter:1, finish phi update
+17/08/12 16:31:03 INFO TopicMFATRecommender:  iter:1, loss:6624.928318632932, wordLoss:3335.4405909344523
+17/08/12 16:55:07 INFO TopicMFATRecommender:  iter:2, finish factors update
+17/08/12 16:55:07 INFO TopicMFATRecommender:  iter:2, finish theta update
+17/08/12 17:37:06 INFO TopicMFATRecommender:  iter:2, finish phi update
+17/08/12 17:37:06 INFO TopicMFATRecommender:  iter:2, loss:6840.544559625049, wordLoss:3723.0941137086643

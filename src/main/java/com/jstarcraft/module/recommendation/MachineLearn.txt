@@ -1,0 +1,26 @@
+深入浅出机器学习:
+http://www.52caml.com/categories/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/
+
+数学模型和计算机算法之间的关联和区别是什么?
+http://weibo.com/ttarticle/p/show?id=2309404097951055141495
+
+[Machine Learning] logistic函数和softmax函数:
+http://www.cnblogs.com/maybe2030/p/5678387.html
+
+数据归一化和两种常用的归一化方法:
+http://www.cnblogs.com/chaosimple/p/3227271.html
+
+机器学习算法中如何选取超参数：学习速率、正则项系数、minibatch size:
+http://blog.csdn.net/u012162613/article/details/44265967
+
+机器学习算法比较:
+http://www.csuldw.com/2016/02/26/2016-02-26-choosing-a-machine-learning-classifier/
+
+GPU---并行计算利器:
+http://www.cnblogs.com/LBSer/p/4592862.html
+
+Deeplearning4j 实战:
+http://blog.csdn.net/wangongxi/article/details/54576594
+
+从源码看DL4J中Native BLAS的加载,以及配置:
+http://blog.csdn.net/oncealong/article/details/50068831

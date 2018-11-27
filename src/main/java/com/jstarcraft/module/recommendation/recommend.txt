@@ -1,0 +1,300 @@
+实现部分:
+个性化推荐算法Python代码实例
+http://bbs.linuxtone.org/thread-27185-1-1.html
+
+视频部分:
+* 郭羿呈 - 遊戲資料探勘─推薦系統的研究進展及應用
+https://www.youtube.com/watch?v=PTX-xGFtqyM
+
+寻路推荐 豆瓣推荐系统实践之路
+http://v.youku.com/v_show/id_XNTA4MDc4ODU2.html
+
+《推荐系统实践 - 从入门到精通》- 项亮
+http://www.tudou.com/programs/view/7Y62mR7jIPQ/
+
+21天搭建推荐系统：淘宝千人千面个性化推荐！:
+http://v.youku.com/v_show/id_XMTc4NDY4MjIzMg==.html?spm=a2hzp.8253869.0.0&from=y1.7-2
+
+从算法到案例：推荐系统必读的10篇精选技术文章
+http://www.infoq.com/cn/news/2015/12/Algorithm-case-10
+
+Mahout协同过滤框架Taste的源码分析
+http://matrix-lisp.github.io/2013/12/25/mahout-taste-source-1/
+http://matrix-lisp.github.io/2013/12/26/mahout-taste-source-2/
+
+特征工程部分:
+http://121.42.47.99/yuenshome/wordpress/?p=2553
+
+机器学习之特征工程
+http://www.csuldw.com/2015/10/24/2015-10-24%20feature%20engineering/
+
+使用sklearn做单机特征工程
+http://www.cnblogs.com/jasonfreak/p/5448385.html
+
+【特征工程】特征工程技术与方法
+http://blog.jasonding.top/2015/07/30/Feature%20Engineering/%E3%80%90%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E3%80%91%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%96%B9%E6%B3%95/
+
+【特征工程】特征选择与特征学习
+http://blog.jasonding.top/2015/11/12/Feature%20Engineering/%E3%80%90%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B%E3%80%91%E7%89%B9%E5%BE%81%E9%80%89%E6%8B%A9%E4%B8%8E%E7%89%B9%E5%BE%81%E5%AD%A6%E4%B9%A0/
+
+推荐系统架构设计部分:
+
+如何做最贴心的推荐
+http://toutiao.weiyoubaba.com/a/c3ikb.shtml
+http://toutiao.weiyoubaba.com/a/c4xq9.shtml
+
+微博推荐
+http://www.wbrecom.com/
+
+推荐算法归类部分:
+
+ 推荐算法
+http://blog.csdn.net/mijian1207mijian/article/category/6230099/2
+
+推荐系统调研报告及综述
+http://wenku.baidu.com/link?url=ZMz2AEDUyr6ZjPzyZvJJHNGmrEeGgqSDWTjP3_dTdUwb_0iXQToPbOInCW8BbHcncQPEoEs7B9ISglt187dJ2OV5KGpcEJO6RUuzjp9mgmy
+
+常用推荐算法
+http://2wildkids.com/2016/10/04/%E5%B8%B8%E7%94%A8%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/
+
+个性化推荐算法 综述
+http://blog.sciencenet.cn/blog-795423-702315.html
+
+多模型融合推荐算法——从原理到实践
+http://www.infoq.com/cn/articles/multi-model-fusion-recommendation-algorithm
+
+5类系统推荐算法，告诉你用户需要什么
+http://weibo.com/ttarticle/p/show?id=2309403985605263551600
+
+基于邻域推荐方法的综述
+https://www.zybuluo.com/littlekid/note/67262
+推荐系统中的数据挖掘方法
+https://www.zybuluo.com/littlekid/note/66980
+
+推荐算法综述
+http://www.infoq.com/cn/articles/recommendation-algorithm-overview-part01
+http://www.infoq.com/cn/articles/recommendation-algorithm-overview-part02
+http://www.infoq.com/cn/articles/recommendation-algorithm-overview-part03
+http://www.infoq.com/cn/articles/recommendation-algorithm-overview-part04
+http://www.infoq.com/cn/articles/recommendation-algorithm-overview-part05
+
+推荐系统的主要算法
+http://www.infocool.net/kb/Other/201611/214554.html
+
+5类系统推荐算法，告诉你用户需要什么
+http://weibo.com/ttarticle/p/show?id=2309403985605263551600&sudaref=www.google.co.jp&retcode=6102
+
+SVD推荐算法与Model-Based推荐
+http://blog.csdn.net/linger2012liu/article/category/2035795
+
+机器学习部分:
+
+深度学习 vs 概率图模型 vs 逻辑学
+http://www.csdn.net/article/1970-01-01/2824600
+深度学习 vs 机器学习 vs 模式识别
+http://www.csdn.net/article/2015-03-24/2824301
+
+机器学习的那些事
+http://www.cnblogs.com/wangbogong/archive/2013/03/22/2976354.html
+
+【机器学习算法系列之一】EM算法实例分析
+https://chenrudan.github.io/blog/2015/12/02/emexample.html
+【机器学习算法系列之二】浅析Logistic Regression
+https://chenrudan.github.io/blog/2016/01/09/logisticregression.html
+【机器学习算法系列之三】简述多种降维算法
+https://chenrudan.github.io/blog/2016/04/01/dimensionalityreduction.html
+
+SVM算法部分:
+
+SVM学习资料
+http://www.cnblogs.com/wangbogong/p/3148668.html
+支持向量机通俗导论(理解SVM的三层境界)
+http://blog.csdn.net/v_july_v/article/details/7624837
+
+推荐排序部分:
+
+Learning to Rank 简介
+http://www.cnblogs.com/kemaswill/archive/2013/06/01/3109497.html
+Learning to Rank入门小结 + 漫谈
+http://www.cnblogs.com/wentingtu/archive/2012/03/13/2393993.html
+
+
+推荐算法——基于图的推荐算法PersonalRank算法
+http://blog.csdn.net/google19890102/article/details/51719947
+用PersonalRank实现基于图的推荐算法
+http://blog.csdn.net/harryhuang1990/article/details/10048383
+
+基于用户的协同过滤算法
+http://blog.csdn.net/ygrx/article/details/15501679
+基于物品的协同过滤算法
+http://blog.csdn.net/huagong_adu/article/details/7362908
+张量分解学习:
+http://wenku.baidu.com/link?url=h3jOSrZ7GRTMF7B07C7Z-SJxZX0eY43DCFdMsIw78j0QGwiHNQ18GU5TUHmoiFVsHM6lG68y86m8HJ4i57iNxzr_z1pAoNPIhJxOVQ2Q6K7
+矩阵分解（MATRIX FACTORIZATION）在推荐系统中的应用:
+http://www.tuicool.com/articles/RV3m6n
+矩阵特征值分解与奇异值分解含义解析及应用:
+http://blog.csdn.net/xiahouzuoxin/article/details/41118351
+SVD在推荐系统中的应用:
+http://yanyiwu.com/work/2012/09/10/SVD-application-in-recsys.html
+推荐算法之 Slope One 算法:
+http://www.cnblogs.com/breezedeus/archive/2011/03/11/1981781.html
+
+深度丨从零搭建推荐体系:
+http://www.woshipm.com/pd/416875.html
+http://www.woshipm.com/pd/416891.html
+http://www.woshipm.com/pd/416901.html
+
+探索推荐引擎内部的秘密
+http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/
+http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy2/
+http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy3/
+
+SDCC 2015算法专场札记：知名互联网公司的算法实践
+http://www.csdn.net/article/2015-11-26/2826331
+
+从零开始打造完整评分系统:
+http://www.cnblogs.com/kym/archive/2012/09/03/2668170.html
+
+美团推荐算法实践：机器学习重排序模型成亮点
+http://www.csdn.net/article/2015-01-30/2823783
+
+推荐系统中所使用的混合技术介绍
+http://blog.sina.com.cn/s/blog_5357c0af0102uxof.html
+
+推荐系统概述
+http://www.360doc.com/content/16/0503/13/31429017_555886583.shtml
+
+选择合适的推荐系统模型
+http://blog.jobbole.com/86959/
+
+推荐系统的架构
+http://www.cnblogs.com/kobedeshow/p/3569525.html
+
+个性化推荐系统综述
+http://wenku.baidu.com/link?url=oGdZ-1Rh1ExkKW0ULpm0tgpgb4Aq30uG-keIiyLEUw9bj_0BUikyBdBfsCGS-RecF-FyDmN2iCJJq0QTenPhygouITAvtFMedzqpCqC265q
+
+
+新浪微博推荐系统架构的演进
+http://www.wtoutiao.com/p/U7c7af.html
+
+
+
+Mahout机器学习平台:
+http://www.iqiyi.com/w_19rs5ezp31.html
+http://www.soku.com/search_video/q_Mahout%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0-1?f=1&kb=020200000000000_Mahout%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0_Mahout%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0-1&_rp=1480899706090PMp
+
+Thinkgamer微博:
+http://blog.csdn.net/gamer_gyt
+
+基于Spark和Hive进行的豆瓣电影数据分析:
+http://blog.csdn.net/gamer_gyt/article/details/52142375
+
+《图论》——图的存储与遍历(Java):
+http://blog.csdn.net/gamer_gyt/article/details/51498546
+
+推荐视频:
+http://www.soku.com/search_video/q_%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F?f=1&kb=020200000000000_%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95_%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F&_rp=14808432122587Ag
+
+Mahout学习路线图:
+http://blog.fens.me/hadoop-mahout-roadmap/
+
+个性化推荐：从用户、推荐平台以及推荐内容入手研究:
+http://www.jianshu.com/p/99d94f8d5ef9
+
+* 推荐系统初探 <http://yongfeng.me/attach/rs-survey-zhang-slices.pdf> 
+
+
+* 推荐系统中协同过滤算法若干问题的研究 <http://pan.baidu.com/s/1bnjDBYZ> 
+
+
+* Netflix 推荐系统：第一部分 https://www.douban.com/note/247017189/ 
+
+
+* Netflix 推荐系统：第二部分 https://www.douban.com/note/247017269/
+
+
+* 探索推荐引擎内部的秘密 <http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html> 
+
+
+* 推荐系统resys小组线下活动见闻2009-08-22 <http://www.tuicool.com/articles/vUvQVn> 
+
+
+* Recommendation Engines Seminar Paper, Thomas Hess, 2009: 推荐引擎的总结性文章 <http://www.slideshare.net/antiraum/recommender-engines-seminar-paper> 
+
+
+* Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions, Adomavicius, G.; Tuzhilin, A., 2005 <http://dl.acm.org/citation.cfm?id=1070751> 
+
+
+* A Taxonomy of RecommenderAgents on the Internet, Montaner, M.; Lopez, B.; de la Rosa, J. L., 2003 <http://www.springerlink.com/index/KK844421T5466K35.pdf> 
+
+
+* A Course in Machine Learning <http://ciml.info/> 
+
+
+* 基于mahout构建社会化推荐引擎  <http://www.doc88.com/p-745821989892.html> 
+
+
+* 个性化推荐技术漫谈 <http://blog.csdn.net/java060515/archive/2007/04/19/1570243.aspx> 
+
+
+* Design of Recommender System <http://www.slideshare.net/rashmi/design-of-recommender-systems> 
+
+
+* How to build a recommender system <http://www.slideshare.net/blueace/how-to-build-a-recommender-system-presentation> 
+
+
+* 推荐系统架构小结  <http://blog.csdn.net/idonot/article/details/7996733> 
+
+
+* System Architectures for Personalization and Recommendation <http://techblog.netflix.com/2013/03/system-architectures-for.html> 
+
+
+* The Netflix Tech Blog <http://techblog.netflix.com/> 
+
+
+* 百分点推荐引擎——从需求到架构<http://www.infoq.com/cn/articles/baifendian-recommendation-engine> 
+
+
+* 推荐系统 在InfoQ上的内容  <http://www.infoq.com/cn/recommend> 
+
+
+* 推荐系统实时化的实践和思考 <http://www.infoq.com/cn/presentations/recommended-system-real-time-practice-thinking> 
+
+
+* 质量保证的推荐实践  <http://www.infoq.com/cn/news/2013/10/testing-practice/>  
+  
+* 推荐系统的工程挑战  <http://www.infoq.com/cn/presentations/Recommend-system-engineering> 
+
+
+* 社会化推荐在人人网的应用  <http://www.infoq.com/cn/articles/zyy-social-recommendation-in-renren/> 
+
+
+* 利用20%时间开发推荐引擎  <http://www.infoq.com/cn/presentations/twenty-percent-time-to-develop-recommendation-engine> 
+
+
+* 使用Hadoop和 Mahout实现推荐引擎 <http://www.jdon.com/44747> 
+
+
+* SVD 简介 <http://www.cnblogs.com/FengYan/archive/2012/05/06/2480664.html> 
+
+
+* Netflix推荐系统：从评分预测到消费者法则 <http://blog.csdn.net/lzt1983/article/details/7696578>
+
+如何得到一个人的标签(Label).
+朋友印象
+搜索关键词
+传统推荐失效的根本原因在于:用户不会轻易暴露自己.
+
+识别标准:一致性,连贯性,区别性.
+ 
+如何得到一个物品的标签(Label).
+用户使用
+内容分析
+
+推荐与搜索的本质为标签匹配
+
+权限的本质为角色匹配
+
+搜索关注于短头效应,主流化.
+推荐关注于长尾效应,个性化.
+

@@ -1,0 +1,116 @@
+17/06/03 21:10:48 INFO TextDataConvertor: Dataset: ...test/datamodeltest/ratings-date.txt
+17/06/03 21:10:48 INFO TextDataConvertor: All dataset files [data\test\datamodeltest\ratings-date.txt]
+17/06/03 21:10:48 INFO TextDataConvertor: All dataset files size 515521
+17/06/03 21:10:48 INFO TextDataConvertor: Now loading dataset file ratings-date
+17/06/03 21:10:48 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 21:10:48 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 21:10:48 INFO TextDataModel: Data size of training is 28406
+17/06/03 21:10:48 INFO TextDataModel: Data size of testing is 7086
+17/06/03 21:10:48 INFO TimeSVDRecommender: Job Setup completed.
+17/06/03 21:10:49 INFO TimeSVDRecommender: TimeSVDRecommender iter 1: loss = 92687.06915195068, delta_loss = -92687.07
+17/06/03 21:10:50 INFO TimeSVDRecommender: TimeSVDRecommender iter 2: loss = 27530.325242398118, delta_loss = -27530.326
+17/06/03 21:10:50 INFO TimeSVDRecommender: TimeSVDRecommender iter 3: loss = 18923.473894078998, delta_loss = -18923.475
+17/06/03 21:10:53 INFO TimeSVDRecommender: TimeSVDRecommender iter 4: loss = 16557.466952329883, delta_loss = -16557.467
+17/06/03 21:10:53 INFO TimeSVDRecommender: TimeSVDRecommender iter 5: loss = 15200.034222519747, delta_loss = -15200.034
+17/06/03 21:10:53 INFO TimeSVDRecommender: TimeSVDRecommender iter 6: loss = 14241.488907817184, delta_loss = -14241.489
+17/06/03 21:10:53 INFO TimeSVDRecommender: TimeSVDRecommender iter 7: loss = 13494.565665495784, delta_loss = -13494.565
+17/06/03 21:10:53 INFO TimeSVDRecommender: TimeSVDRecommender iter 8: loss = 12877.505769749929, delta_loss = -12877.506
+17/06/03 21:10:53 INFO TimeSVDRecommender: TimeSVDRecommender iter 9: loss = 12348.00824245598, delta_loss = -12348.008
+17/06/03 21:10:53 INFO TimeSVDRecommender: TimeSVDRecommender iter 10: loss = 11881.601605277274, delta_loss = -11881.602
+17/06/03 21:10:54 INFO TimeSVDRecommender: TimeSVDRecommender iter 11: loss = 11462.962340499604, delta_loss = -11462.962
+17/06/03 21:10:54 INFO TimeSVDRecommender: TimeSVDRecommender iter 12: loss = 11081.936248934522, delta_loss = -11081.937
+17/06/03 21:10:54 INFO TimeSVDRecommender: TimeSVDRecommender iter 13: loss = 10731.50905883294, delta_loss = -10731.509
+17/06/03 21:10:54 INFO TimeSVDRecommender: TimeSVDRecommender iter 14: loss = 10406.682088388072, delta_loss = -10406.682
+17/06/03 21:10:54 INFO TimeSVDRecommender: TimeSVDRecommender iter 15: loss = 10103.810590422443, delta_loss = -10103.811
+17/06/03 21:10:54 INFO TimeSVDRecommender: TimeSVDRecommender iter 16: loss = 9820.192227712967, delta_loss = -9820.192
+17/06/03 21:10:54 INFO TimeSVDRecommender: TimeSVDRecommender iter 17: loss = 9553.793269956344, delta_loss = -9553.793
+17/06/03 21:10:55 INFO TimeSVDRecommender: TimeSVDRecommender iter 18: loss = 9303.052943729526, delta_loss = -9303.053
+17/06/03 21:10:55 INFO TimeSVDRecommender: TimeSVDRecommender iter 19: loss = 9066.737511314386, delta_loss = -9066.737
+17/06/03 21:10:55 INFO TimeSVDRecommender: TimeSVDRecommender iter 20: loss = 8843.83228863142, delta_loss = -8843.832
+17/06/03 21:10:55 INFO TimeSVDRecommender: TimeSVDRecommender iter 21: loss = 8633.465836593323, delta_loss = -8633.466
+17/06/03 21:10:55 INFO TimeSVDRecommender: TimeSVDRecommender iter 22: loss = 8434.860706270068, delta_loss = -8434.86
+17/06/03 21:10:55 INFO TimeSVDRecommender: TimeSVDRecommender iter 23: loss = 8247.303892395848, delta_loss = -8247.304
+17/06/03 21:10:56 INFO TimeSVDRecommender: TimeSVDRecommender iter 24: loss = 8070.130071349515, delta_loss = -8070.13
+17/06/03 21:10:56 INFO TimeSVDRecommender: TimeSVDRecommender iter 25: loss = 7902.712090855089, delta_loss = -7902.712
+17/06/03 21:10:56 INFO TimeSVDRecommender: TimeSVDRecommender iter 26: loss = 7744.455204184619, delta_loss = -7744.455
+17/06/03 21:10:56 INFO TimeSVDRecommender: TimeSVDRecommender iter 27: loss = 7594.793316344217, delta_loss = -7594.7935
+17/06/03 21:10:56 INFO TimeSVDRecommender: TimeSVDRecommender iter 28: loss = 7453.186608602677, delta_loss = -7453.1865
+17/06/03 21:10:56 INFO TimeSVDRecommender: TimeSVDRecommender iter 29: loss = 7319.1203485877595, delta_loss = -7319.12
+17/06/03 21:10:56 INFO TimeSVDRecommender: TimeSVDRecommender iter 30: loss = 7192.104717584281, delta_loss = -7192.1045
+17/06/03 21:10:57 INFO TimeSVDRecommender: TimeSVDRecommender iter 31: loss = 7071.675358313189, delta_loss = -7071.6753
+17/06/03 21:10:57 INFO TimeSVDRecommender: TimeSVDRecommender iter 32: loss = 6957.394245184198, delta_loss = -6957.394
+17/06/03 21:10:57 INFO TimeSVDRecommender: TimeSVDRecommender iter 33: loss = 6848.85047766977, delta_loss = -6848.8506
+17/06/03 21:10:57 INFO TimeSVDRecommender: TimeSVDRecommender iter 34: loss = 6745.660689122188, delta_loss = -6745.6606
+17/06/03 21:10:57 INFO TimeSVDRecommender: TimeSVDRecommender iter 35: loss = 6647.468902800726, delta_loss = -6647.4688
+17/06/03 21:10:57 INFO TimeSVDRecommender: TimeSVDRecommender iter 36: loss = 6553.945805887196, delta_loss = -6553.946
+17/06/03 21:10:57 INFO TimeSVDRecommender: TimeSVDRecommender iter 37: loss = 6464.787518438007, delta_loss = -6464.7876
+17/06/03 21:10:58 INFO TimeSVDRecommender: TimeSVDRecommender iter 38: loss = 6379.713995153963, delta_loss = -6379.714
+17/06/03 21:10:58 INFO TimeSVDRecommender: TimeSVDRecommender iter 39: loss = 6298.467216336458, delta_loss = -6298.4673
+17/06/03 21:10:58 INFO TimeSVDRecommender: TimeSVDRecommender iter 40: loss = 6220.809311838764, delta_loss = -6220.809
+17/06/03 21:10:58 INFO TimeSVDRecommender: TimeSVDRecommender iter 41: loss = 6146.52073116439, delta_loss = -6146.5205
+17/06/03 21:10:58 INFO TimeSVDRecommender: TimeSVDRecommender iter 42: loss = 6075.3985362051535, delta_loss = -6075.3984
+17/06/03 21:10:58 INFO TimeSVDRecommender: TimeSVDRecommender iter 43: loss = 6007.254858112171, delta_loss = -6007.255
+17/06/03 21:10:58 INFO TimeSVDRecommender: TimeSVDRecommender iter 44: loss = 5941.91553160127, delta_loss = -5941.9155
+17/06/03 21:10:59 INFO TimeSVDRecommender: TimeSVDRecommender iter 45: loss = 5879.218900040816, delta_loss = -5879.2188
+17/06/03 21:10:59 INFO TimeSVDRecommender: TimeSVDRecommender iter 46: loss = 5819.014772801836, delta_loss = -5819.0146
+17/06/03 21:10:59 INFO TimeSVDRecommender: TimeSVDRecommender iter 47: loss = 5761.1635110800935, delta_loss = -5761.1636
+17/06/03 21:10:59 INFO TimeSVDRecommender: TimeSVDRecommender iter 48: loss = 5705.535217833834, delta_loss = -5705.535
+17/06/03 21:10:59 INFO TimeSVDRecommender: TimeSVDRecommender iter 49: loss = 5652.009009941552, delta_loss = -5652.009
+17/06/03 21:10:59 INFO TimeSVDRecommender: TimeSVDRecommender iter 50: loss = 5600.472354533399, delta_loss = -5600.472
+17/06/03 21:10:59 INFO TimeSVDRecommender: TimeSVDRecommender iter 51: loss = 5550.820455805659, delta_loss = -5550.8203
+17/06/03 21:11:00 INFO TimeSVDRecommender: TimeSVDRecommender iter 52: loss = 5502.955682595166, delta_loss = -5502.9556
+17/06/03 21:11:00 INFO TimeSVDRecommender: TimeSVDRecommender iter 53: loss = 5456.7870304633, delta_loss = -5456.787
+17/06/03 21:11:00 INFO TimeSVDRecommender: TimeSVDRecommender iter 54: loss = 5412.229614594371, delta_loss = -5412.2295
+17/06/03 21:11:00 INFO TimeSVDRecommender: TimeSVDRecommender iter 55: loss = 5369.204191727105, delta_loss = -5369.204
+17/06/03 21:11:00 INFO TimeSVDRecommender: TimeSVDRecommender iter 56: loss = 5327.636710485792, delta_loss = -5327.6367
+17/06/03 21:11:00 INFO TimeSVDRecommender: TimeSVDRecommender iter 57: loss = 5287.457890153281, delta_loss = -5287.458
+17/06/03 21:11:00 INFO TimeSVDRecommender: TimeSVDRecommender iter 58: loss = 5248.602828098426, delta_loss = -5248.603
+17/06/03 21:11:01 INFO TimeSVDRecommender: TimeSVDRecommender iter 59: loss = 5211.010636081185, delta_loss = -5211.0107
+17/06/03 21:11:01 INFO TimeSVDRecommender: TimeSVDRecommender iter 60: loss = 5174.624105341175, delta_loss = -5174.624
+17/06/03 21:11:01 INFO TimeSVDRecommender: TimeSVDRecommender iter 61: loss = 5139.389400097131, delta_loss = -5139.389
+17/06/03 21:11:01 INFO TimeSVDRecommender: TimeSVDRecommender iter 62: loss = 5105.255778665788, delta_loss = -5105.256
+17/06/03 21:11:01 INFO TimeSVDRecommender: TimeSVDRecommender iter 63: loss = 5072.175341102562, delta_loss = -5072.1753
+17/06/03 21:11:01 INFO TimeSVDRecommender: TimeSVDRecommender iter 64: loss = 5040.102801916012, delta_loss = -5040.103
+17/06/03 21:11:02 INFO TimeSVDRecommender: TimeSVDRecommender iter 65: loss = 5008.995286218101, delta_loss = -5008.995
+17/06/03 21:11:02 INFO TimeSVDRecommender: TimeSVDRecommender iter 66: loss = 4978.812147452969, delta_loss = -4978.812
+17/06/03 21:11:02 INFO TimeSVDRecommender: TimeSVDRecommender iter 67: loss = 4949.51480479899, delta_loss = -4949.5146
+17/06/03 21:11:02 INFO TimeSVDRecommender: TimeSVDRecommender iter 68: loss = 4921.066598277378, delta_loss = -4921.0664
+17/06/03 21:11:02 INFO TimeSVDRecommender: TimeSVDRecommender iter 69: loss = 4893.432659629197, delta_loss = -4893.4326
+17/06/03 21:11:02 INFO TimeSVDRecommender: TimeSVDRecommender iter 70: loss = 4866.579797134599, delta_loss = -4866.5796
+17/06/03 21:11:02 INFO TimeSVDRecommender: TimeSVDRecommender iter 71: loss = 4840.476392587871, delta_loss = -4840.4766
+17/06/03 21:11:03 INFO TimeSVDRecommender: TimeSVDRecommender iter 72: loss = 4815.0923088641575, delta_loss = -4815.0923
+17/06/03 21:11:03 INFO TimeSVDRecommender: TimeSVDRecommender iter 73: loss = 4790.398806586315, delta_loss = -4790.399
+17/06/03 21:11:03 INFO TimeSVDRecommender: TimeSVDRecommender iter 74: loss = 4766.368468605658, delta_loss = -4766.3687
+17/06/03 21:11:03 INFO TimeSVDRecommender: TimeSVDRecommender iter 75: loss = 4742.975131158035, delta_loss = -4742.975
+17/06/03 21:11:03 INFO TimeSVDRecommender: TimeSVDRecommender iter 76: loss = 4720.1938206803125, delta_loss = -4720.194
+17/06/03 21:11:03 INFO TimeSVDRecommender: TimeSVDRecommender iter 77: loss = 4698.000695491317, delta_loss = -4698.0005
+17/06/03 21:11:03 INFO TimeSVDRecommender: TimeSVDRecommender iter 78: loss = 4676.372991559322, delta_loss = -4676.373
+17/06/03 21:11:04 INFO TimeSVDRecommender: TimeSVDRecommender iter 79: loss = 4655.288971814333, delta_loss = -4655.289
+17/06/03 21:11:04 INFO TimeSVDRecommender: TimeSVDRecommender iter 80: loss = 4634.727878482909, delta_loss = -4634.728
+17/06/03 21:11:04 INFO TimeSVDRecommender: TimeSVDRecommender iter 81: loss = 4614.66988806872, delta_loss = -4614.67
+17/06/03 21:11:04 INFO TimeSVDRecommender: TimeSVDRecommender iter 82: loss = 4595.0960686248345, delta_loss = -4595.096
+17/06/03 21:11:04 INFO TimeSVDRecommender: TimeSVDRecommender iter 83: loss = 4575.98833909777, delta_loss = -4575.9883
+17/06/03 21:11:04 INFO TimeSVDRecommender: TimeSVDRecommender iter 84: loss = 4557.329430514084, delta_loss = -4557.3296
+17/06/03 21:11:04 INFO TimeSVDRecommender: TimeSVDRecommender iter 85: loss = 4539.1028488540505, delta_loss = -4539.103
+17/06/03 21:11:05 INFO TimeSVDRecommender: TimeSVDRecommender iter 86: loss = 4521.292839500893, delta_loss = -4521.293
+17/06/03 21:11:05 INFO TimeSVDRecommender: TimeSVDRecommender iter 87: loss = 4503.884353146417, delta_loss = -4503.8843
+17/06/03 21:11:05 INFO TimeSVDRecommender: TimeSVDRecommender iter 88: loss = 4486.863013098507, delta_loss = -4486.863
+17/06/03 21:11:05 INFO TimeSVDRecommender: TimeSVDRecommender iter 89: loss = 4470.215083909113, delta_loss = -4470.215
+17/06/03 21:11:05 INFO TimeSVDRecommender: TimeSVDRecommender iter 90: loss = 4453.92744129305, delta_loss = -4453.9272
+17/06/03 21:11:05 INFO TimeSVDRecommender: TimeSVDRecommender iter 91: loss = 4437.987543275946, delta_loss = -4437.9873
+17/06/03 21:11:05 INFO TimeSVDRecommender: TimeSVDRecommender iter 92: loss = 4422.383402559809, delta_loss = -4422.3833
+17/06/03 21:11:06 INFO TimeSVDRecommender: TimeSVDRecommender iter 93: loss = 4407.103560049452, delta_loss = -4407.1035
+17/06/03 21:11:06 INFO TimeSVDRecommender: TimeSVDRecommender iter 94: loss = 4392.137059524013, delta_loss = -4392.137
+17/06/03 21:11:06 INFO TimeSVDRecommender: TimeSVDRecommender iter 95: loss = 4377.473423424747, delta_loss = -4377.4736
+17/06/03 21:11:06 INFO TimeSVDRecommender: TimeSVDRecommender iter 96: loss = 4363.1026297168155, delta_loss = -4363.1025
+17/06/03 21:11:06 INFO TimeSVDRecommender: TimeSVDRecommender iter 97: loss = 4349.015089812195, delta_loss = -4349.015
+17/06/03 21:11:06 INFO TimeSVDRecommender: TimeSVDRecommender iter 98: loss = 4335.201627504187, delta_loss = -4335.2017
+17/06/03 21:11:06 INFO TimeSVDRecommender: TimeSVDRecommender iter 99: loss = 4321.653458900833, delta_loss = -4321.6533
+17/06/03 21:11:07 INFO TimeSVDRecommender: TimeSVDRecommender iter 100: loss = 4308.362173313553, delta_loss = -4308.3623
+17/06/03 21:11:07 INFO TimeSVDRecommender: Job Train completed.
+17/06/03 21:11:07 INFO TimeSVDRecommender: Job End.
+17/06/03 21:11:07 INFO RecommenderJob: Evaluator value:MSE is 0.843161528628104
+17/06/03 21:11:07 INFO RecommenderJob: Evaluator value:MAE is 0.6801403729802106
+17/06/03 21:11:07 INFO RecommenderJob: Evaluator value:RMSE is 0.9182382744299564
+17/06/03 21:11:07 INFO RecommenderJob: Evaluator value:MPE is 0.9391758396838837
+17/06/03 21:11:07 INFO RecommenderJob: Result path is result/test/datamodeltest/ratings-date.txt-timesvd-output/timesvd

@@ -1,0 +1,121 @@
+17/06/03 21:18:25 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 21:18:25 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 21:18:25 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 21:18:25 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 21:18:25 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 21:18:25 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 21:18:25 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 21:18:25 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 21:18:25 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 21:18:25 INFO TextDataModel: Data size of training is 28408
+17/06/03 21:18:25 INFO TextDataModel: Data size of testing is 7086
+17/06/03 21:18:26 INFO PRankDRecommender: Job Setup completed.
+17/06/03 21:18:27 INFO PRankDRecommender: PRankDRecommender iter 1: loss = 4447.361408539669, delta_loss = -4447.3613
+17/06/03 21:18:27 INFO PRankDRecommender: PRankDRecommender iter 2: loss = 4412.094842502573, delta_loss = 35.266567
+17/06/03 21:18:28 INFO PRankDRecommender: PRankDRecommender iter 3: loss = 4104.833987479042, delta_loss = 307.26086
+17/06/03 21:18:29 INFO PRankDRecommender: PRankDRecommender iter 4: loss = 3688.2751952514805, delta_loss = 416.5588
+17/06/03 21:18:29 INFO PRankDRecommender: PRankDRecommender iter 5: loss = 2841.7669406193713, delta_loss = 846.50824
+17/06/03 21:18:30 INFO PRankDRecommender: PRankDRecommender iter 6: loss = 2248.3992188314155, delta_loss = 593.36774
+17/06/03 21:18:31 INFO PRankDRecommender: PRankDRecommender iter 7: loss = 1865.527473263397, delta_loss = 382.87173
+17/06/03 21:18:31 INFO PRankDRecommender: PRankDRecommender iter 8: loss = 1508.0166401883616, delta_loss = 357.51083
+17/06/03 21:18:32 INFO PRankDRecommender: PRankDRecommender iter 9: loss = 1417.7474713592767, delta_loss = 90.269165
+17/06/03 21:18:32 INFO PRankDRecommender: PRankDRecommender iter 10: loss = 1298.4273615053003, delta_loss = 119.32011
+17/06/03 21:18:33 INFO PRankDRecommender: PRankDRecommender iter 11: loss = 1166.828771174085, delta_loss = 131.59859
+17/06/03 21:18:34 INFO PRankDRecommender: PRankDRecommender iter 12: loss = 1016.5015094946862, delta_loss = 150.32726
+17/06/03 21:18:34 INFO PRankDRecommender: PRankDRecommender iter 13: loss = 972.1506537068956, delta_loss = 44.350857
+17/06/03 21:18:35 INFO PRankDRecommender: PRankDRecommender iter 14: loss = 942.215801418578, delta_loss = 29.934853
+17/06/03 21:18:36 INFO PRankDRecommender: PRankDRecommender iter 15: loss = 903.692774063323, delta_loss = 38.523026
+17/06/03 21:18:36 INFO PRankDRecommender: PRankDRecommender iter 16: loss = 826.4691399097763, delta_loss = 77.22363
+17/06/03 21:18:37 INFO PRankDRecommender: PRankDRecommender iter 17: loss = 829.1500623220627, delta_loss = -2.6809225
+17/06/03 21:18:38 INFO PRankDRecommender: PRankDRecommender iter 18: loss = 790.6302504742181, delta_loss = 38.519814
+17/06/03 21:18:38 INFO PRankDRecommender: PRankDRecommender iter 19: loss = 750.4765407033146, delta_loss = 40.15371
+17/06/03 21:18:39 INFO PRankDRecommender: PRankDRecommender iter 20: loss = 715.969819389367, delta_loss = 34.50672
+17/06/03 21:18:40 INFO PRankDRecommender: PRankDRecommender iter 21: loss = 676.4507586695386, delta_loss = 39.519062
+17/06/03 21:18:40 INFO PRankDRecommender: PRankDRecommender iter 22: loss = 666.3779186110497, delta_loss = 10.07284
+17/06/03 21:18:41 INFO PRankDRecommender: PRankDRecommender iter 23: loss = 643.1194800748298, delta_loss = 23.258438
+17/06/03 21:18:41 INFO PRankDRecommender: PRankDRecommender iter 24: loss = 640.9997828896279, delta_loss = 2.119697
+17/06/03 21:18:42 INFO PRankDRecommender: PRankDRecommender iter 25: loss = 644.0140707852398, delta_loss = -3.014288
+17/06/03 21:18:43 INFO PRankDRecommender: PRankDRecommender iter 26: loss = 608.6734803997753, delta_loss = 35.34059
+17/06/03 21:18:43 INFO PRankDRecommender: PRankDRecommender iter 27: loss = 589.6263472338411, delta_loss = 19.047132
+17/06/03 21:18:44 INFO PRankDRecommender: PRankDRecommender iter 28: loss = 566.8079791729941, delta_loss = 22.818369
+17/06/03 21:18:45 INFO PRankDRecommender: PRankDRecommender iter 29: loss = 570.4162317727279, delta_loss = -3.6082525
+17/06/03 21:18:45 INFO PRankDRecommender: PRankDRecommender iter 30: loss = 549.5448954359995, delta_loss = 20.871336
+17/06/03 21:18:46 INFO PRankDRecommender: PRankDRecommender iter 31: loss = 559.1220466240705, delta_loss = -9.577151
+17/06/03 21:18:47 INFO PRankDRecommender: PRankDRecommender iter 32: loss = 544.2384485342614, delta_loss = 14.883598
+17/06/03 21:18:47 INFO PRankDRecommender: PRankDRecommender iter 33: loss = 542.674896669222, delta_loss = 1.5635519
+17/06/03 21:18:48 INFO PRankDRecommender: PRankDRecommender iter 34: loss = 519.5094285686757, delta_loss = 23.165468
+17/06/03 21:18:49 INFO PRankDRecommender: PRankDRecommender iter 35: loss = 513.1076641950726, delta_loss = 6.4017644
+17/06/03 21:18:49 INFO PRankDRecommender: PRankDRecommender iter 36: loss = 490.01685724074673, delta_loss = 23.090807
+17/06/03 21:18:50 INFO PRankDRecommender: PRankDRecommender iter 37: loss = 501.56013420182995, delta_loss = -11.543277
+17/06/03 21:18:51 INFO PRankDRecommender: PRankDRecommender iter 38: loss = 479.1749079869426, delta_loss = 22.385225
+17/06/03 21:18:51 INFO PRankDRecommender: PRankDRecommender iter 39: loss = 481.1330972469848, delta_loss = -1.9581892
+17/06/03 21:18:52 INFO PRankDRecommender: PRankDRecommender iter 40: loss = 479.539210736574, delta_loss = 1.5938865
+17/06/03 21:18:52 INFO PRankDRecommender: PRankDRecommender iter 41: loss = 462.11177341863913, delta_loss = 17.427437
+17/06/03 21:18:53 INFO PRankDRecommender: PRankDRecommender iter 42: loss = 445.4373772768439, delta_loss = 16.674397
+17/06/03 21:18:54 INFO PRankDRecommender: PRankDRecommender iter 43: loss = 464.19772759296796, delta_loss = -18.760351
+17/06/03 21:18:54 INFO PRankDRecommender: PRankDRecommender iter 44: loss = 434.83032327479714, delta_loss = 29.367405
+17/06/03 21:18:55 INFO PRankDRecommender: PRankDRecommender iter 45: loss = 436.7491835425737, delta_loss = -1.9188603
+17/06/03 21:18:56 INFO PRankDRecommender: PRankDRecommender iter 46: loss = 439.03622572993004, delta_loss = -2.2870421
+17/06/03 21:18:56 INFO PRankDRecommender: PRankDRecommender iter 47: loss = 421.04129076153845, delta_loss = 17.994934
+17/06/03 21:18:57 INFO PRankDRecommender: PRankDRecommender iter 48: loss = 421.8253899113637, delta_loss = -0.78409916
+17/06/03 21:18:57 INFO PRankDRecommender: PRankDRecommender iter 49: loss = 406.32280316515926, delta_loss = 15.502586
+17/06/03 21:18:58 INFO PRankDRecommender: PRankDRecommender iter 50: loss = 432.8956744173892, delta_loss = -26.572872
+17/06/03 21:18:59 INFO PRankDRecommender: PRankDRecommender iter 51: loss = 407.24925857497817, delta_loss = 25.646416
+17/06/03 21:18:59 INFO PRankDRecommender: PRankDRecommender iter 52: loss = 392.64572073848086, delta_loss = 14.603538
+17/06/03 21:19:00 INFO PRankDRecommender: PRankDRecommender iter 53: loss = 394.7070997022345, delta_loss = -2.061379
+17/06/03 21:19:00 INFO PRankDRecommender: PRankDRecommender iter 54: loss = 401.3576218501577, delta_loss = -6.650522
+17/06/03 21:19:01 INFO PRankDRecommender: PRankDRecommender iter 55: loss = 383.88078305300905, delta_loss = 17.47684
+17/06/03 21:19:02 INFO PRankDRecommender: PRankDRecommender iter 56: loss = 383.724742591744, delta_loss = 0.15604046
+17/06/03 21:19:02 INFO PRankDRecommender: PRankDRecommender iter 57: loss = 385.5743478934425, delta_loss = -1.8496053
+17/06/03 21:19:03 INFO PRankDRecommender: PRankDRecommender iter 58: loss = 367.10760429378456, delta_loss = 18.466743
+17/06/03 21:19:03 INFO PRankDRecommender: PRankDRecommender iter 59: loss = 376.4279943065055, delta_loss = -9.32039
+17/06/03 21:19:04 INFO PRankDRecommender: PRankDRecommender iter 60: loss = 366.99107095983516, delta_loss = 9.436923
+17/06/03 21:19:04 INFO PRankDRecommender: PRankDRecommender iter 61: loss = 351.9859038437299, delta_loss = 15.005167
+17/06/03 21:19:05 INFO PRankDRecommender: PRankDRecommender iter 62: loss = 350.52852965580223, delta_loss = 1.4573742
+17/06/03 21:19:06 INFO PRankDRecommender: PRankDRecommender iter 63: loss = 358.13177253262563, delta_loss = -7.603243
+17/06/03 21:19:06 INFO PRankDRecommender: PRankDRecommender iter 64: loss = 353.66159536360357, delta_loss = 4.470177
+17/06/03 21:19:07 INFO PRankDRecommender: PRankDRecommender iter 65: loss = 354.5581412020681, delta_loss = -0.8965458
+17/06/03 21:19:07 INFO PRankDRecommender: PRankDRecommender iter 66: loss = 349.5176632000085, delta_loss = 5.040478
+17/06/03 21:19:08 INFO PRankDRecommender: PRankDRecommender iter 67: loss = 330.7383935545174, delta_loss = 18.77927
+17/06/03 21:19:09 INFO PRankDRecommender: PRankDRecommender iter 68: loss = 341.29754872212783, delta_loss = -10.559155
+17/06/03 21:19:09 INFO PRankDRecommender: PRankDRecommender iter 69: loss = 338.8047134978023, delta_loss = 2.4928353
+17/06/03 21:19:10 INFO PRankDRecommender: PRankDRecommender iter 70: loss = 332.32337184027074, delta_loss = 6.481342
+17/06/03 21:19:10 INFO PRankDRecommender: PRankDRecommender iter 71: loss = 322.21680232503803, delta_loss = 10.106569
+17/06/03 21:19:11 INFO PRankDRecommender: PRankDRecommender iter 72: loss = 314.52609579860115, delta_loss = 7.6907067
+17/06/03 21:19:11 INFO PRankDRecommender: PRankDRecommender iter 73: loss = 317.8103049927874, delta_loss = -3.2842093
+17/06/03 21:19:12 INFO PRankDRecommender: PRankDRecommender iter 74: loss = 324.0914188970199, delta_loss = -6.281114
+17/06/03 21:19:13 INFO PRankDRecommender: PRankDRecommender iter 75: loss = 318.91365691836546, delta_loss = 5.177762
+17/06/03 21:19:13 INFO PRankDRecommender: PRankDRecommender iter 76: loss = 305.4680351794843, delta_loss = 13.4456215
+17/06/03 21:19:14 INFO PRankDRecommender: PRankDRecommender iter 77: loss = 304.80827085508986, delta_loss = 0.65976435
+17/06/03 21:19:14 INFO PRankDRecommender: PRankDRecommender iter 78: loss = 313.35050652840744, delta_loss = -8.542235
+17/06/03 21:19:15 INFO PRankDRecommender: PRankDRecommender iter 79: loss = 314.1074322949126, delta_loss = -0.75692576
+17/06/03 21:19:16 INFO PRankDRecommender: PRankDRecommender iter 80: loss = 307.36382992296046, delta_loss = 6.7436023
+17/06/03 21:19:16 INFO PRankDRecommender: PRankDRecommender iter 81: loss = 288.61029293869586, delta_loss = 18.753536
+17/06/03 21:19:17 INFO PRankDRecommender: PRankDRecommender iter 82: loss = 301.3575999187244, delta_loss = -12.747307
+17/06/03 21:19:17 INFO PRankDRecommender: PRankDRecommender iter 83: loss = 290.3556367101341, delta_loss = 11.001964
+17/06/03 21:19:18 INFO PRankDRecommender: PRankDRecommender iter 84: loss = 293.11127565284824, delta_loss = -2.7556388
+17/06/03 21:19:18 INFO PRankDRecommender: PRankDRecommender iter 85: loss = 281.3208097256507, delta_loss = 11.790466
+17/06/03 21:19:19 INFO PRankDRecommender: PRankDRecommender iter 86: loss = 287.57273756712135, delta_loss = -6.251928
+17/06/03 21:19:20 INFO PRankDRecommender: PRankDRecommender iter 87: loss = 292.2064046576413, delta_loss = -4.633667
+17/06/03 21:19:20 INFO PRankDRecommender: PRankDRecommender iter 88: loss = 283.3980954121121, delta_loss = 8.80831
+17/06/03 21:19:21 INFO PRankDRecommender: PRankDRecommender iter 89: loss = 286.9059780930323, delta_loss = -3.5078826
+17/06/03 21:19:21 INFO PRankDRecommender: PRankDRecommender iter 90: loss = 258.79873205813084, delta_loss = 28.107246
+17/06/03 21:19:22 INFO PRankDRecommender: PRankDRecommender iter 91: loss = 271.0513882607096, delta_loss = -12.252656
+17/06/03 21:19:23 INFO PRankDRecommender: PRankDRecommender iter 92: loss = 281.6552532570449, delta_loss = -10.603865
+17/06/03 21:19:23 INFO PRankDRecommender: PRankDRecommender iter 93: loss = 273.53690020793226, delta_loss = 8.118353
+17/06/03 21:19:24 INFO PRankDRecommender: PRankDRecommender iter 94: loss = 276.62539296995703, delta_loss = -3.0884929
+17/06/03 21:19:24 INFO PRankDRecommender: PRankDRecommender iter 95: loss = 263.7646804056798, delta_loss = 12.860713
+17/06/03 21:19:25 INFO PRankDRecommender: PRankDRecommender iter 96: loss = 255.57954071142197, delta_loss = 8.18514
+17/06/03 21:19:25 INFO PRankDRecommender: PRankDRecommender iter 97: loss = 253.36414523956338, delta_loss = 2.2153955
+17/06/03 21:19:26 INFO PRankDRecommender: PRankDRecommender iter 98: loss = 255.3880260997222, delta_loss = -2.023881
+17/06/03 21:19:27 INFO PRankDRecommender: PRankDRecommender iter 99: loss = 242.7476101627063, delta_loss = 12.640416
+17/06/03 21:19:27 INFO PRankDRecommender: PRankDRecommender iter 100: loss = 252.57575631408693, delta_loss = -9.828146
+17/06/03 21:19:27 INFO PRankDRecommender: Job Train completed.
+17/06/03 21:19:27 INFO PRankDRecommender: Job End.
+17/06/03 21:19:27 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.6681597711826689
+17/06/03 21:19:27 INFO RecommenderJob: Evaluator value:AP top 10 is 0.20418428557806836
+17/06/03 21:19:27 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.18934490923441186
+17/06/03 21:19:27 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.22906707521737615
+17/06/03 21:19:27 INFO RecommenderJob: Evaluator value:RR top 10 is 0.23797340298918834
+17/06/03 21:19:27 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.23822545055715122
+17/06/03 21:19:27 INFO RecommenderJob: Result path is result/filmtrust/rating-prankd-output/prankd

@@ -1,0 +1,680 @@
+"C:\Program Files\Java\jdk1.8.0_91\bin\java" -ea -Didea.launcher.port=7532 "-Didea.launcher.bin.path=D:\syt\IntelliJ IDEA 2016.1.2\bin" -Didea.junit.sm_runner -Dfile.encoding=UTF-8 -classpath "D:\syt\IntelliJ IDEA 2016.1.2\lib\idea_rt.jar;D:\syt\IntelliJ IDEA 2016.1.2\plugins\junit\lib\junit-rt.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\rt.jar;D:\syt\librec\core\target\test-classes;D:\syt\librec\core\target\classes;C:\Users\guoguibing\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\guoguibing\.m2\repository\commons-lang\commons-lang\2.6\commons-lang-2.6.jar;C:\Users\guoguibing\.m2\repository\commons-cli\commons-cli\1.3\commons-cli-1.3.jar;C:\Users\guoguibing\.m2\repository\com\google\guava\guava\15.0\guava-15.0.jar;C:\Users\guoguibing\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\guoguibing\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\guoguibing\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\guoguibing\.m2\repository\org\deeplearning4j\deeplearning4j-core\0.8.0\deeplearning4j-core-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\deeplearning4j\deeplearning4j-modelimport\0.8.0\deeplearning4j-modelimport-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp\1.3.2\javacpp-1.3.2.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\hdf5-platform\1.10.0-patch1-1.3\hdf5-platform-1.10.0-patch1-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\hdf5\1.10.0-patch1-1.3\hdf5-1.10.0-patch1-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\hdf5\1.10.0-patch1-1.3\hdf5-1.10.0-patch1-1.3-linux-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\hdf5\1.10.0-patch1-1.3\hdf5-1.10.0-patch1-1.3-linux-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\hdf5\1.10.0-patch1-1.3\hdf5-1.10.0-patch1-1.3-linux-ppc64le.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\hdf5\1.10.0-patch1-1.3\hdf5-1.10.0-patch1-1.3-macosx-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\hdf5\1.10.0-patch1-1.3\hdf5-1.10.0-patch1-1.3-windows-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\hdf5\1.10.0-patch1-1.3\hdf5-1.10.0-patch1-1.3-windows-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\slf4j\slf4j-api\1.7.12\slf4j-api-1.7.12.jar;C:\Users\guoguibing\.m2\repository\org\deeplearning4j\deeplearning4j-nn\0.8.0\deeplearning4j-nn-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\apache\commons\commons-math3\3.6\commons-math3-3.6.jar;C:\Users\guoguibing\.m2\repository\commons-io\commons-io\2.4\commons-io-2.4.jar;C:\Users\guoguibing\.m2\repository\org\apache\commons\commons-compress\1.8\commons-compress-1.8.jar;C:\Users\guoguibing\.m2\repository\org\tukaani\xz\1.5\xz-1.5.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-api\0.8.0\nd4j-api-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-buffer\0.8.0\nd4j-buffer-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-context\0.8.0\nd4j-context-0.8.0.jar;C:\Users\guoguibing\.m2\repository\net\ericaro\neoitertools\1.0.0\neoitertools-1.0.0.jar;C:\Users\guoguibing\.m2\repository\org\apache\commons\commons-lang3\3.3.1\commons-lang3-3.3.1.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\jackson\0.8.0\jackson-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\yaml\snakeyaml\1.12\snakeyaml-1.12.jar;C:\Users\guoguibing\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.4\stax2-api-3.1.4.jar;C:\Users\guoguibing\.m2\repository\joda-time\joda-time\2.2\joda-time-2.2.jar;C:\Users\guoguibing\.m2\repository\org\json\json\20131018\json-20131018.jar;C:\Users\guoguibing\.m2\repository\org\projectlombok\lombok\1.16.10\lombok-1.16.10.jar;C:\Users\guoguibing\.m2\repository\org\datavec\datavec-nd4j-common\0.8.0\datavec-nd4j-common-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\datavec\datavec-api\0.8.0\datavec-api-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\guoguibing\.m2\repository\org\reflections\reflections\0.9.10\reflections-0.9.10.jar;C:\Users\guoguibing\.m2\repository\org\javassist\javassist\3.19.0-GA\javassist-3.19.0-GA.jar;C:\Users\guoguibing\.m2\repository\com\google\code\findbugs\annotations\2.0.1\annotations-2.0.1.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-common\0.8.0\nd4j-common-0.8.0.jar;C:\Users\guoguibing\.m2\repository\com\clearspring\analytics\stream\2.7.0\stream-2.7.0.jar;C:\Users\guoguibing\.m2\repository\it\unimi\dsi\fastutil\6.5.7\fastutil-6.5.7.jar;C:\Users\guoguibing\.m2\repository\org\datavec\datavec-data-image\0.8.0\datavec-data-image-0.8.0.jar;C:\Users\guoguibing\.m2\repository\com\github\jai-imageio\jai-imageio-core\1.3.0\jai-imageio-core-1.3.0.jar;C:\Users\guoguibing\.m2\repository\com\twelvemonkeys\imageio\imageio-jpeg\3.1.1\imageio-jpeg-3.1.1.jar;C:\Users\guoguibing\.m2\repository\com\twelvemonkeys\imageio\imageio-core\3.1.1\imageio-core-3.1.1.jar;C:\Users\guoguibing\.m2\repository\com\twelvemonkeys\imageio\imageio-metadata\3.1.1\imageio-metadata-3.1.1.jar;C:\Users\guoguibing\.m2\repository\com\twelvemonkeys\common\common-lang\3.1.1\common-lang-3.1.1.jar;C:\Users\guoguibing\.m2\repository\com\twelvemonkeys\common\common-io\3.1.1\common-io-3.1.1.jar;C:\Users\guoguibing\.m2\repository\com\twelvemonkeys\common\common-image\3.1.1\common-image-3.1.1.jar;C:\Users\guoguibing\.m2\repository\com\twelvemonkeys\imageio\imageio-tiff\3.1.1\imageio-tiff-3.1.1.jar;C:\Users\guoguibing\.m2\repository\com\twelvemonkeys\imageio\imageio-psd\3.1.1\imageio-psd-3.1.1.jar;C:\Users\guoguibing\.m2\repository\com\twelvemonkeys\imageio\imageio-bmp\3.1.1\imageio-bmp-3.1.1.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacv\1.3.1\javacv-1.3.1.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv\3.1.0-1.3\opencv-3.1.0-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\ffmpeg\3.2.1-1.3\ffmpeg-3.2.1-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\flycapture\2.9.3.43-1.3\flycapture-2.9.3.43-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\libdc1394\2.2.4-1.3\libdc1394-2.2.4-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\libfreenect\0.5.3-1.3\libfreenect-0.5.3-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\libfreenect2\0.2.0-1.3\libfreenect2-0.2.0-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\librealsense\1.9.6-1.3\librealsense-1.9.6-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\videoinput\0.200-1.3\videoinput-0.200-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\artoolkitplus\2.3.1-1.3\artoolkitplus-2.3.1-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\flandmark\1.07-1.3\flandmark-1.07-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv-platform\3.1.0-1.3\opencv-platform-3.1.0-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv\3.1.0-1.3\opencv-3.1.0-1.3-android-arm.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv\3.1.0-1.3\opencv-3.1.0-1.3-android-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv\3.1.0-1.3\opencv-3.1.0-1.3-linux-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv\3.1.0-1.3\opencv-3.1.0-1.3-linux-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv\3.1.0-1.3\opencv-3.1.0-1.3-linux-armhf.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv\3.1.0-1.3\opencv-3.1.0-1.3-linux-ppc64le.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv\3.1.0-1.3\opencv-3.1.0-1.3-macosx-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv\3.1.0-1.3\opencv-3.1.0-1.3-windows-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\opencv\3.1.0-1.3\opencv-3.1.0-1.3-windows-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica-platform\1.73-1.3\leptonica-platform-1.73-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica\1.73-1.3\leptonica-1.73-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica\1.73-1.3\leptonica-1.73-1.3-android-arm.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica\1.73-1.3\leptonica-1.73-1.3-android-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica\1.73-1.3\leptonica-1.73-1.3-linux-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica\1.73-1.3\leptonica-1.73-1.3-linux-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica\1.73-1.3\leptonica-1.73-1.3-linux-armhf.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica\1.73-1.3\leptonica-1.73-1.3-linux-ppc64le.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica\1.73-1.3\leptonica-1.73-1.3-macosx-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica\1.73-1.3\leptonica-1.73-1.3-windows-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\leptonica\1.73-1.3\leptonica-1.73-1.3-windows-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\deeplearning4j\deeplearning4j-ui-components\0.8.0\deeplearning4j-ui-components-0.8.0.jar;C:\Users\guoguibing\.m2\repository\commons-codec\commons-codec\1.4\commons-codec-1.4.jar;C:\Users\guoguibing\.m2\repository\org\deeplearning4j\deeplearning4j-nlp\0.8.0\deeplearning4j-nlp-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\apache\directory\studio\org.apache.commons.codec\1.8\org.apache.commons.codec-1.8.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-native-api\0.8.0\nd4j-native-api-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-jackson\0.8.0\nd4j-jackson-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-base64\0.8.0\nd4j-base64-0.8.0.jar;C:\Users\guoguibing\.m2\repository\commons-net\commons-net\3.1\commons-net-3.1.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-native-platform\0.8.0\nd4j-native-platform-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-native\0.8.0\nd4j-native-0.8.0.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas-platform\0.2.19-1.3\openblas-platform-0.2.19-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas\0.2.19-1.3\openblas-0.2.19-1.3.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas\0.2.19-1.3\openblas-0.2.19-1.3-android-arm.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas\0.2.19-1.3\openblas-0.2.19-1.3-android-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas\0.2.19-1.3\openblas-0.2.19-1.3-linux-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas\0.2.19-1.3\openblas-0.2.19-1.3-linux-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas\0.2.19-1.3\openblas-0.2.19-1.3-linux-armhf.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas\0.2.19-1.3\openblas-0.2.19-1.3-linux-ppc64le.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas\0.2.19-1.3\openblas-0.2.19-1.3-macosx-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas\0.2.19-1.3\openblas-0.2.19-1.3-windows-x86.jar;C:\Users\guoguibing\.m2\repository\org\bytedeco\javacpp-presets\openblas\0.2.19-1.3\openblas-0.2.19-1.3-windows-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-native\0.8.0\nd4j-native-0.8.0-android-arm.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-native\0.8.0\nd4j-native-0.8.0-android-x86.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-native\0.8.0\nd4j-native-0.8.0-linux-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-native\0.8.0\nd4j-native-0.8.0-macosx-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-native\0.8.0\nd4j-native-0.8.0-windows-x86_64.jar;C:\Users\guoguibing\.m2\repository\org\nd4j\nd4j-native\0.8.0\nd4j-native-0.8.0-linux-ppc64le.jar" com.intellij.rt.execution.application.AppMain com.intellij.rt.execution.junit.JUnitStarter -ideVersion5 net.librec.recommender.poi.RankGeoFMRecommenderTestCase,testRecommender
+17/08/12 20:22:20 INFO TextDataConvertor: Dataset: ../data/poi/FourSquare/checkin
+17/08/12 20:22:20 INFO TextDataConvertor: All dataset files [..\data\poi\FourSquare\checkin\test.txt, ..\data\poi\FourSquare\checkin\train.txt]
+17/08/12 20:22:20 INFO TextDataConvertor: All dataset files size 2290872
+17/08/12 20:22:20 INFO TextDataConvertor: Now loading dataset file test
+17/08/12 20:22:20 INFO TextDataConvertor: Now loading dataset file train
+17/08/12 20:22:21 INFO TextDataModel: Transform data to Convertor successfully!
+17/08/12 20:22:21 INFO TextDataConvertor: Dataset: ...ata/poi/FourSquare/checkin/test.txt
+17/08/12 20:22:21 INFO TextDataConvertor: All dataset files [..\data\poi\FourSquare\checkin\test.txt]
+17/08/12 20:22:21 INFO TextDataConvertor: All dataset files size 619743
+17/08/12 20:22:21 INFO TextDataConvertor: Now loading dataset file test
+17/08/12 20:22:21 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/08/12 20:22:21 INFO TextDataModel: Data size of training is 69159
+17/08/12 20:22:21 INFO TextDataModel: Data size of testing is 29099
+17/08/12 20:22:21 INFO LocationDataAppender: ../data/poi/FourSquare/FoursquareLocation.txt
+17/08/12 20:22:21 INFO TextDataModel: Transform data to Feature successfully!
+17/08/12 20:22:32 INFO RankGeoFMRecommender: Job Setup completed.
+17/08/12 20:22:34 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 1: loss = 365362.16118228243, delta_loss = -365362.16
+17/08/12 20:22:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 2: loss = 364702.2322128012, delta_loss = 659.92896
+17/08/12 20:22:36 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 3: loss = 363977.8010014618, delta_loss = 724.4312
+17/08/12 20:22:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 4: loss = 363381.53801526927, delta_loss = 596.263
+17/08/12 20:22:38 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 5: loss = 362715.61367507116, delta_loss = 665.9243
+17/08/12 20:22:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 6: loss = 362084.2596549135, delta_loss = 631.354
+17/08/12 20:22:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 7: loss = 361329.13460808166, delta_loss = 755.12506
+17/08/12 20:22:41 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 8: loss = 360755.48903645726, delta_loss = 573.64557
+17/08/12 20:22:42 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 9: loss = 359992.45847655745, delta_loss = 763.0306
+17/08/12 20:22:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 10: loss = 359277.2013019063, delta_loss = 715.2572
+17/08/12 20:22:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 11: loss = 358577.47647485184, delta_loss = 699.72485
+17/08/12 20:22:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 12: loss = 357872.9992887088, delta_loss = 704.4772
+17/08/12 20:22:45 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 13: loss = 357102.6829873052, delta_loss = 770.3163
+17/08/12 20:22:46 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 14: loss = 356424.8589289755, delta_loss = 677.82404
+17/08/12 20:22:47 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 15: loss = 355573.4275633739, delta_loss = 851.43134
+17/08/12 20:22:48 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 16: loss = 354908.4731623974, delta_loss = 664.9544
+17/08/12 20:22:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 17: loss = 354035.1613131619, delta_loss = 873.3118
+17/08/12 20:22:50 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 18: loss = 353319.94666821486, delta_loss = 715.21466
+17/08/12 20:22:51 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 19: loss = 352495.63997685397, delta_loss = 824.3067
+17/08/12 20:22:52 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 20: loss = 351603.29133021465, delta_loss = 892.34863
+17/08/12 20:22:53 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 21: loss = 350683.7564630037, delta_loss = 919.53485
+17/08/12 20:22:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 22: loss = 349819.2174709683, delta_loss = 864.539
+17/08/12 20:22:55 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 23: loss = 348857.52974467695, delta_loss = 961.68774
+17/08/12 20:22:56 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 24: loss = 347762.7316287077, delta_loss = 1094.7981
+17/08/12 20:22:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 25: loss = 346722.2518735027, delta_loss = 1040.4797
+17/08/12 20:22:58 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 26: loss = 345633.8179627823, delta_loss = 1088.434
+17/08/12 20:22:59 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 27: loss = 344413.8866752638, delta_loss = 1219.9313
+17/08/12 20:23:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 28: loss = 343137.949754273, delta_loss = 1275.9369
+17/08/12 20:23:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 29: loss = 341717.93462457147, delta_loss = 1420.0151
+17/08/12 20:23:01 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 30: loss = 340297.2560672033, delta_loss = 1420.6786
+17/08/12 20:23:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 31: loss = 338880.3505113618, delta_loss = 1416.9055
+17/08/12 20:23:03 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 32: loss = 337290.82662955584, delta_loss = 1589.5239
+17/08/12 20:23:04 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 33: loss = 335786.2779855645, delta_loss = 1504.5486
+17/08/12 20:23:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 34: loss = 334164.2376124107, delta_loss = 1622.0404
+17/08/12 20:23:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 35: loss = 332578.02384473983, delta_loss = 1586.2137
+17/08/12 20:23:07 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 36: loss = 331036.54476482957, delta_loss = 1541.4791
+17/08/12 20:23:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 37: loss = 329634.73799131234, delta_loss = 1401.8068
+17/08/12 20:23:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 38: loss = 328004.59770667355, delta_loss = 1630.1403
+17/08/12 20:23:10 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 39: loss = 326638.8925553593, delta_loss = 1365.7052
+17/08/12 20:23:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 40: loss = 325150.70888984617, delta_loss = 1488.1837
+17/08/12 20:23:12 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 41: loss = 323900.4955003972, delta_loss = 1250.2134
+17/08/12 20:23:13 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 42: loss = 322670.65236993146, delta_loss = 1229.8431
+17/08/12 20:23:14 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 43: loss = 321487.0946156219, delta_loss = 1183.5577
+17/08/12 20:23:16 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 44: loss = 320338.92650412646, delta_loss = 1148.1681
+17/08/12 20:23:17 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 45: loss = 319314.0317726037, delta_loss = 1024.8948
+17/08/12 20:23:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 46: loss = 318249.4095975295, delta_loss = 1064.6222
+17/08/12 20:23:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 47: loss = 317353.4407243343, delta_loss = 895.9689
+17/08/12 20:23:20 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 48: loss = 316260.4298302116, delta_loss = 1093.0109
+17/08/12 20:23:21 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 49: loss = 315432.49088784517, delta_loss = 827.93896
+17/08/12 20:23:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 50: loss = 314504.1654192548, delta_loss = 928.32544
+17/08/12 20:23:23 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 51: loss = 313742.2948231867, delta_loss = 761.8706
+17/08/12 20:23:24 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 52: loss = 312875.2636349938, delta_loss = 867.0312
+17/08/12 20:23:25 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 53: loss = 312356.670807693, delta_loss = 518.59283
+17/08/12 20:23:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 54: loss = 311440.78122914303, delta_loss = 915.8896
+17/08/12 20:23:27 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 55: loss = 310939.81321247696, delta_loss = 500.96802
+17/08/12 20:23:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 56: loss = 310376.67528023926, delta_loss = 563.13794
+17/08/12 20:23:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 57: loss = 309672.92695826973, delta_loss = 703.74835
+17/08/12 20:23:31 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 58: loss = 309167.47564385214, delta_loss = 505.45132
+17/08/12 20:23:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 59: loss = 308754.3154484233, delta_loss = 413.1602
+17/08/12 20:23:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 60: loss = 307958.41570844024, delta_loss = 795.8997
+17/08/12 20:23:34 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 61: loss = 307490.7403208747, delta_loss = 467.67538
+17/08/12 20:23:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 62: loss = 306787.55957672076, delta_loss = 703.1807
+17/08/12 20:23:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 63: loss = 306332.0766869116, delta_loss = 455.48288
+17/08/12 20:23:38 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 64: loss = 305783.64516509644, delta_loss = 548.4315
+17/08/12 20:23:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 65: loss = 305268.8528995489, delta_loss = 514.79224
+17/08/12 20:23:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 66: loss = 304950.91963266535, delta_loss = 317.93326
+17/08/12 20:23:41 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 67: loss = 304357.02331102116, delta_loss = 593.8963
+17/08/12 20:23:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 68: loss = 303944.8541622512, delta_loss = 412.16916
+17/08/12 20:23:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 69: loss = 303377.41113517055, delta_loss = 567.44305
+17/08/12 20:23:45 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 70: loss = 303071.8104810512, delta_loss = 305.60065
+17/08/12 20:23:46 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 71: loss = 302810.8297005234, delta_loss = 260.98077
+17/08/12 20:23:48 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 72: loss = 302426.6177393136, delta_loss = 384.21198
+17/08/12 20:23:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 73: loss = 301762.362676312, delta_loss = 664.25507
+17/08/12 20:23:50 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 74: loss = 301422.31009751494, delta_loss = 340.05258
+17/08/12 20:23:51 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 75: loss = 301082.67248056957, delta_loss = 339.6376
+17/08/12 20:23:52 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 76: loss = 300757.35385115206, delta_loss = 325.31863
+17/08/12 20:23:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 77: loss = 300449.0507281299, delta_loss = 308.30313
+17/08/12 20:23:55 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 78: loss = 299935.93036391004, delta_loss = 513.12036
+17/08/12 20:23:56 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 79: loss = 299770.4494716964, delta_loss = 165.4809
+17/08/12 20:23:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 80: loss = 299189.721962672, delta_loss = 580.72754
+17/08/12 20:23:59 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 81: loss = 298832.3947011328, delta_loss = 357.32727
+17/08/12 20:24:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 82: loss = 298438.4826014992, delta_loss = 393.9121
+17/08/12 20:24:01 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 83: loss = 298163.5107050377, delta_loss = 274.9719
+17/08/12 20:24:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 84: loss = 297805.8028081132, delta_loss = 357.7079
+17/08/12 20:24:04 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 85: loss = 297706.6047818267, delta_loss = 99.19803
+17/08/12 20:24:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 86: loss = 297321.6542947299, delta_loss = 384.9505
+17/08/12 20:24:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 87: loss = 296905.1662968695, delta_loss = 416.488
+17/08/12 20:24:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 88: loss = 296641.94597796915, delta_loss = 263.2203
+17/08/12 20:24:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 89: loss = 296103.65834058536, delta_loss = 538.28766
+17/08/12 20:24:10 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 90: loss = 296025.2991685421, delta_loss = 78.35917
+17/08/12 20:24:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 91: loss = 295488.0686885406, delta_loss = 537.23047
+17/08/12 20:24:13 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 92: loss = 295188.6476840424, delta_loss = 299.421
+17/08/12 20:24:14 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 93: loss = 294898.44525411713, delta_loss = 290.20242
+17/08/12 20:24:15 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 94: loss = 294697.35198439204, delta_loss = 201.09328
+17/08/12 20:24:16 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 95: loss = 294637.1456648294, delta_loss = 60.206318
+17/08/12 20:24:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 96: loss = 294130.12869441754, delta_loss = 507.01697
+17/08/12 20:24:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 97: loss = 293716.64107908454, delta_loss = 413.4876
+17/08/12 20:24:21 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 98: loss = 293308.8196295213, delta_loss = 407.82144
+17/08/12 20:24:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 99: loss = 293053.1430110872, delta_loss = 255.67662
+17/08/12 20:24:23 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 100: loss = 292888.1198618008, delta_loss = 165.02315
+17/08/12 20:24:25 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 101: loss = 292553.4516763218, delta_loss = 334.66818
+17/08/12 20:24:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 102: loss = 292549.20946629206, delta_loss = 4.24221
+17/08/12 20:24:27 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 103: loss = 291933.0726478796, delta_loss = 616.13684
+17/08/12 20:24:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 104: loss = 291735.68402014015, delta_loss = 197.38863
+17/08/12 20:24:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 105: loss = 291526.70629318734, delta_loss = 208.97772
+17/08/12 20:24:31 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 106: loss = 291309.0073522347, delta_loss = 217.69894
+17/08/12 20:24:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 107: loss = 290968.7464425408, delta_loss = 340.2609
+17/08/12 20:24:34 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 108: loss = 290909.69030570425, delta_loss = 59.056137
+17/08/12 20:24:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 109: loss = 290485.61511947267, delta_loss = 424.0752
+17/08/12 20:24:36 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 110: loss = 290127.63187820144, delta_loss = 357.98325
+17/08/12 20:24:38 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 111: loss = 290016.3278209375, delta_loss = 111.304054
+17/08/12 20:24:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 112: loss = 289743.4472796814, delta_loss = 272.88055
+17/08/12 20:24:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 113: loss = 289368.3585019109, delta_loss = 375.08878
+17/08/12 20:24:42 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 114: loss = 289459.4267269971, delta_loss = -91.06822
+17/08/12 20:24:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 115: loss = 289043.3124073128, delta_loss = 416.11432
+17/08/12 20:24:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 116: loss = 288908.7915111318, delta_loss = 134.52089
+17/08/12 20:24:45 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 117: loss = 288542.26018632704, delta_loss = 366.5313
+17/08/12 20:24:47 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 118: loss = 288351.7423759392, delta_loss = 190.5178
+17/08/12 20:24:48 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 119: loss = 288103.3674806767, delta_loss = 248.3749
+17/08/12 20:24:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 120: loss = 287756.0013710634, delta_loss = 347.36612
+17/08/12 20:24:51 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 121: loss = 287436.3057458055, delta_loss = 319.69562
+17/08/12 20:24:52 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 122: loss = 287548.98018750956, delta_loss = -112.67444
+17/08/12 20:24:53 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 123: loss = 287340.5438723988, delta_loss = 208.43631
+17/08/12 20:24:55 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 124: loss = 287022.96178218536, delta_loss = 317.5821
+17/08/12 20:24:56 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 125: loss = 286889.2909536636, delta_loss = 133.67082
+17/08/12 20:24:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 126: loss = 286330.92750578775, delta_loss = 558.36346
+17/08/12 20:24:58 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 127: loss = 286150.215402204, delta_loss = 180.7121
+17/08/12 20:25:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 128: loss = 286187.0132841779, delta_loss = -36.797882
+17/08/12 20:25:01 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 129: loss = 286055.9564321112, delta_loss = 131.05685
+17/08/12 20:25:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 130: loss = 285460.40086810593, delta_loss = 595.55554
+17/08/12 20:25:04 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 131: loss = 285466.14550800715, delta_loss = -5.74464
+17/08/12 20:25:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 132: loss = 285047.5406615606, delta_loss = 418.60486
+17/08/12 20:25:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 133: loss = 284955.3430464654, delta_loss = 92.19762
+17/08/12 20:25:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 134: loss = 284845.70273067424, delta_loss = 109.64031
+17/08/12 20:25:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 135: loss = 284653.0477027334, delta_loss = 192.65503
+17/08/12 20:25:10 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 136: loss = 284407.71975649905, delta_loss = 245.32794
+17/08/12 20:25:12 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 137: loss = 284326.69815377373, delta_loss = 81.02161
+17/08/12 20:25:13 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 138: loss = 284036.38082790375, delta_loss = 290.31732
+17/08/12 20:25:14 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 139: loss = 283825.1066596736, delta_loss = 211.27417
+17/08/12 20:25:16 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 140: loss = 283765.82510567305, delta_loss = 59.281555
+17/08/12 20:25:17 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 141: loss = 283449.1852863561, delta_loss = 316.63983
+17/08/12 20:25:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 142: loss = 283214.0894720693, delta_loss = 235.09581
+17/08/12 20:25:20 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 143: loss = 283252.5565766914, delta_loss = -38.467106
+17/08/12 20:25:21 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 144: loss = 282892.2614555547, delta_loss = 360.29514
+17/08/12 20:25:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 145: loss = 282805.33500309073, delta_loss = 86.92645
+17/08/12 20:25:24 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 146: loss = 282316.53146628576, delta_loss = 488.80353
+17/08/12 20:25:25 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 147: loss = 282134.3553005688, delta_loss = 182.17616
+17/08/12 20:25:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 148: loss = 282227.9162230169, delta_loss = -93.56092
+17/08/12 20:25:28 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 149: loss = 281803.3328565825, delta_loss = 424.58337
+17/08/12 20:25:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 150: loss = 281958.8363287208, delta_loss = -155.50348
+17/08/12 20:25:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 151: loss = 281668.48459442257, delta_loss = 290.35175
+17/08/12 20:25:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 152: loss = 281276.4842177472, delta_loss = 392.00037
+17/08/12 20:25:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 153: loss = 281189.0624580259, delta_loss = 87.42176
+17/08/12 20:25:34 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 154: loss = 281090.2528180754, delta_loss = 98.80964
+17/08/12 20:25:36 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 155: loss = 280892.12942445255, delta_loss = 198.1234
+17/08/12 20:25:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 156: loss = 280949.6615700534, delta_loss = -57.532146
+17/08/12 20:25:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 157: loss = 280490.5542359313, delta_loss = 459.10733
+17/08/12 20:25:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 158: loss = 280544.5153172245, delta_loss = -53.961082
+17/08/12 20:25:41 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 159: loss = 280062.3099616468, delta_loss = 482.20535
+17/08/12 20:25:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 160: loss = 280022.6815515123, delta_loss = 39.62841
+17/08/12 20:25:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 161: loss = 280097.70517796976, delta_loss = -75.02363
+17/08/12 20:25:45 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 162: loss = 279715.27186353377, delta_loss = 382.43332
+17/08/12 20:25:47 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 163: loss = 279552.1851268511, delta_loss = 163.08673
+17/08/12 20:25:48 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 164: loss = 279483.60391660273, delta_loss = 68.58121
+17/08/12 20:25:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 165: loss = 279172.36247748457, delta_loss = 311.24142
+17/08/12 20:25:51 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 166: loss = 279222.99413345184, delta_loss = -50.631657
+17/08/12 20:25:52 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 167: loss = 278945.9418025721, delta_loss = 277.05234
+17/08/12 20:25:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 168: loss = 278730.6188403244, delta_loss = 215.32297
+17/08/12 20:25:55 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 169: loss = 278742.46818100294, delta_loss = -11.84934
+17/08/12 20:25:56 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 170: loss = 278435.50533657416, delta_loss = 306.96283
+17/08/12 20:25:58 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 171: loss = 278585.4488093686, delta_loss = -149.94347
+17/08/12 20:25:59 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 172: loss = 278148.9064869101, delta_loss = 436.54233
+17/08/12 20:26:01 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 173: loss = 277850.5737953715, delta_loss = 298.3327
+17/08/12 20:26:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 174: loss = 278036.9533901377, delta_loss = -186.3796
+17/08/12 20:26:03 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 175: loss = 277627.99421827693, delta_loss = 408.95917
+17/08/12 20:26:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 176: loss = 277513.3089103742, delta_loss = 114.68531
+17/08/12 20:26:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 177: loss = 277492.99283430184, delta_loss = 20.316076
+17/08/12 20:26:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 178: loss = 277106.0727073775, delta_loss = 386.92014
+17/08/12 20:26:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 179: loss = 277067.3141488344, delta_loss = 38.75856
+17/08/12 20:26:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 180: loss = 276778.9358448542, delta_loss = 288.3783
+17/08/12 20:26:12 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 181: loss = 276695.70168764854, delta_loss = 83.23415
+17/08/12 20:26:13 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 182: loss = 276915.88114485476, delta_loss = -220.17946
+17/08/12 20:26:15 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 183: loss = 276273.67673439084, delta_loss = 642.2044
+17/08/12 20:26:16 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 184: loss = 276343.5648855576, delta_loss = -69.88815
+17/08/12 20:26:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 185: loss = 276157.48722351535, delta_loss = 186.07767
+17/08/12 20:26:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 186: loss = 276212.9932035962, delta_loss = -55.50598
+17/08/12 20:26:21 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 187: loss = 275800.1707561848, delta_loss = 412.82245
+17/08/12 20:26:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 188: loss = 275917.4080855865, delta_loss = -117.23733
+17/08/12 20:26:23 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 189: loss = 275612.71121271607, delta_loss = 304.69687
+17/08/12 20:26:25 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 190: loss = 275676.9504215277, delta_loss = -64.23921
+17/08/12 20:26:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 191: loss = 275276.44567906985, delta_loss = 400.50473
+17/08/12 20:26:28 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 192: loss = 275300.5493730251, delta_loss = -24.103693
+17/08/12 20:26:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 193: loss = 275121.19477044814, delta_loss = 179.3546
+17/08/12 20:26:31 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 194: loss = 275142.47647902445, delta_loss = -21.281708
+17/08/12 20:26:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 195: loss = 274880.09699703264, delta_loss = 262.3795
+17/08/12 20:26:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 196: loss = 274950.01193798013, delta_loss = -69.91494
+17/08/12 20:26:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 197: loss = 274671.1164872124, delta_loss = 278.89545
+17/08/12 20:26:36 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 198: loss = 274680.9722355577, delta_loss = -9.855748
+17/08/12 20:26:38 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 199: loss = 274392.3851758894, delta_loss = 288.58707
+17/08/12 20:26:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 200: loss = 274148.7002801948, delta_loss = 243.68489
+17/08/12 20:26:39 INFO RankGeoFMRecommender: Job Train completed.
+17/08/12 20:26:40 INFO RankGeoFMRecommender: Job End.
+17/08/12 20:26:40 INFO RecommenderJob: Evaluator value:AP top 10 is 0.06782919467753579
+17/08/12 20:26:40 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.08074961090253459
+17/08/12 20:26:40 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.7341418109315467
+17/08/12 20:26:40 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.2989164562099061
+17/08/12 20:26:40 INFO RecommenderJob: Evaluator value:RR top 10 is 0.24119307496084735
+17/08/12 20:26:40 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.1035760448082714
+17/08/12 20:26:40 INFO RecommenderJob: Result path is ../result/poi/FourSquare/checkin-rankgeofm-output/rankgeofm
+
+Process finished with exit code 0
+
+17/08/14 11:08:52 INFO TextDataConvertor: Dataset: ../data/poi/FourSquare/checkin
+17/08/14 11:08:52 INFO TextDataConvertor: All dataset files [..\data\poi\FourSquare\checkin\test.txt, ..\data\poi\FourSquare\checkin\train.txt]
+17/08/14 11:08:52 INFO TextDataConvertor: All dataset files size 2139566
+17/08/14 11:08:52 INFO TextDataConvertor: Now loading dataset file test
+17/08/14 11:08:52 INFO TextDataConvertor: Now loading dataset file train
+17/08/14 11:08:53 INFO TextDataModel: Transform data to Convertor successfully!
+17/08/14 11:08:53 INFO TextDataConvertor: Dataset: ...ata/poi/FourSquare/checkin/test.txt
+17/08/14 11:08:53 INFO TextDataConvertor: All dataset files [..\data\poi\FourSquare\checkin\test.txt]
+17/08/14 11:08:53 INFO TextDataConvertor: All dataset files size 544090
+17/08/14 11:08:53 INFO TextDataConvertor: Now loading dataset file test
+17/08/14 11:08:53 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/08/14 11:08:53 INFO TextDataModel: Data size of training is 69158
+17/08/14 11:08:53 INFO TextDataModel: Data size of testing is 25542
+17/08/14 11:08:53 INFO LocationDataAppender: ../data/poi/FourSquare/FoursquareLocation.txt
+17/08/14 11:08:53 INFO TextDataModel: Transform data to Feature successfully!
+17/08/14 11:09:04 INFO RankGeoFMRecommender: Job Setup completed.
+17/08/14 11:09:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 1: loss = 365406.3149413061, delta_loss = -365406.3
+17/08/14 11:09:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 2: loss = 364773.6721145588, delta_loss = 632.6428
+17/08/14 11:09:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 3: loss = 364096.58079085854, delta_loss = 677.0913
+17/08/14 11:09:10 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 4: loss = 363385.621592245, delta_loss = 710.9592
+17/08/14 11:09:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 5: loss = 362751.7667125639, delta_loss = 633.85486
+17/08/14 11:09:13 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 6: loss = 362092.1570806707, delta_loss = 659.6096
+17/08/14 11:09:14 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 7: loss = 361350.6670120145, delta_loss = 741.49005
+17/08/14 11:09:15 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 8: loss = 360622.3405352447, delta_loss = 728.3265
+17/08/14 11:09:16 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 9: loss = 359960.3025473922, delta_loss = 662.03796
+17/08/14 11:09:17 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 10: loss = 359193.36232815013, delta_loss = 766.94025
+17/08/14 11:09:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 11: loss = 358484.3024338669, delta_loss = 709.0599
+17/08/14 11:09:20 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 12: loss = 357920.28082061553, delta_loss = 564.0216
+17/08/14 11:09:21 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 13: loss = 357095.90867077187, delta_loss = 824.37213
+17/08/14 11:09:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 14: loss = 356367.5033724374, delta_loss = 728.4053
+17/08/14 11:09:23 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 15: loss = 355562.0146341856, delta_loss = 805.4887
+17/08/14 11:09:24 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 16: loss = 354851.7400456242, delta_loss = 710.2746
+17/08/14 11:09:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 17: loss = 354047.17293725425, delta_loss = 804.56714
+17/08/14 11:09:27 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 18: loss = 353201.77263572783, delta_loss = 845.4003
+17/08/14 11:09:28 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 19: loss = 352275.0647218702, delta_loss = 926.7079
+17/08/14 11:09:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 20: loss = 351477.12969754665, delta_loss = 797.935
+17/08/14 11:09:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 21: loss = 350624.31291204516, delta_loss = 852.8168
+17/08/14 11:09:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 22: loss = 349615.1515489031, delta_loss = 1009.1614
+17/08/14 11:09:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 23: loss = 348700.62518100697, delta_loss = 914.52637
+17/08/14 11:09:34 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 24: loss = 347633.7683699476, delta_loss = 1066.8568
+17/08/14 11:09:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 25: loss = 346452.0495807438, delta_loss = 1181.7188
+17/08/14 11:09:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 26: loss = 345371.0698196329, delta_loss = 1080.9797
+17/08/14 11:09:38 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 27: loss = 343964.89001623204, delta_loss = 1406.1798
+17/08/14 11:09:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 28: loss = 342700.8031640354, delta_loss = 1264.0868
+17/08/14 11:09:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 29: loss = 341415.8483785767, delta_loss = 1284.9548
+17/08/14 11:09:41 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 30: loss = 339918.7330130075, delta_loss = 1497.1154
+17/08/14 11:09:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 31: loss = 338290.5345108024, delta_loss = 1628.1985
+17/08/14 11:09:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 32: loss = 336705.0135439433, delta_loss = 1585.521
+17/08/14 11:09:45 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 33: loss = 335114.1565483465, delta_loss = 1590.857
+17/08/14 11:09:46 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 34: loss = 333515.2062354387, delta_loss = 1598.9503
+17/08/14 11:09:48 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 35: loss = 331911.2832864547, delta_loss = 1603.923
+17/08/14 11:09:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 36: loss = 330392.5532247811, delta_loss = 1518.7301
+17/08/14 11:09:50 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 37: loss = 328971.4098821987, delta_loss = 1421.1433
+17/08/14 11:09:52 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 38: loss = 327598.99524890055, delta_loss = 1372.4147
+17/08/14 11:09:53 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 39: loss = 325977.2549970192, delta_loss = 1621.7402
+17/08/14 11:09:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 40: loss = 324549.37425672857, delta_loss = 1427.8807
+17/08/14 11:09:55 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 41: loss = 323353.1951661983, delta_loss = 1196.1791
+17/08/14 11:09:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 42: loss = 322165.17559153645, delta_loss = 1188.0195
+17/08/14 11:09:58 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 43: loss = 321200.8091240886, delta_loss = 964.36646
+17/08/14 11:10:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 44: loss = 319921.13537935365, delta_loss = 1279.6737
+17/08/14 11:10:01 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 45: loss = 318911.5468288951, delta_loss = 1009.58856
+17/08/14 11:10:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 46: loss = 317937.4249740091, delta_loss = 974.1218
+17/08/14 11:10:04 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 47: loss = 317063.7515446931, delta_loss = 873.6734
+17/08/14 11:10:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 48: loss = 316185.475128098, delta_loss = 878.2764
+17/08/14 11:10:07 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 49: loss = 315193.87252320326, delta_loss = 991.6026
+17/08/14 11:10:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 50: loss = 314423.5929323893, delta_loss = 770.2796
+17/08/14 11:10:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 51: loss = 313686.5568569795, delta_loss = 737.0361
+17/08/14 11:10:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 52: loss = 312751.85428693966, delta_loss = 934.7026
+17/08/14 11:10:12 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 53: loss = 312130.6290161069, delta_loss = 621.2253
+17/08/14 11:10:13 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 54: loss = 311892.2145768456, delta_loss = 238.41444
+17/08/14 11:10:15 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 55: loss = 310788.04058067256, delta_loss = 1104.174
+17/08/14 11:10:16 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 56: loss = 310223.09459612455, delta_loss = 564.946
+17/08/14 11:10:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 57: loss = 309682.59135008365, delta_loss = 540.50323
+17/08/14 11:10:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 58: loss = 308894.95858303143, delta_loss = 787.63275
+17/08/14 11:10:20 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 59: loss = 308337.1409124279, delta_loss = 557.8177
+17/08/14 11:10:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 60: loss = 307882.36351716885, delta_loss = 454.7774
+17/08/14 11:10:23 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 61: loss = 307453.6265836245, delta_loss = 428.73694
+17/08/14 11:10:25 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 62: loss = 306972.66700694745, delta_loss = 480.95956
+17/08/14 11:10:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 63: loss = 306517.5642048825, delta_loss = 455.1028
+17/08/14 11:10:28 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 64: loss = 306040.5018560104, delta_loss = 477.06235
+17/08/14 11:10:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 65: loss = 305133.723004776, delta_loss = 906.7789
+17/08/14 11:10:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 66: loss = 305143.5856525563, delta_loss = -9.862648
+17/08/14 11:10:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 67: loss = 304679.5502353276, delta_loss = 464.03543
+17/08/14 11:10:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 68: loss = 304009.25522679253, delta_loss = 670.295
+17/08/14 11:10:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 69: loss = 303794.69966342294, delta_loss = 214.55556
+17/08/14 11:10:36 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 70: loss = 303164.5952462028, delta_loss = 630.10443
+17/08/14 11:10:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 71: loss = 302808.9312082694, delta_loss = 355.66403
+17/08/14 11:10:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 72: loss = 302263.3215110139, delta_loss = 545.6097
+17/08/14 11:10:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 73: loss = 301938.99353663117, delta_loss = 324.32797
+17/08/14 11:10:42 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 74: loss = 301386.08047503873, delta_loss = 552.9131
+17/08/14 11:10:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 75: loss = 301216.4612026682, delta_loss = 169.61928
+17/08/14 11:10:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 76: loss = 300636.5969777207, delta_loss = 579.8642
+17/08/14 11:10:46 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 77: loss = 300461.8322270027, delta_loss = 174.76476
+17/08/14 11:10:47 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 78: loss = 299850.022780602, delta_loss = 611.80945
+17/08/14 11:10:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 79: loss = 299777.3414299093, delta_loss = 72.68135
+17/08/14 11:10:50 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 80: loss = 299302.9574240916, delta_loss = 474.384
+17/08/14 11:10:52 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 81: loss = 298902.49681711185, delta_loss = 400.4606
+17/08/14 11:10:53 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 82: loss = 298646.9927109635, delta_loss = 255.5041
+17/08/14 11:10:55 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 83: loss = 298419.7324322234, delta_loss = 227.26028
+17/08/14 11:10:56 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 84: loss = 298148.0848888067, delta_loss = 271.64755
+17/08/14 11:10:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 85: loss = 297665.1064923405, delta_loss = 482.9784
+17/08/14 11:10:59 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 86: loss = 297407.36326997087, delta_loss = 257.74323
+17/08/14 11:11:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 87: loss = 297056.46978730225, delta_loss = 350.8935
+17/08/14 11:11:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 88: loss = 297019.5103351965, delta_loss = 36.959454
+17/08/14 11:11:03 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 89: loss = 296272.6096136246, delta_loss = 746.9007
+17/08/14 11:11:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 90: loss = 296053.2436753961, delta_loss = 219.36594
+17/08/14 11:11:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 91: loss = 295674.14723039616, delta_loss = 379.09644
+17/08/14 11:11:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 92: loss = 295319.27905056055, delta_loss = 354.8682
+17/08/14 11:11:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 93: loss = 295029.7743291947, delta_loss = 289.50473
+17/08/14 11:11:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 94: loss = 294913.6801747469, delta_loss = 116.094154
+17/08/14 11:11:12 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 95: loss = 294622.765031942, delta_loss = 290.91513
+17/08/14 11:11:14 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 96: loss = 294083.6731080766, delta_loss = 539.0919
+17/08/14 11:11:15 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 97: loss = 293840.5192272519, delta_loss = 243.15388
+17/08/14 11:11:16 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 98: loss = 293608.2173123889, delta_loss = 232.30191
+17/08/14 11:11:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 99: loss = 293453.06471968297, delta_loss = 155.15259
+17/08/14 11:11:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 100: loss = 293213.53176228533, delta_loss = 239.53296
+17/08/14 11:11:21 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 101: loss = 292738.55380474194, delta_loss = 474.97797
+17/08/14 11:11:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 102: loss = 292519.1774121811, delta_loss = 219.37639
+17/08/14 11:11:24 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 103: loss = 292381.58421001193, delta_loss = 137.5932
+17/08/14 11:11:25 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 104: loss = 291863.81341459684, delta_loss = 517.7708
+17/08/14 11:11:27 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 105: loss = 291634.6897319889, delta_loss = 229.12369
+17/08/14 11:11:28 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 106: loss = 291449.0504469993, delta_loss = 185.63928
+17/08/14 11:11:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 107: loss = 291241.19589130156, delta_loss = 207.85455
+17/08/14 11:11:31 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 108: loss = 291086.8087047676, delta_loss = 154.38719
+17/08/14 11:11:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 109: loss = 290594.122231946, delta_loss = 492.68646
+17/08/14 11:11:34 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 110: loss = 290439.1734960534, delta_loss = 154.94873
+17/08/14 11:11:36 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 111: loss = 290122.33688229055, delta_loss = 316.8366
+17/08/14 11:11:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 112: loss = 290104.8326986588, delta_loss = 17.504183
+17/08/14 11:11:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 113: loss = 289779.3168083521, delta_loss = 325.5159
+17/08/14 11:11:41 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 114: loss = 289610.7233520438, delta_loss = 168.59346
+17/08/14 11:11:42 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 115: loss = 289201.6004535448, delta_loss = 409.1229
+17/08/14 11:11:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 116: loss = 289011.87476609624, delta_loss = 189.7257
+17/08/14 11:11:45 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 117: loss = 288687.1117769411, delta_loss = 324.763
+17/08/14 11:11:47 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 118: loss = 288756.1980832132, delta_loss = -69.0863
+17/08/14 11:11:48 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 119: loss = 288259.7334054221, delta_loss = 496.4647
+17/08/14 11:11:50 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 120: loss = 287799.65117662126, delta_loss = 460.0822
+17/08/14 11:11:51 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 121: loss = 287765.5493672431, delta_loss = 34.10181
+17/08/14 11:11:53 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 122: loss = 287569.0315967912, delta_loss = 196.51778
+17/08/14 11:11:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 123: loss = 287491.6830998612, delta_loss = 77.348495
+17/08/14 11:11:56 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 124: loss = 287091.3557002582, delta_loss = 400.3274
+17/08/14 11:11:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 125: loss = 286866.56395039347, delta_loss = 224.79175
+17/08/14 11:11:59 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 126: loss = 286780.4454186002, delta_loss = 86.11853
+17/08/14 11:12:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 127: loss = 286425.1412310151, delta_loss = 355.3042
+17/08/14 11:12:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 128: loss = 286306.028531588, delta_loss = 119.1127
+17/08/14 11:12:03 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 129: loss = 286050.7083169393, delta_loss = 255.32022
+17/08/14 11:12:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 130: loss = 285817.14243234246, delta_loss = 233.56589
+17/08/14 11:12:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 131: loss = 285524.21725540503, delta_loss = 292.92517
+17/08/14 11:12:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 132: loss = 285309.8269280567, delta_loss = 214.39032
+17/08/14 11:12:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 133: loss = 285240.15557414, delta_loss = 69.67136
+17/08/14 11:12:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 134: loss = 285098.8936827957, delta_loss = 141.26189
+17/08/14 11:12:12 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 135: loss = 284668.61845285166, delta_loss = 430.27524
+17/08/14 11:12:14 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 136: loss = 284697.7053300173, delta_loss = -29.086878
+17/08/14 11:12:15 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 137: loss = 284385.906107039, delta_loss = 311.79922
+17/08/14 11:12:17 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 138: loss = 284317.02409787726, delta_loss = 68.88201
+17/08/14 11:12:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 139: loss = 284170.028466132, delta_loss = 146.99564
+17/08/14 11:12:20 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 140: loss = 283764.47999301145, delta_loss = 405.54846
+17/08/14 11:12:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 141: loss = 283434.8783180299, delta_loss = 329.60168
+17/08/14 11:12:23 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 142: loss = 283451.84559836506, delta_loss = -16.96728
+17/08/14 11:12:25 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 143: loss = 283161.1795160729, delta_loss = 290.66608
+17/08/14 11:12:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 144: loss = 283126.16769431875, delta_loss = 35.01182
+17/08/14 11:12:28 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 145: loss = 282877.50597481994, delta_loss = 248.66171
+17/08/14 11:12:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 146: loss = 282608.78690606565, delta_loss = 268.71906
+17/08/14 11:12:31 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 147: loss = 282735.31615281635, delta_loss = -126.52924
+17/08/14 11:12:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 148: loss = 282351.3398212552, delta_loss = 383.97632
+17/08/14 11:12:34 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 149: loss = 282359.2442980366, delta_loss = -7.9044766
+17/08/14 11:12:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 150: loss = 282207.37787320674, delta_loss = 151.86642
+17/08/14 11:12:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 151: loss = 281964.44940815447, delta_loss = 242.92847
+17/08/14 11:12:38 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 152: loss = 281479.6521794329, delta_loss = 484.79724
+17/08/14 11:12:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 153: loss = 281520.22052210633, delta_loss = -40.568344
+17/08/14 11:12:41 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 154: loss = 281234.0798825585, delta_loss = 286.14062
+17/08/14 11:12:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 155: loss = 281214.73187979363, delta_loss = 19.348003
+17/08/14 11:12:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 156: loss = 280966.4509617771, delta_loss = 248.28091
+17/08/14 11:12:46 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 157: loss = 280899.73426662036, delta_loss = 66.7167
+17/08/14 11:12:47 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 158: loss = 280704.334738331, delta_loss = 195.39952
+17/08/14 11:12:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 159: loss = 280353.2456007781, delta_loss = 351.08914
+17/08/14 11:12:51 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 160: loss = 280217.6925209936, delta_loss = 135.55309
+17/08/14 11:12:52 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 161: loss = 280185.3722905087, delta_loss = 32.320232
+17/08/14 11:12:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 162: loss = 279849.44952389866, delta_loss = 335.92276
+17/08/14 11:12:55 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 163: loss = 279787.83766639984, delta_loss = 61.61186
+17/08/14 11:12:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 164: loss = 279413.6924854559, delta_loss = 374.14517
+17/08/14 11:12:58 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 165: loss = 279345.1861074853, delta_loss = 68.50638
+17/08/14 11:13:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 166: loss = 279299.22736919636, delta_loss = 45.958736
+17/08/14 11:13:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 167: loss = 279053.0719256049, delta_loss = 246.15544
+17/08/14 11:13:03 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 168: loss = 279125.4191396394, delta_loss = -72.34721
+17/08/14 11:13:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 169: loss = 278629.1264789483, delta_loss = 496.29266
+17/08/14 11:13:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 170: loss = 278594.1326208677, delta_loss = 34.99386
+17/08/14 11:13:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 171: loss = 278398.104374938, delta_loss = 196.02824
+17/08/14 11:13:10 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 172: loss = 278513.87900972494, delta_loss = -115.774635
+17/08/14 11:13:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 173: loss = 278108.9266313474, delta_loss = 404.9524
+17/08/14 11:13:13 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 174: loss = 278050.02354175755, delta_loss = 58.90309
+17/08/14 11:13:14 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 175: loss = 278066.7366263796, delta_loss = -16.713085
+17/08/14 11:13:16 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 176: loss = 277642.5034328659, delta_loss = 424.2332
+17/08/14 11:13:17 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 177: loss = 277701.6763610787, delta_loss = -59.172928
+17/08/14 11:13:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 178: loss = 277266.14797260973, delta_loss = 435.52838
+17/08/14 11:13:21 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 179: loss = 277303.6953095626, delta_loss = -37.547337
+17/08/14 11:13:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 180: loss = 277099.5690302169, delta_loss = 204.12628
+17/08/14 11:13:24 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 181: loss = 276977.7985429543, delta_loss = 121.770485
+17/08/14 11:13:25 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 182: loss = 277014.17034494254, delta_loss = -36.371803
+17/08/14 11:13:27 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 183: loss = 276574.2483249432, delta_loss = 439.92203
+17/08/14 11:13:28 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 184: loss = 276477.8779345859, delta_loss = 96.37039
+17/08/14 11:13:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 185: loss = 276448.9486366395, delta_loss = 28.929298
+17/08/14 11:13:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 186: loss = 276350.85361135687, delta_loss = 98.095024
+17/08/14 11:13:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 187: loss = 276128.70569719095, delta_loss = 222.14792
+17/08/14 11:13:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 188: loss = 275915.72384308174, delta_loss = 212.98186
+17/08/14 11:13:36 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 189: loss = 275691.6587664978, delta_loss = 224.06508
+17/08/14 11:13:38 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 190: loss = 275751.1829375362, delta_loss = -59.52417
+17/08/14 11:13:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 191: loss = 275645.214070618, delta_loss = 105.968864
+17/08/14 11:13:41 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 192: loss = 275500.1818622497, delta_loss = 145.03221
+17/08/14 11:13:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 193: loss = 275269.78740782954, delta_loss = 230.39445
+17/08/14 11:13:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 194: loss = 275028.2613759144, delta_loss = 241.52603
+17/08/14 11:13:46 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 195: loss = 275049.04375953984, delta_loss = -20.782383
+17/08/14 11:13:48 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 196: loss = 274958.71965681954, delta_loss = 90.324104
+17/08/14 11:13:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 197: loss = 274878.29692541756, delta_loss = 80.42273
+17/08/14 11:13:51 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 198: loss = 274629.15665888495, delta_loss = 249.14027
+17/08/14 11:13:53 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 199: loss = 274493.2267339638, delta_loss = 135.92993
+17/08/14 11:13:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 200: loss = 274591.05518173554, delta_loss = -97.828445
+17/08/14 11:13:54 INFO RankGeoFMRecommender: Job Train completed.
+17/08/14 11:13:58 INFO RankGeoFMRecommender: Job End.
+17/08/14 11:13:59 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.10348001697339139
+17/08/14 11:13:59 INFO RecommenderJob: Evaluator value:AP top 10 is 0.05230747347650809
+17/08/14 11:13:59 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.08204347826086875
+17/08/14 11:13:59 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.0728315657958839
+17/08/14 11:13:59 INFO RecommenderJob: Evaluator value:RR top 10 is 0.20396083505866083
+17/08/14 11:13:59 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.7108526580873262
+17/08/14 11:13:59 INFO RecommenderJob: Result path is ../result/poi/FourSquare/checkin-rankgeofm-output/rankgeofm
+
+17/08/14 12:31:02 INFO TextDataConvertor: Dataset: ../data/poi/FourSquare/checkin
+17/08/14 12:31:02 INFO TextDataConvertor: All dataset files [..\data\poi\FourSquare\checkin\test.txt, ..\data\poi\FourSquare\checkin\train.txt]
+17/08/14 12:31:02 INFO TextDataConvertor: All dataset files size 2094102
+17/08/14 12:31:02 INFO TextDataConvertor: Now loading dataset file test
+17/08/14 12:31:03 INFO TextDataConvertor: Now loading dataset file train
+17/08/14 12:31:03 INFO TextDataModel: Transform data to Convertor successfully!
+17/08/14 12:31:03 INFO TextDataConvertor: Dataset: ...ata/poi/FourSquare/checkin/test.txt
+17/08/14 12:31:03 INFO TextDataConvertor: All dataset files [..\data\poi\FourSquare\checkin\test.txt]
+17/08/14 12:31:03 INFO TextDataConvertor: All dataset files size 619741
+17/08/14 12:31:03 INFO TextDataConvertor: Now loading dataset file test
+17/08/14 12:31:03 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/08/14 12:31:03 INFO TextDataModel: Data size of training is 69158
+17/08/14 12:31:03 INFO TextDataModel: Data size of testing is 29098
+17/08/14 12:31:03 INFO LocationDataAppender: ../data/poi/FourSquare/FoursquareLocation.txt
+17/08/14 12:31:03 INFO TextDataModel: Transform data to Feature successfully!
+17/08/14 12:31:15 INFO RankGeoFMRecommender: Job Setup completed.
+17/08/14 12:31:17 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 1: loss = 365356.7040359783, delta_loss = -365356.72
+17/08/14 12:31:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 2: loss = 364697.3478716132, delta_loss = 659.35614
+17/08/14 12:31:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 3: loss = 363972.365850203, delta_loss = 724.982
+17/08/14 12:31:21 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 4: loss = 363376.0576430509, delta_loss = 596.3082
+17/08/14 12:31:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 5: loss = 362708.95025407476, delta_loss = 667.10736
+17/08/14 12:31:23 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 6: loss = 362084.89269577654, delta_loss = 624.05756
+17/08/14 12:31:24 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 7: loss = 361326.01807038655, delta_loss = 758.87463
+17/08/14 12:31:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 8: loss = 360747.33659548155, delta_loss = 578.68146
+17/08/14 12:31:27 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 9: loss = 359983.55797741096, delta_loss = 763.7786
+17/08/14 12:31:28 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 10: loss = 359282.7080298079, delta_loss = 700.85
+17/08/14 12:31:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 11: loss = 358562.99389906705, delta_loss = 719.7141
+17/08/14 12:31:31 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 12: loss = 357877.44277627906, delta_loss = 685.55115
+17/08/14 12:31:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 13: loss = 357096.04140847264, delta_loss = 781.40137
+17/08/14 12:31:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 14: loss = 356394.0439203296, delta_loss = 701.9975
+17/08/14 12:31:34 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 15: loss = 355599.0424765912, delta_loss = 795.00146
+17/08/14 12:31:36 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 16: loss = 354814.7351525664, delta_loss = 784.3073
+17/08/14 12:31:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 17: loss = 354067.09709603334, delta_loss = 747.63806
+17/08/14 12:31:38 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 18: loss = 353308.3267726374, delta_loss = 758.7703
+17/08/14 12:31:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 19: loss = 352550.9010808429, delta_loss = 757.4257
+17/08/14 12:31:41 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 20: loss = 351514.1963762015, delta_loss = 1036.7047
+17/08/14 12:31:42 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 21: loss = 350650.6070792909, delta_loss = 863.5893
+17/08/14 12:31:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 22: loss = 349785.3353405448, delta_loss = 865.2717
+17/08/14 12:31:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 23: loss = 348844.774330816, delta_loss = 940.56104
+17/08/14 12:31:46 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 24: loss = 347873.01302766573, delta_loss = 971.7613
+17/08/14 12:31:47 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 25: loss = 346771.6694391202, delta_loss = 1101.3436
+17/08/14 12:31:48 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 26: loss = 345589.030623357, delta_loss = 1182.6388
+17/08/14 12:31:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 27: loss = 344387.3351840897, delta_loss = 1201.6954
+17/08/14 12:31:51 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 28: loss = 343038.36927598075, delta_loss = 1348.966
+17/08/14 12:31:52 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 29: loss = 341792.0393895952, delta_loss = 1246.3298
+17/08/14 12:31:53 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 30: loss = 340353.47216205054, delta_loss = 1438.5673
+17/08/14 12:31:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 31: loss = 338693.47459944664, delta_loss = 1659.9976
+17/08/14 12:31:56 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 32: loss = 337356.4897286715, delta_loss = 1336.9849
+17/08/14 12:31:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 33: loss = 335840.2555249891, delta_loss = 1516.2343
+17/08/14 12:31:58 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 34: loss = 334202.54898690834, delta_loss = 1637.7065
+17/08/14 12:32:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 35: loss = 332320.1362163522, delta_loss = 1882.4127
+17/08/14 12:32:01 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 36: loss = 331090.3337011288, delta_loss = 1229.8025
+17/08/14 12:32:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 37: loss = 329540.532607838, delta_loss = 1549.8011
+17/08/14 12:32:04 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 38: loss = 327962.0410097793, delta_loss = 1578.4916
+17/08/14 12:32:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 39: loss = 326569.1825115264, delta_loss = 1392.8585
+17/08/14 12:32:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 40: loss = 325209.02140192845, delta_loss = 1360.1611
+17/08/14 12:32:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 41: loss = 323948.65292059514, delta_loss = 1260.3685
+17/08/14 12:32:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 42: loss = 322661.704078471, delta_loss = 1286.9489
+17/08/14 12:32:10 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 43: loss = 321478.88576999085, delta_loss = 1182.8184
+17/08/14 12:32:12 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 44: loss = 320297.97624951985, delta_loss = 1180.9095
+17/08/14 12:32:13 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 45: loss = 319177.83375454205, delta_loss = 1120.1425
+17/08/14 12:32:15 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 46: loss = 318105.39682348125, delta_loss = 1072.4369
+17/08/14 12:32:16 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 47: loss = 317203.24701428536, delta_loss = 902.1498
+17/08/14 12:32:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 48: loss = 316198.9349991345, delta_loss = 1004.312
+17/08/14 12:32:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 49: loss = 315508.58882266906, delta_loss = 690.3462
+17/08/14 12:32:20 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 50: loss = 314409.27692217164, delta_loss = 1099.3119
+17/08/14 12:32:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 51: loss = 313663.9430908173, delta_loss = 745.3338
+17/08/14 12:32:23 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 52: loss = 313131.951965103, delta_loss = 531.99115
+17/08/14 12:32:25 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 53: loss = 312353.90515339206, delta_loss = 778.0468
+17/08/14 12:32:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 54: loss = 311635.65645404876, delta_loss = 718.2487
+17/08/14 12:32:27 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 55: loss = 310954.0802733688, delta_loss = 681.5762
+17/08/14 12:32:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 56: loss = 310415.92803798424, delta_loss = 538.1522
+17/08/14 12:32:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 57: loss = 309622.09724498354, delta_loss = 793.8308
+17/08/14 12:32:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 58: loss = 309068.3675802866, delta_loss = 553.7297
+17/08/14 12:32:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 59: loss = 308461.3884502374, delta_loss = 606.9791
+17/08/14 12:32:34 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 60: loss = 307853.1127890539, delta_loss = 608.27563
+17/08/14 12:32:36 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 61: loss = 307375.44051399006, delta_loss = 477.67227
+17/08/14 12:32:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 62: loss = 306778.07718076924, delta_loss = 597.36334
+17/08/14 12:32:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 63: loss = 306422.6731282361, delta_loss = 355.40405
+17/08/14 12:32:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 64: loss = 305740.5816030217, delta_loss = 682.09155
+17/08/14 12:32:42 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 65: loss = 305309.00646355806, delta_loss = 431.57513
+17/08/14 12:32:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 66: loss = 304834.49040677794, delta_loss = 474.51605
+17/08/14 12:32:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 67: loss = 304426.2080364937, delta_loss = 408.28238
+17/08/14 12:32:46 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 68: loss = 303908.93493961816, delta_loss = 517.2731
+17/08/14 12:32:47 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 69: loss = 303542.9689897164, delta_loss = 365.96594
+17/08/14 12:32:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 70: loss = 303210.4242351513, delta_loss = 332.54477
+17/08/14 12:32:50 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 71: loss = 302738.3858136558, delta_loss = 472.03842
+17/08/14 12:32:52 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 72: loss = 302250.93420441274, delta_loss = 487.4516
+17/08/14 12:32:53 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 73: loss = 301840.865927772, delta_loss = 410.06827
+17/08/14 12:32:55 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 74: loss = 301449.7149968014, delta_loss = 391.15094
+17/08/14 12:32:56 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 75: loss = 301059.6352884649, delta_loss = 390.0797
+17/08/14 12:32:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 76: loss = 300576.9059635745, delta_loss = 482.72934
+17/08/14 12:32:59 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 77: loss = 300412.9485384174, delta_loss = 163.95743
+17/08/14 12:33:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 78: loss = 299841.2524036257, delta_loss = 571.6961
+17/08/14 12:33:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 79: loss = 299758.1084851356, delta_loss = 83.14392
+17/08/14 12:33:03 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 80: loss = 299141.2688328716, delta_loss = 616.83966
+17/08/14 12:33:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 81: loss = 298969.8173220579, delta_loss = 171.4515
+17/08/14 12:33:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 82: loss = 298438.5591203919, delta_loss = 531.2582
+17/08/14 12:33:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 83: loss = 298057.3226041475, delta_loss = 381.2365
+17/08/14 12:33:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 84: loss = 297606.5666112941, delta_loss = 450.75598
+17/08/14 12:33:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 85: loss = 297553.5368653339, delta_loss = 53.029747
+17/08/14 12:33:12 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 86: loss = 297007.25962379493, delta_loss = 546.2772
+17/08/14 12:33:14 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 87: loss = 296861.44716543646, delta_loss = 145.81245
+17/08/14 12:33:15 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 88: loss = 296346.66813167173, delta_loss = 514.77905
+17/08/14 12:33:17 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 89: loss = 296135.8923606967, delta_loss = 210.77577
+17/08/14 12:33:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 90: loss = 295832.78559117194, delta_loss = 303.10678
+17/08/14 12:33:20 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 91: loss = 295564.38971509784, delta_loss = 268.39587
+17/08/14 12:33:21 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 92: loss = 295219.7038971217, delta_loss = 344.68582
+17/08/14 12:33:23 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 93: loss = 294981.95579075516, delta_loss = 237.74811
+17/08/14 12:33:24 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 94: loss = 294389.68578911124, delta_loss = 592.27
+17/08/14 12:33:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 95: loss = 294686.3725806017, delta_loss = -296.6868
+17/08/14 12:33:27 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 96: loss = 294209.60841704416, delta_loss = 476.76416
+17/08/14 12:33:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 97: loss = 293849.4902500801, delta_loss = 360.11816
+17/08/14 12:33:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 98: loss = 293192.78136971203, delta_loss = 656.70886
+17/08/14 12:33:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 99: loss = 293125.48180617124, delta_loss = 67.29956
+17/08/14 12:33:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 100: loss = 292973.04487775493, delta_loss = 152.43694
+17/08/14 12:33:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 101: loss = 292559.8200978681, delta_loss = 413.2248
+17/08/14 12:33:36 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 102: loss = 292457.762263268, delta_loss = 102.05783
+17/08/14 12:33:38 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 103: loss = 292023.0504769775, delta_loss = 434.7118
+17/08/14 12:33:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 104: loss = 291735.0242153424, delta_loss = 288.02628
+17/08/14 12:33:41 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 105: loss = 291478.64662548085, delta_loss = 256.3776
+17/08/14 12:33:42 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 106: loss = 291142.6726618933, delta_loss = 335.97397
+17/08/14 12:33:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 107: loss = 291021.87817580684, delta_loss = 120.79449
+17/08/14 12:33:45 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 108: loss = 290722.1312071855, delta_loss = 299.74698
+17/08/14 12:33:47 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 109: loss = 290532.8164896653, delta_loss = 189.31471
+17/08/14 12:33:48 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 110: loss = 290208.89575564285, delta_loss = 323.92075
+17/08/14 12:33:50 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 111: loss = 289895.8709494288, delta_loss = 313.0248
+17/08/14 12:33:51 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 112: loss = 289749.3867165167, delta_loss = 146.48424
+17/08/14 12:33:53 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 113: loss = 289595.74751843285, delta_loss = 153.63919
+17/08/14 12:33:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 114: loss = 289471.4933832453, delta_loss = 124.254135
+17/08/14 12:33:56 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 115: loss = 288924.6167586072, delta_loss = 546.87665
+17/08/14 12:33:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 116: loss = 288753.94386673253, delta_loss = 170.6729
+17/08/14 12:33:59 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 117: loss = 288628.4027854184, delta_loss = 125.541084
+17/08/14 12:34:01 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 118: loss = 288305.2330670395, delta_loss = 323.1697
+17/08/14 12:34:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 119: loss = 288088.5158747671, delta_loss = 216.7172
+17/08/14 12:34:04 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 120: loss = 287874.51670170954, delta_loss = 213.99918
+17/08/14 12:34:05 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 121: loss = 287558.02026521496, delta_loss = 316.49643
+17/08/14 12:34:07 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 122: loss = 287585.9450609256, delta_loss = -27.924795
+17/08/14 12:34:08 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 123: loss = 287221.29444140644, delta_loss = 364.65063
+17/08/14 12:34:10 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 124: loss = 286825.20695657836, delta_loss = 396.0875
+17/08/14 12:34:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 125: loss = 286634.80060282635, delta_loss = 190.40636
+17/08/14 12:34:13 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 126: loss = 286343.71552162693, delta_loss = 291.08508
+17/08/14 12:34:15 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 127: loss = 286218.1026802374, delta_loss = 125.61284
+17/08/14 12:34:16 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 128: loss = 285767.10971297655, delta_loss = 450.99298
+17/08/14 12:34:18 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 129: loss = 285939.95393613, delta_loss = -172.84422
+17/08/14 12:34:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 130: loss = 285642.3138734474, delta_loss = 297.64008
+17/08/14 12:34:21 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 131: loss = 285486.5637719445, delta_loss = 155.7501
+17/08/14 12:34:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 132: loss = 285062.93754423363, delta_loss = 423.62622
+17/08/14 12:34:24 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 133: loss = 284917.88964395196, delta_loss = 145.0479
+17/08/14 12:34:26 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 134: loss = 284706.41775990074, delta_loss = 211.47188
+17/08/14 12:34:27 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 135: loss = 284585.8154468529, delta_loss = 120.60231
+17/08/14 12:34:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 136: loss = 284643.75453613454, delta_loss = -57.93909
+17/08/14 12:34:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 137: loss = 284333.88751880825, delta_loss = 309.867
+17/08/14 12:34:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 138: loss = 284193.8599806945, delta_loss = 140.02754
+17/08/14 12:34:33 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 139: loss = 283747.52468815626, delta_loss = 446.3353
+17/08/14 12:34:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 140: loss = 283797.5350157883, delta_loss = -50.010326
+17/08/14 12:34:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 141: loss = 283400.4922576161, delta_loss = 397.04276
+17/08/14 12:34:38 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 142: loss = 283462.17482618935, delta_loss = -61.682568
+17/08/14 12:34:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 143: loss = 283107.2260305753, delta_loss = 354.9488
+17/08/14 12:34:41 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 144: loss = 283036.3025191206, delta_loss = 70.92351
+17/08/14 12:34:43 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 145: loss = 282677.8195185007, delta_loss = 358.483
+17/08/14 12:34:45 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 146: loss = 282693.3675557119, delta_loss = -15.548038
+17/08/14 12:34:46 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 147: loss = 282112.0248382904, delta_loss = 581.3427
+17/08/14 12:34:48 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 148: loss = 281891.7609854382, delta_loss = 220.26385
+17/08/14 12:34:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 149: loss = 281745.08945961937, delta_loss = 146.67152
+17/08/14 12:34:51 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 150: loss = 281838.0665268269, delta_loss = -92.977066
+17/08/14 12:34:53 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 151: loss = 281570.54989371414, delta_loss = 267.51663
+17/08/14 12:34:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 152: loss = 281529.0255902641, delta_loss = 41.524303
+17/08/14 12:34:56 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 153: loss = 281572.7641068858, delta_loss = -43.738518
+17/08/14 12:34:58 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 154: loss = 281071.48373802286, delta_loss = 501.28036
+17/08/14 12:34:59 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 155: loss = 280896.07000896597, delta_loss = 175.41373
+17/08/14 12:35:01 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 156: loss = 280644.4950473193, delta_loss = 251.57497
+17/08/14 12:35:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 157: loss = 280801.6026934179, delta_loss = -157.10765
+17/08/14 12:35:04 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 158: loss = 280539.87378756795, delta_loss = 261.7289
+17/08/14 12:35:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 159: loss = 279960.31853819714, delta_loss = 579.55524
+17/08/14 12:35:07 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 160: loss = 280136.9440385615, delta_loss = -176.6255
+17/08/14 12:35:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 161: loss = 280022.5642918416, delta_loss = 114.379745
+17/08/14 12:35:10 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 162: loss = 279629.1953970546, delta_loss = 393.3689
+17/08/14 12:35:12 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 163: loss = 279546.98048300983, delta_loss = 82.21491
+17/08/14 12:35:14 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 164: loss = 279333.18680081563, delta_loss = 213.79369
+17/08/14 12:35:15 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 165: loss = 279266.3315307654, delta_loss = 66.85527
+17/08/14 12:35:17 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 166: loss = 279031.1163665325, delta_loss = 235.21516
+17/08/14 12:35:19 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 167: loss = 278807.57589625753, delta_loss = 223.54047
+17/08/14 12:35:20 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 168: loss = 278856.53951206827, delta_loss = -48.963615
+17/08/14 12:35:22 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 169: loss = 278808.41234263964, delta_loss = 48.12717
+17/08/14 12:35:24 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 170: loss = 278528.3928554755, delta_loss = 280.0195
+17/08/14 12:35:25 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 171: loss = 278306.1233497277, delta_loss = 222.2695
+17/08/14 12:35:27 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 172: loss = 278370.41479505954, delta_loss = -64.29144
+17/08/14 12:35:29 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 173: loss = 277994.171218125, delta_loss = 376.2436
+17/08/14 12:35:30 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 174: loss = 277956.7679741715, delta_loss = 37.403244
+17/08/14 12:35:32 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 175: loss = 277688.23000104417, delta_loss = 268.53796
+17/08/14 12:35:34 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 176: loss = 277434.4849789435, delta_loss = 253.74503
+17/08/14 12:35:35 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 177: loss = 277532.56961928663, delta_loss = -98.08464
+17/08/14 12:35:37 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 178: loss = 277248.23220113665, delta_loss = 284.33743
+17/08/14 12:35:39 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 179: loss = 277044.0452028145, delta_loss = 204.187
+17/08/14 12:35:40 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 180: loss = 276872.7470284963, delta_loss = 171.29817
+17/08/14 12:35:42 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 181: loss = 276777.89356664487, delta_loss = 94.85346
+17/08/14 12:35:44 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 182: loss = 276738.66064533405, delta_loss = 39.23292
+17/08/14 12:35:45 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 183: loss = 276630.1390243316, delta_loss = 108.52162
+17/08/14 12:35:47 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 184: loss = 276391.2175621685, delta_loss = 238.92146
+17/08/14 12:35:49 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 185: loss = 276116.8300375306, delta_loss = 274.3875
+17/08/14 12:35:50 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 186: loss = 276333.1501738635, delta_loss = -216.32013
+17/08/14 12:35:52 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 187: loss = 276016.4351379967, delta_loss = 316.71503
+17/08/14 12:35:54 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 188: loss = 275965.98390970356, delta_loss = 50.45123
+17/08/14 12:35:55 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 189: loss = 275373.68567811046, delta_loss = 592.2982
+17/08/14 12:35:57 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 190: loss = 275775.64981049154, delta_loss = -401.96414
+17/08/14 12:35:59 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 191: loss = 275503.1847728759, delta_loss = 272.46503
+17/08/14 12:36:00 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 192: loss = 275594.43777018273, delta_loss = -91.253
+17/08/14 12:36:02 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 193: loss = 275127.6480737099, delta_loss = 466.7897
+17/08/14 12:36:04 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 194: loss = 274864.8314541107, delta_loss = 262.81662
+17/08/14 12:36:06 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 195: loss = 274707.6341523483, delta_loss = 157.1973
+17/08/14 12:36:07 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 196: loss = 274718.9994136359, delta_loss = -11.365261
+17/08/14 12:36:09 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 197: loss = 274696.4164100704, delta_loss = 22.583004
+17/08/14 12:36:11 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 198: loss = 274568.5869866904, delta_loss = 127.82942
+17/08/14 12:36:12 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 199: loss = 274476.9781383149, delta_loss = 91.60885
+17/08/14 12:36:14 INFO RankGeoFMRecommender: RankGeoFMRecommender iter 200: loss = 274038.2911537667, delta_loss = 438.68698
+17/08/14 12:36:14 INFO RankGeoFMRecommender: Job Train completed.
+17/08/14 12:36:19 INFO RankGeoFMRecommender: Job End.
+17/08/14 12:36:19 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.12681451449755743
+17/08/14 12:36:19 INFO RecommenderJob: Evaluator value:AP top 10 is 0.06736677197168614
+17/08/14 12:36:19 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.10258509263248511
+17/08/14 12:36:19 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.07930094079314044
+17/08/14 12:36:19 INFO RecommenderJob: Evaluator value:RR top 10 is 0.24179746004390534
+17/08/14 12:36:19 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.7302131123379301
+17/08/14 12:36:19 INFO RecommenderJob: Result path is ../result/poi/FourSquare/checkin-rankgeofm-output/rankgeofm

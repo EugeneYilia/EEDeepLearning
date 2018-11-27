@@ -1,0 +1,41 @@
+17/06/28 20:12:15 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/28 20:12:15 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/28 20:12:15 INFO TextDataConvertor: All dataset files size 411942
+17/06/28 20:12:15 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/28 20:12:15 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/28 20:12:15 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/28 20:12:15 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/28 20:12:15 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/28 20:12:15 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/28 20:12:15 INFO TextDataModel: Data size of training is 28408
+17/06/28 20:12:15 INFO TextDataModel: Data size of testing is 7086
+17/06/28 20:12:15 INFO WRMFRecommender: Job Setup completed.
+17/06/28 20:12:16 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 1 Wed Jun 28 20:12:16 GMT+08:00 2017
+17/06/28 20:12:16 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 2 Wed Jun 28 20:12:16 GMT+08:00 2017
+17/06/28 20:12:16 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 3 Wed Jun 28 20:12:16 GMT+08:00 2017
+17/06/28 20:12:16 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 4 Wed Jun 28 20:12:16 GMT+08:00 2017
+17/06/28 20:12:17 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 5 Wed Jun 28 20:12:17 GMT+08:00 2017
+17/06/28 20:12:17 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 6 Wed Jun 28 20:12:17 GMT+08:00 2017
+17/06/28 20:12:17 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 7 Wed Jun 28 20:12:17 GMT+08:00 2017
+17/06/28 20:12:17 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 8 Wed Jun 28 20:12:17 GMT+08:00 2017
+17/06/28 20:12:17 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 9 Wed Jun 28 20:12:17 GMT+08:00 2017
+17/06/28 20:12:17 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 10 Wed Jun 28 20:12:17 GMT+08:00 2017
+17/06/28 20:12:17 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 11 Wed Jun 28 20:12:17 GMT+08:00 2017
+17/06/28 20:12:18 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 12 Wed Jun 28 20:12:18 GMT+08:00 2017
+17/06/28 20:12:18 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 13 Wed Jun 28 20:12:18 GMT+08:00 2017
+17/06/28 20:12:18 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 14 Wed Jun 28 20:12:18 GMT+08:00 2017
+17/06/28 20:12:18 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 15 Wed Jun 28 20:12:18 GMT+08:00 2017
+17/06/28 20:12:18 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 16 Wed Jun 28 20:12:18 GMT+08:00 2017
+17/06/28 20:12:18 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 17 Wed Jun 28 20:12:18 GMT+08:00 2017
+17/06/28 20:12:18 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 18 Wed Jun 28 20:12:18 GMT+08:00 2017
+17/06/28 20:12:18 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 19 Wed Jun 28 20:12:18 GMT+08:00 2017
+17/06/28 20:12:18 INFO WRMFRecommender: class com.jstarcraft.module.recommendation.recommender.collaborative.ranking.WRMFRecommender runs at iteration = 20 Wed Jun 28 20:12:18 GMT+08:00 2017
+17/06/28 20:12:18 INFO WRMFRecommender: Job Train completed.
+17/06/28 20:12:19 INFO WRMFRecommender: Job End.
+17/06/28 20:12:19 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6339688402829771
+17/06/28 20:12:19 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9230533484498983
+17/06/28 20:12:19 INFO RecommenderJob: Evaluator value:AP top 10 is 0.4860581868895936
+17/06/28 20:12:19 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34554064719810723
+17/06/28 20:12:19 INFO RecommenderJob: Evaluator value:RR top 10 is 0.6340624647649122
+17/06/28 20:12:19 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5752251829540974
+17/06/28 20:12:19 INFO RecommenderJob: Result path is result/filmtrust/rating-wrmf-output/wrmf

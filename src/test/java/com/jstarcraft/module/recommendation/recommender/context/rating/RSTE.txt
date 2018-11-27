@@ -1,0 +1,120 @@
+17/06/03 21:09:26 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 21:09:26 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 21:09:26 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 21:09:26 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 21:09:26 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 21:09:26 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 21:09:26 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 21:09:26 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 21:09:26 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 21:09:26 INFO TextDataModel: Data size of training is 28408
+17/06/03 21:09:26 INFO TextDataModel: Data size of testing is 7086
+17/06/03 21:09:26 INFO TextDataModel: Transform data to Feature successfully!
+17/06/03 21:09:26 INFO RSTERecommender: Job Setup completed.
+17/06/03 21:09:26 INFO RSTERecommender: RSTERecommender iter 1: loss = 1159.9761069079923, delta_loss = -1159.9761
+17/06/03 21:09:26 INFO RSTERecommender: RSTERecommender iter 2: loss = 1090.7257538696667, delta_loss = 69.25035
+17/06/03 21:09:26 INFO RSTERecommender: RSTERecommender iter 3: loss = 1046.4846690132663, delta_loss = 44.241085
+17/06/03 21:09:26 INFO RSTERecommender: RSTERecommender iter 4: loss = 1018.0226341810943, delta_loss = 28.462034
+17/06/03 21:09:27 INFO RSTERecommender: RSTERecommender iter 5: loss = 997.8321016639288, delta_loss = 20.190533
+17/06/03 21:09:27 INFO RSTERecommender: RSTERecommender iter 6: loss = 981.8717487029734, delta_loss = 15.960353
+17/06/03 21:09:27 INFO RSTERecommender: RSTERecommender iter 7: loss = 968.4226146546479, delta_loss = 13.449134
+17/06/03 21:09:27 INFO RSTERecommender: RSTERecommender iter 8: loss = 956.60322979631, delta_loss = 11.819385
+17/06/03 21:09:27 INFO RSTERecommender: RSTERecommender iter 9: loss = 945.9064265255787, delta_loss = 10.696803
+17/06/03 21:09:27 INFO RSTERecommender: RSTERecommender iter 10: loss = 936.0322483569715, delta_loss = 9.874178
+17/06/03 21:09:27 INFO RSTERecommender: RSTERecommender iter 11: loss = 926.8006590043149, delta_loss = 9.231589
+17/06/03 21:09:27 INFO RSTERecommender: RSTERecommender iter 12: loss = 918.100128444085, delta_loss = 8.700531
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 13: loss = 909.8580968065206, delta_loss = 8.242032
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 14: loss = 902.0245474278413, delta_loss = 7.8335495
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 15: loss = 894.5628660436078, delta_loss = 7.4616814
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 16: loss = 887.4446424063298, delta_loss = 7.1182237
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 17: loss = 880.6466454631679, delta_loss = 6.797997
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 18: loss = 874.1490399716627, delta_loss = 6.4976053
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 19: loss = 867.9343318836392, delta_loss = 6.214708
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 20: loss = 861.9867453220908, delta_loss = 5.9475865
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 21: loss = 856.2918525089858, delta_loss = 5.694893
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 22: loss = 850.8363480600626, delta_loss = 5.4555044
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 23: loss = 845.6079025073943, delta_loss = 5.2284455
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 24: loss = 840.595057289423, delta_loss = 5.012845
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 25: loss = 835.7871405038907, delta_loss = 4.8079166
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 26: loss = 831.1741929883124, delta_loss = 4.6129475
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 27: loss = 826.7469001511548, delta_loss = 4.427293
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 28: loss = 822.4965280620736, delta_loss = 4.250372
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 29: loss = 818.4148637367498, delta_loss = 4.0816646
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 30: loss = 814.4941600548595, delta_loss = 3.9207036
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 31: loss = 810.727085782908, delta_loss = 3.7670743
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 32: loss = 807.1066810074254, delta_loss = 3.6204047
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 33: loss = 803.6263180594943, delta_loss = 3.480363
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 34: loss = 800.2796678048674, delta_loss = 3.3466504
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 35: loss = 797.0606710073162, delta_loss = 3.2189968
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 36: loss = 793.9635143567936, delta_loss = 3.0971568
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 37: loss = 790.9826106838899, delta_loss = 2.9809036
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 38: loss = 788.1125828468582, delta_loss = 2.8700278
+17/06/03 21:09:28 INFO RSTERecommender: RSTERecommender iter 39: loss = 785.3482507739582, delta_loss = 2.764332
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 40: loss = 782.6846211589925, delta_loss = 2.6636295
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 41: loss = 780.1168793392342, delta_loss = 2.5677419
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 42: loss = 777.6403829248356, delta_loss = 2.4764965
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 43: loss = 775.2506567941281, delta_loss = 2.3897262
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 44: loss = 772.9433891166198, delta_loss = 2.3072677
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 45: loss = 770.7144281135916, delta_loss = 2.228961
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 46: loss = 768.5597793107845, delta_loss = 2.1546488
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 47: loss = 766.4756030822782, delta_loss = 2.0841763
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 48: loss = 764.4582123223395, delta_loss = 2.0173907
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 49: loss = 762.5040701196242, delta_loss = 1.9541422
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 50: loss = 760.6097873378666, delta_loss = 1.8942828
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 51: loss = 758.7721200363342, delta_loss = 1.8376673
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 52: loss = 756.9879666858893, delta_loss = 1.7841533
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 53: loss = 755.2543651574459, delta_loss = 1.7336016
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 54: loss = 753.5684894747047, delta_loss = 1.6858757
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 55: loss = 751.9276463375276, delta_loss = 1.6408432
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 56: loss = 750.329271431263, delta_loss = 1.598375
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 57: loss = 748.770925545515, delta_loss = 1.5583459
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 58: loss = 747.2502905308748, delta_loss = 1.520635
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 59: loss = 745.7651651251645, delta_loss = 1.4851254
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 60: loss = 744.3134606819236, delta_loss = 1.4517045
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 61: loss = 742.8931968349993, delta_loss = 1.4202639
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 62: loss = 741.5024971305558, delta_loss = 1.3906997
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 63: loss = 740.1395846576452, delta_loss = 1.3629124
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 64: loss = 738.80277770479, delta_loss = 1.3368069
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 65: loss = 737.4904854681814, delta_loss = 1.3122922
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 66: loss = 736.2012038333498, delta_loss = 1.2892816
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 67: loss = 734.9335112496977, delta_loss = 1.2676926
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 68: loss = 733.6860647139421, delta_loss = 1.2474465
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 69: loss = 732.4575958754934, delta_loss = 1.2284689
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 70: loss = 731.2469072743311, delta_loss = 1.2106886
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 71: loss = 730.0528687190755, delta_loss = 1.1940385
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 72: loss = 728.8744138106911, delta_loss = 1.1784549
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 73: loss = 727.7105366155137, delta_loss = 1.1638772
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 74: loss = 726.5602884888441, delta_loss = 1.1502482
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 75: loss = 725.4227750494614, delta_loss = 1.1375134
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 76: loss = 724.2971533033251, delta_loss = 1.1256218
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 77: loss = 723.1826289144664, delta_loss = 1.1145244
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 78: loss = 722.0784536190316, delta_loss = 1.1041753
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 79: loss = 720.9839227788586, delta_loss = 1.0945308
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 80: loss = 719.8983730693817, delta_loss = 1.0855497
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 81: loss = 718.8211802967622, delta_loss = 1.0771928
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 82: loss = 717.7517573386409, delta_loss = 1.069423
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 83: loss = 716.6895522026742, delta_loss = 1.0622052
+17/06/03 21:09:29 INFO RSTERecommender: RSTERecommender iter 84: loss = 715.6340461966635, delta_loss = 1.055506
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 85: loss = 714.5847522047185, delta_loss = 1.049294
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 86: loss = 713.5412130631491, delta_loss = 1.0435392
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 87: loss = 712.5030000299108, delta_loss = 1.038213
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 88: loss = 711.4697113423542, delta_loss = 1.0332887
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 89: loss = 710.440970857164, delta_loss = 1.0287405
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 90: loss = 709.4164267671586, delta_loss = 1.0245441
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 91: loss = 708.3957503898462, delta_loss = 1.0206764
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 92: loss = 707.3786350223104, delta_loss = 1.0171154
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 93: loss = 706.3647948582037, delta_loss = 1.0138402
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 94: loss = 705.3539639619074, delta_loss = 1.0108309
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 95: loss = 704.3458952957311, delta_loss = 1.0080687
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 96: loss = 703.34035979635, delta_loss = 1.0055355
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 97: loss = 702.3371454965244, delta_loss = 1.0032144
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 98: loss = 701.3360566890206, delta_loss = 1.0010889
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 99: loss = 700.3369131291703, delta_loss = 0.99914354
+17/06/03 21:09:30 INFO RSTERecommender: RSTERecommender iter 100: loss = 699.3395492736191, delta_loss = 0.99736387
+17/06/03 21:09:30 INFO RSTERecommender: Job Train completed.
+17/06/03 21:09:30 INFO RSTERecommender: Job End.
+17/06/03 21:09:30 INFO RecommenderJob: Evaluator value:MSE is 0.661681476477767
+17/06/03 21:09:30 INFO RecommenderJob: Evaluator value:MPE is 0.9899802427321479
+17/06/03 21:09:30 INFO RecommenderJob: Evaluator value:RMSE is 0.8134380593983582
+17/06/03 21:09:30 INFO RecommenderJob: Evaluator value:MAE is 0.6329567304801498
+17/06/03 21:09:30 INFO RecommenderJob: Result path is result/filmtrust/rating-rste-output/rste

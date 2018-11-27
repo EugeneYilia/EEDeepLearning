@@ -1,0 +1,41 @@
+17/06/28 22:14:03 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/28 22:14:03 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/28 22:14:03 INFO TextDataConvertor: All dataset files size 411942
+17/06/28 22:14:03 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/28 22:14:04 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/28 22:14:04 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/28 22:14:04 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/28 22:14:04 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/28 22:14:04 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/28 22:14:04 INFO TextDataModel: Data size of training is 28408
+17/06/28 22:14:04 INFO TextDataModel: Data size of testing is 7086
+17/06/28 22:14:04 INFO WBPRRecommender: Job Setup completed.
+17/06/28 22:14:05 INFO WBPRRecommender: WBPRRecommender iter 1: loss = 33815.41801466434, delta_loss = -33815.418
+17/06/28 22:14:05 INFO WBPRRecommender: WBPRRecommender iter 2: loss = 27761.823260087556, delta_loss = 6053.5947
+17/06/28 22:14:06 INFO WBPRRecommender: WBPRRecommender iter 3: loss = 26695.653350489185, delta_loss = 1066.1699
+17/06/28 22:14:07 INFO WBPRRecommender: WBPRRecommender iter 4: loss = 26218.59143201593, delta_loss = 477.06192
+17/06/28 22:14:07 INFO WBPRRecommender: WBPRRecommender iter 5: loss = 25764.675931172955, delta_loss = 453.9155
+17/06/28 22:14:08 INFO WBPRRecommender: WBPRRecommender iter 6: loss = 25449.443537563162, delta_loss = 315.2324
+17/06/28 22:14:08 INFO WBPRRecommender: WBPRRecommender iter 7: loss = 25174.105553481655, delta_loss = 275.33798
+17/06/28 22:14:09 INFO WBPRRecommender: WBPRRecommender iter 8: loss = 24875.488198278614, delta_loss = 298.61734
+17/06/28 22:14:10 INFO WBPRRecommender: WBPRRecommender iter 9: loss = 24802.42709451425, delta_loss = 73.061104
+17/06/28 22:14:10 INFO WBPRRecommender: WBPRRecommender iter 10: loss = 24445.872076495878, delta_loss = 356.55502
+17/06/28 22:14:11 INFO WBPRRecommender: WBPRRecommender iter 11: loss = 24435.437585572996, delta_loss = 10.434491
+17/06/28 22:14:11 INFO WBPRRecommender: WBPRRecommender iter 12: loss = 24199.759471353962, delta_loss = 235.67812
+17/06/28 22:14:12 INFO WBPRRecommender: WBPRRecommender iter 13: loss = 23956.796892967555, delta_loss = 242.96259
+17/06/28 22:14:13 INFO WBPRRecommender: WBPRRecommender iter 14: loss = 23822.74431228136, delta_loss = 134.05258
+17/06/28 22:14:13 INFO WBPRRecommender: WBPRRecommender iter 15: loss = 23688.261672507037, delta_loss = 134.48264
+17/06/28 22:14:14 INFO WBPRRecommender: WBPRRecommender iter 16: loss = 23561.9399912378, delta_loss = 126.32168
+17/06/28 22:14:14 INFO WBPRRecommender: WBPRRecommender iter 17: loss = 23358.00630577045, delta_loss = 203.93369
+17/06/28 22:14:15 INFO WBPRRecommender: WBPRRecommender iter 18: loss = 23246.58963188294, delta_loss = 111.41667
+17/06/28 22:14:16 INFO WBPRRecommender: WBPRRecommender iter 19: loss = 23145.667535688124, delta_loss = 100.9221
+17/06/28 22:14:16 INFO WBPRRecommender: WBPRRecommender iter 20: loss = 23018.560257721747, delta_loss = 127.10728
+17/06/28 22:14:16 INFO WBPRRecommender: Job Train completed.
+17/06/28 22:14:17 INFO WBPRRecommender: Job End.
+17/06/28 22:14:17 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.4373729084498679
+17/06/28 22:14:17 INFO RecommenderJob: Evaluator value:RR top 10 is 0.4815236591874321
+17/06/28 22:14:17 INFO RecommenderJob: Evaluator value:AP top 10 is 0.3276746878631012
+17/06/28 22:14:17 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.40757929042512686
+17/06/28 22:14:17 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.27861089187056076
+17/06/28 22:14:17 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.8548002836407905
+17/06/28 22:14:17 INFO RecommenderJob: Result path is result/filmtrust/rating-wbpr-output/wbpr

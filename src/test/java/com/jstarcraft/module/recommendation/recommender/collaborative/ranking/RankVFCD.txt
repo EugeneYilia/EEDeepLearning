@@ -1,0 +1,51 @@
+17/08/11 21:13:59 INFO RankVFCDRecommender: RankVFCDRecommender iter 1: loss = 0.0, delta_loss = 0.0
+17/08/11 21:14:11 INFO RankVFCDRecommender: RankVFCDRecommender iter 2: loss = 0.0, delta_loss = 0.0
+17/08/11 21:14:21 INFO RankVFCDRecommender: RankVFCDRecommender iter 3: loss = 0.0, delta_loss = 0.0
+17/08/11 21:14:31 INFO RankVFCDRecommender: RankVFCDRecommender iter 4: loss = 0.0, delta_loss = 0.0
+17/08/11 21:14:41 INFO RankVFCDRecommender: RankVFCDRecommender iter 5: loss = 0.0, delta_loss = 0.0
+17/08/11 21:15:24 INFO RankTask: Evaluator value:NormalizedDCGEvaluator is 0.030242154856500135
+17/08/11 21:15:24 INFO RankTask: Evaluator value:RecallEvaluator is 0.0400497640566801
+17/08/11 21:15:24 INFO RankTask: Evaluator value:AUCEvaluator is 0.5677633510074629
+17/08/11 21:15:24 INFO RankTask: Evaluator value:AveragePrecisionEvaluator is 0.01472155682736741
+17/08/11 21:15:24 INFO RankTask: Evaluator value:PrecisionEvaluator is 0.01669496321448796
+17/08/11 21:15:24 INFO RankTask: Evaluator value:ReciprocalRankEvaluator is 0.05059063429182273
+
+[INFO ] 2017-08-10 18:36:49,211 -- Dataset: ratings_Office_Productsbyuser.txt
+[DEBUG] 2017-08-10 18:36:49,458 -- With Specs: {Users, Items, Ratings} = {3714, 18823, 65582}, Scale = {1.0}
+[INFO ] 2017-08-10 18:36:49,537 -- With Setup: given-ratio -r 0.8 -target r --rand-seed 1 --test-view all
+[DEBUG] 2017-08-10 18:36:49,589 -- training amount: 52563, test amount: 13019
+28.2536..........1.0E-4
+[DEBUG] 2017-08-10 18:37:34,438 -- rankVFCD: [ alpha, factors, regU, regI,beta,gama,lamutaE, numIters] = [5.0,20,0.1,0.1,10.0,50.0,50.0,5]
+[DEBUG] 2017-08-10 18:37:34,444 -- rankVFCD runs at iteration = 1 Thu Aug 10 18:37:34 GMT+08:00 2017
+[DEBUG] 2017-08-10 18:37:45,578 -- rankVFCD has candidate items: 18823
+[DEBUG] 2017-08-10 18:37:54,673 -- rankVFCD evaluates progress: 3714 / 3714
+{Pre10=0.009550881182490088}
+0.009551 Thu Aug 10 18:37:54 GMT+08:00 2017
+[DEBUG] 2017-08-10 18:37:54,679 -- rankVFCD runs at iteration = 2 Thu Aug 10 18:37:54 GMT+08:00 2017
+[DEBUG] 2017-08-10 18:38:16,747 -- rankVFCD has candidate items: 18823
+[DEBUG] 2017-08-10 18:38:25,235 -- rankVFCD evaluates progress: 3714 / 3714
+{Pre10=0.01284820920977837}
+0.012848 Thu Aug 10 18:38:25 GMT+08:00 2017
+[DEBUG] 2017-08-10 18:38:25,238 -- rankVFCD runs at iteration = 3 Thu Aug 10 18:38:25 GMT+08:00 2017
+[DEBUG] 2017-08-10 18:38:34,802 -- rankVFCD has candidate items: 18823
+[DEBUG] 2017-08-10 18:38:43,442 -- rankVFCD evaluates progress: 3714 / 3714
+{Pre10=0.015946560545764755}
+0.015947 Thu Aug 10 18:38:43 GMT+08:00 2017
+[DEBUG] 2017-08-10 18:38:43,445 -- rankVFCD runs at iteration = 4 Thu Aug 10 18:38:43 GMT+08:00 2017
+[DEBUG] 2017-08-10 18:38:52,582 -- rankVFCD has candidate items: 18823
+[DEBUG] 2017-08-10 18:39:01,158 -- rankVFCD evaluates progress: 3714 / 3714
+{Pre10=0.01785105173393987}
+0.017851 Thu Aug 10 18:39:01 GMT+08:00 2017
+[DEBUG] 2017-08-10 18:39:01,161 -- rankVFCD runs at iteration = 5 Thu Aug 10 18:39:01 GMT+08:00 2017
+[DEBUG] 2017-08-10 18:39:10,413 -- rankVFCD has candidate items: 18823
+[DEBUG] 2017-08-10 18:39:18,732 -- rankVFCD evaluates progress: 3714 / 3714
+{Pre10=0.018419556566230944}
+0.018420 Thu Aug 10 18:39:18 GMT+08:00 2017
+[DEBUG] 2017-08-10 18:39:18,736 -- rankVFCD evaluate test data ... 
+[DEBUG] 2017-08-10 18:39:18,736 -- rankVFCD has candidate items: 18823
+[DEBUG] 2017-08-10 18:39:27,259 -- rankVFCD evaluates progress: 3714 / 3714
+{Pre10=0.018419556566230944}
+{TrainTime=108902.0, TestTime=8527.0, Pre10=0.018419556566230944}
+[INFO ] 2017-08-10 18:39:27,269 -- rankVFCD,0.018420,,5.0,20,0.1,0.1,10.0,50.0,50.0,5,'01:48','00:08'
+
+Program librec2.0alpha3.rankvfcd [2013-2016092703@192.168.0.167] has completed!

@@ -1,0 +1,120 @@
+17/06/13 16:04:25 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/13 16:04:25 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/13 16:04:25 INFO TextDataConvertor: All dataset files size 411942
+17/06/13 16:04:25 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/13 16:04:25 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/13 16:04:25 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/13 16:04:25 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/13 16:04:25 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/13 16:04:25 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/13 16:04:25 INFO TextDataModel: Data size of training is 28408
+17/06/13 16:04:25 INFO TextDataModel: Data size of testing is 7086
+17/06/13 16:04:25 INFO TextDataModel: Transform data to Feature successfully!
+17/06/13 16:04:27 INFO SoRegRecommender: Job Setup completed.
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 1: loss = 23022.49512706073, delta_loss = -23022.496
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 2: loss = 17489.613533326763, delta_loss = 5532.882
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 3: loss = 15722.9426440134, delta_loss = 1766.6709
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 4: loss = 14558.564119955663, delta_loss = 1164.3785
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 5: loss = 13701.09330944644, delta_loss = 857.4708
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 6: loss = 13047.543370487858, delta_loss = 653.5499
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 7: loss = 12559.220770272494, delta_loss = 488.3226
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 8: loss = 12213.587354417095, delta_loss = 345.63342
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 9: loss = 12005.507750596045, delta_loss = 208.0796
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 10: loss = 11947.589629164488, delta_loss = 57.91812
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 11: loss = 12057.063504026273, delta_loss = -109.47388
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 12: loss = 12396.11618164331, delta_loss = -339.05267
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 13: loss = 12995.827890383744, delta_loss = -599.71173
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 14: loss = 14008.380862879794, delta_loss = -1012.553
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 15: loss = 15410.959435282339, delta_loss = -1402.5786
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 16: loss = 17493.77648814389, delta_loss = -2082.8171
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 17: loss = 19871.790272492122, delta_loss = -2378.0137
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 18: loss = 22956.782995925496, delta_loss = -3084.9927
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 19: loss = 25250.11147191995, delta_loss = -2293.3284
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 20: loss = 27422.085196904216, delta_loss = -2171.9736
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 21: loss = 26752.909400832414, delta_loss = 669.1758
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 22: loss = 25417.64640573323, delta_loss = 1335.263
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 23: loss = 21561.542736597792, delta_loss = 3856.1038
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 24: loss = 18473.92926179302, delta_loss = 3087.6135
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 25: loss = 15208.979069149134, delta_loss = 3264.9502
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 26: loss = 13198.201759920323, delta_loss = 2010.7773
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 27: loss = 11657.717761286412, delta_loss = 1540.484
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 28: loss = 10760.956962557462, delta_loss = 896.7608
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 29: loss = 10135.266249568285, delta_loss = 625.69073
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 30: loss = 9751.066391930275, delta_loss = 384.19986
+17/06/13 16:04:27 INFO SoRegRecommender: SoRegRecommender iter 31: loss = 9479.289118461844, delta_loss = 271.77728
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 32: loss = 9295.714889001782, delta_loss = 183.57423
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 33: loss = 9157.741176652435, delta_loss = 137.97371
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 34: loss = 9054.407509489754, delta_loss = 103.333664
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 35: loss = 8970.872443359254, delta_loss = 83.535065
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 36: loss = 8902.478825369715, delta_loss = 68.393616
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 37: loss = 8843.599553478052, delta_loss = 58.879272
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 38: loss = 8792.18478192871, delta_loss = 51.414772
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 39: loss = 8745.89467163167, delta_loss = 46.29011
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 40: loss = 8703.763898306486, delta_loss = 42.13077
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 41: loss = 8664.72399437714, delta_loss = 39.039906
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 42: loss = 8628.281870067158, delta_loss = 36.442123
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 43: loss = 8593.901896618076, delta_loss = 34.379974
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 44: loss = 8561.309382555259, delta_loss = 32.592514
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 45: loss = 8530.210114183514, delta_loss = 31.099268
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 46: loss = 8500.437368505, delta_loss = 29.772745
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 47: loss = 8471.814903089751, delta_loss = 28.622465
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 48: loss = 8444.233228693856, delta_loss = 27.581675
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 49: loss = 8417.57815011862, delta_loss = 26.655079
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 50: loss = 8391.772732576406, delta_loss = 25.805418
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 51: loss = 8366.737815520388, delta_loss = 25.034918
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 52: loss = 8342.416292461507, delta_loss = 24.321524
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 53: loss = 8318.75016020971, delta_loss = 23.666132
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 54: loss = 8295.695181610412, delta_loss = 23.05498
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 55: loss = 8273.20694477803, delta_loss = 22.488237
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 56: loss = 8251.250049968821, delta_loss = 21.956894
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 57: loss = 8229.789309411857, delta_loss = 21.460741
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 58: loss = 8208.795691768697, delta_loss = 20.993618
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 59: loss = 8188.240573151655, delta_loss = 20.555119
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 60: loss = 8168.099699692776, delta_loss = 20.140873
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 61: loss = 8148.349308529052, delta_loss = 19.750391
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 62: loss = 8128.968851374683, delta_loss = 19.380457
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 63: loss = 8109.938287020708, delta_loss = 19.030565
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 64: loss = 8091.240023716691, delta_loss = 18.698263
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 65: loss = 8072.856950057457, delta_loss = 18.383074
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 66: loss = 8054.773893250934, delta_loss = 18.083057
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 67: loss = 8036.976104144279, delta_loss = 17.797789
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 68: loss = 8019.450437636278, delta_loss = 17.525667
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 69: loss = 8002.1840907594005, delta_loss = 17.266346
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 70: loss = 7985.165662551809, delta_loss = 17.018429
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 71: loss = 7968.383987443633, delta_loss = 16.781675
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 72: loss = 7951.829210587836, delta_loss = 16.554777
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 73: loss = 7935.491575204956, delta_loss = 16.337635
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 74: loss = 7919.362649200865, delta_loss = 16.128925
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 75: loss = 7903.433919990315, delta_loss = 15.928729
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 76: loss = 7887.698327853399, delta_loss = 15.735592
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 77: loss = 7872.148495382834, delta_loss = 15.549832
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 78: loss = 7856.778765278831, delta_loss = 15.36973
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 79: loss = 7841.582839717955, delta_loss = 15.195926
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 80: loss = 7826.556592703363, delta_loss = 15.026247
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 81: loss = 7811.69480772817, delta_loss = 14.861785
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 82: loss = 7796.995151275515, delta_loss = 14.6996565
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 83: loss = 7782.453557988039, delta_loss = 14.541594
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 84: loss = 7768.069936139422, delta_loss = 14.383622
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 85: loss = 7753.841528940764, delta_loss = 14.228407
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 86: loss = 7739.7712145437445, delta_loss = 14.070314
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 87: loss = 7725.857820959795, delta_loss = 13.913394
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 88: loss = 7712.108349297521, delta_loss = 13.749472
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 89: loss = 7698.523654778005, delta_loss = 13.584695
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 90: loss = 7685.1166761280265, delta_loss = 13.406979
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 91: loss = 7671.890973614792, delta_loss = 13.225702
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 92: loss = 7658.868285501858, delta_loss = 13.022688
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 93: loss = 7646.055887886098, delta_loss = 12.812398
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 94: loss = 7633.488862564132, delta_loss = 12.567025
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 95: loss = 7621.1796752264945, delta_loss = 12.309187
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 96: loss = 7609.184033432436, delta_loss = 11.995642
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 97: loss = 7597.5216860238925, delta_loss = 11.662348
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 98: loss = 7586.280763773193, delta_loss = 11.240922
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 99: loss = 7575.491159537115, delta_loss = 10.789604
+17/06/13 16:04:28 INFO SoRegRecommender: SoRegRecommender iter 100: loss = 7565.292763858461, delta_loss = 10.198396
+17/06/13 16:04:28 INFO SoRegRecommender: Job Train completed.
+17/06/13 16:04:28 INFO SoRegRecommender: Job End.
+17/06/13 16:04:28 INFO RecommenderJob: Evaluator value:MPE is 0.9745977984758679
+17/06/13 16:04:28 INFO RecommenderJob: Evaluator value:RMSE is 0.8518210308434363
+17/06/13 16:04:28 INFO RecommenderJob: Evaluator value:MAE is 0.6554975177402177
+17/06/13 16:04:28 INFO RecommenderJob: Evaluator value:MSE is 0.7255990685871744
+17/06/13 16:04:28 INFO RecommenderJob: Result path is result/filmtrust/rating-soreg-output/soreg

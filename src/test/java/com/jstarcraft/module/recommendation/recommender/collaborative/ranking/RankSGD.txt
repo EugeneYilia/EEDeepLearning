@@ -1,0 +1,51 @@
+17/06/03 20:20:47 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 20:20:47 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 20:20:47 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 20:20:47 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 20:20:47 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 20:20:47 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 20:20:47 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 20:20:47 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 20:20:47 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 20:20:47 INFO TextDataModel: Data size of training is 28408
+17/06/03 20:20:47 INFO TextDataModel: Data size of testing is 7086
+17/06/03 20:20:47 INFO RankSGDRecommender: Job Setup completed.
+17/06/03 20:20:48 INFO RankSGDRecommender: RankSGDRecommender iter 1: loss = 138398.03889676515, delta_loss = -138398.03
+17/06/03 20:20:49 INFO RankSGDRecommender: RankSGDRecommender iter 2: loss = 119314.6648384482, delta_loss = 19083.375
+17/06/03 20:20:49 INFO RankSGDRecommender: RankSGDRecommender iter 3: loss = 92609.51643163986, delta_loss = 26705.148
+17/06/03 20:20:50 INFO RankSGDRecommender: RankSGDRecommender iter 4: loss = 76898.65477604911, delta_loss = 15710.861
+17/06/03 20:20:50 INFO RankSGDRecommender: RankSGDRecommender iter 5: loss = 67071.34852264964, delta_loss = 9827.307
+17/06/03 20:20:51 INFO RankSGDRecommender: RankSGDRecommender iter 6: loss = 62255.06766058707, delta_loss = 4816.281
+17/06/03 20:20:52 INFO RankSGDRecommender: RankSGDRecommender iter 7: loss = 60638.97902451141, delta_loss = 1616.0886
+17/06/03 20:20:52 INFO RankSGDRecommender: RankSGDRecommender iter 8: loss = 59455.23827742282, delta_loss = 1183.7407
+17/06/03 20:20:53 INFO RankSGDRecommender: RankSGDRecommender iter 9: loss = 58430.76636932135, delta_loss = 1024.4719
+17/06/03 20:20:54 INFO RankSGDRecommender: RankSGDRecommender iter 10: loss = 56967.399821032624, delta_loss = 1463.3666
+17/06/03 20:20:54 INFO RankSGDRecommender: RankSGDRecommender iter 11: loss = 55747.83803430549, delta_loss = 1219.5618
+17/06/03 20:20:55 INFO RankSGDRecommender: RankSGDRecommender iter 12: loss = 55951.038814354295, delta_loss = -203.20078
+17/06/03 20:20:56 INFO RankSGDRecommender: RankSGDRecommender iter 13: loss = 54172.10036757361, delta_loss = 1778.9385
+17/06/03 20:20:56 INFO RankSGDRecommender: RankSGDRecommender iter 14: loss = 54127.147333659086, delta_loss = 44.953033
+17/06/03 20:20:57 INFO RankSGDRecommender: RankSGDRecommender iter 15: loss = 53830.933759038744, delta_loss = 296.21356
+17/06/03 20:20:57 INFO RankSGDRecommender: RankSGDRecommender iter 16: loss = 53416.782182553994, delta_loss = 414.15158
+17/06/03 20:20:58 INFO RankSGDRecommender: RankSGDRecommender iter 17: loss = 53292.11687129896, delta_loss = 124.66531
+17/06/03 20:20:59 INFO RankSGDRecommender: RankSGDRecommender iter 18: loss = 52791.674787835014, delta_loss = 500.44208
+17/06/03 20:20:59 INFO RankSGDRecommender: RankSGDRecommender iter 19: loss = 52142.02807045289, delta_loss = 649.6467
+17/06/03 20:21:00 INFO RankSGDRecommender: RankSGDRecommender iter 20: loss = 51928.339896615245, delta_loss = 213.68817
+17/06/03 20:21:00 INFO RankSGDRecommender: RankSGDRecommender iter 21: loss = 51557.19769800876, delta_loss = 371.1422
+17/06/03 20:21:01 INFO RankSGDRecommender: RankSGDRecommender iter 22: loss = 51032.25798408487, delta_loss = 524.9397
+17/06/03 20:21:01 INFO RankSGDRecommender: RankSGDRecommender iter 23: loss = 50929.10625381689, delta_loss = 103.15173
+17/06/03 20:21:02 INFO RankSGDRecommender: RankSGDRecommender iter 24: loss = 50912.364839496106, delta_loss = 16.741415
+17/06/03 20:21:03 INFO RankSGDRecommender: RankSGDRecommender iter 25: loss = 50935.121163676486, delta_loss = -22.756325
+17/06/03 20:21:03 INFO RankSGDRecommender: RankSGDRecommender iter 26: loss = 50857.56770255242, delta_loss = 77.55346
+17/06/03 20:21:04 INFO RankSGDRecommender: RankSGDRecommender iter 27: loss = 49975.83112966582, delta_loss = 881.7366
+17/06/03 20:21:04 INFO RankSGDRecommender: RankSGDRecommender iter 28: loss = 49809.5307999014, delta_loss = 166.30032
+17/06/03 20:21:05 INFO RankSGDRecommender: RankSGDRecommender iter 29: loss = 49885.66692708827, delta_loss = -76.13612
+17/06/03 20:21:05 INFO RankSGDRecommender: RankSGDRecommender iter 30: loss = 49158.61250565266, delta_loss = 727.05444
+17/06/03 20:21:05 INFO RankSGDRecommender: Job Train completed.
+17/06/03 20:21:06 INFO RankSGDRecommender: Job End.
+17/06/03 20:21:06 INFO RecommenderJob: Evaluator value:RR top 10 is 0.445244672454617
+17/06/03 20:21:06 INFO RecommenderJob: Evaluator value:AP top 10 is 0.2586556077457435
+17/06/03 20:21:06 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.3631150239585501
+17/06/03 20:21:06 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.21373322809786835
+17/06/03 20:21:06 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.3436796362949906
+17/06/03 20:21:06 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.811385063324553
+17/06/03 20:21:06 INFO RecommenderJob: Result path is result/filmtrust/rating-ranksgd-output/ranksgd

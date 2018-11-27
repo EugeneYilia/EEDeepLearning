@@ -1,0 +1,8 @@
+Spark与Pandas中DataFrame的详细对比:
+http://www.lining0806.com/spark%E4%B8%8Epandas%E4%B8%ADdataframe%E5%AF%B9%E6%AF%94/
+
+SparkSQL初始和创建DataFrame的几种方式:
+https://www.cnblogs.com/LHWorldBlog/p/8431634.html
+
+Spark-SQL之DataFrame操作大全:
+https://blog.csdn.net/dabokele/article/details/52802150

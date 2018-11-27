@@ -1,0 +1,119 @@
+17/07/12 17:09:49 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/07/12 17:09:49 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/07/12 17:09:49 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/07/12 17:09:49 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/07/12 17:09:49 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/07/12 17:09:50 INFO TextDataModel: Transform data to Convertor successfully!
+17/07/12 17:09:50 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/07/12 17:09:50 INFO TextDataModel: Data size of training is 28408
+17/07/12 17:09:50 INFO TextDataModel: Data size of testing is 7086
+17/07/12 17:09:50 INFO AoBPRRecommender: Job Setup completed.
+17/07/12 17:09:50 INFO AoBPRRecommender: AoBPRRecommender iter 1: loss = 104220.82792570347, delta_loss = -104220.83
+17/07/12 17:09:51 INFO AoBPRRecommender: AoBPRRecommender iter 2: loss = 75220.85987813014, delta_loss = 28999.969
+17/07/12 17:09:52 INFO AoBPRRecommender: AoBPRRecommender iter 3: loss = 45389.19983232397, delta_loss = 29831.66
+17/07/12 17:09:52 INFO AoBPRRecommender: AoBPRRecommender iter 4: loss = 41020.25671984522, delta_loss = 4368.943
+17/07/12 17:09:53 INFO AoBPRRecommender: AoBPRRecommender iter 5: loss = 38455.296600459566, delta_loss = 2564.9602
+17/07/12 17:09:54 INFO AoBPRRecommender: AoBPRRecommender iter 6: loss = 36247.117243520464, delta_loss = 2208.1794
+17/07/12 17:09:54 INFO AoBPRRecommender: AoBPRRecommender iter 7: loss = 34597.39224561846, delta_loss = 1649.725
+17/07/12 17:09:55 INFO AoBPRRecommender: AoBPRRecommender iter 8: loss = 33381.246544651265, delta_loss = 1216.1458
+17/07/12 17:09:56 INFO AoBPRRecommender: AoBPRRecommender iter 9: loss = 32156.342344799283, delta_loss = 1224.9042
+17/07/12 17:09:56 INFO AoBPRRecommender: AoBPRRecommender iter 10: loss = 31280.565972422235, delta_loss = 875.77637
+17/07/12 17:09:57 INFO AoBPRRecommender: AoBPRRecommender iter 11: loss = 30084.416538807745, delta_loss = 1196.1494
+17/07/12 17:09:57 INFO AoBPRRecommender: AoBPRRecommender iter 12: loss = 29275.414838196408, delta_loss = 809.0017
+17/07/12 17:09:58 INFO AoBPRRecommender: AoBPRRecommender iter 13: loss = 28582.7330898115, delta_loss = 692.68176
+17/07/12 17:09:59 INFO AoBPRRecommender: AoBPRRecommender iter 14: loss = 27937.362632495366, delta_loss = 645.3705
+17/07/12 17:09:59 INFO AoBPRRecommender: AoBPRRecommender iter 15: loss = 27291.8795927745, delta_loss = 645.48303
+17/07/12 17:10:00 INFO AoBPRRecommender: AoBPRRecommender iter 16: loss = 26996.589905675984, delta_loss = 295.28967
+17/07/12 17:10:01 INFO AoBPRRecommender: AoBPRRecommender iter 17: loss = 26473.133114596767, delta_loss = 523.4568
+17/07/12 17:10:01 INFO AoBPRRecommender: AoBPRRecommender iter 18: loss = 26103.99373841548, delta_loss = 369.13937
+17/07/12 17:10:02 INFO AoBPRRecommender: AoBPRRecommender iter 19: loss = 25719.62862884456, delta_loss = 384.3651
+17/07/12 17:10:02 INFO AoBPRRecommender: AoBPRRecommender iter 20: loss = 25386.78588029525, delta_loss = 332.84274
+17/07/12 17:10:03 INFO AoBPRRecommender: AoBPRRecommender iter 21: loss = 25143.891864750418, delta_loss = 242.89401
+17/07/12 17:10:04 INFO AoBPRRecommender: AoBPRRecommender iter 22: loss = 24772.42251851227, delta_loss = 371.46936
+17/07/12 17:10:04 INFO AoBPRRecommender: AoBPRRecommender iter 23: loss = 24589.945311674765, delta_loss = 182.4772
+17/07/12 17:10:05 INFO AoBPRRecommender: AoBPRRecommender iter 24: loss = 24382.94755880707, delta_loss = 206.99776
+17/07/12 17:10:06 INFO AoBPRRecommender: AoBPRRecommender iter 25: loss = 24326.8226904195, delta_loss = 56.124866
+17/07/12 17:10:06 INFO AoBPRRecommender: AoBPRRecommender iter 26: loss = 23942.547150619255, delta_loss = 384.27554
+17/07/12 17:10:07 INFO AoBPRRecommender: AoBPRRecommender iter 27: loss = 23791.298749737838, delta_loss = 151.2484
+17/07/12 17:10:07 INFO AoBPRRecommender: AoBPRRecommender iter 28: loss = 23644.712202451177, delta_loss = 146.58655
+17/07/12 17:10:08 INFO AoBPRRecommender: AoBPRRecommender iter 29: loss = 23490.546713834312, delta_loss = 154.16548
+17/07/12 17:10:09 INFO AoBPRRecommender: AoBPRRecommender iter 30: loss = 23368.01804271934, delta_loss = 122.52867
+17/07/12 17:10:09 INFO AoBPRRecommender: AoBPRRecommender iter 31: loss = 23173.750538926106, delta_loss = 194.2675
+17/07/12 17:10:10 INFO AoBPRRecommender: AoBPRRecommender iter 32: loss = 22970.674526136074, delta_loss = 203.07602
+17/07/12 17:10:11 INFO AoBPRRecommender: AoBPRRecommender iter 33: loss = 22922.703204896687, delta_loss = 47.97132
+17/07/12 17:10:11 INFO AoBPRRecommender: AoBPRRecommender iter 34: loss = 22830.829508162107, delta_loss = 91.873695
+17/07/12 17:10:12 INFO AoBPRRecommender: AoBPRRecommender iter 35: loss = 22862.04228860897, delta_loss = -31.21278
+17/07/12 17:10:12 INFO AoBPRRecommender: AoBPRRecommender iter 36: loss = 22666.857689682067, delta_loss = 195.1846
+17/07/12 17:10:13 INFO AoBPRRecommender: AoBPRRecommender iter 37: loss = 22559.521105205942, delta_loss = 107.336586
+17/07/12 17:10:14 INFO AoBPRRecommender: AoBPRRecommender iter 38: loss = 22423.83387721613, delta_loss = 135.68723
+17/07/12 17:10:14 INFO AoBPRRecommender: AoBPRRecommender iter 39: loss = 22431.752509886497, delta_loss = -7.9186325
+17/07/12 17:10:15 INFO AoBPRRecommender: AoBPRRecommender iter 40: loss = 22468.72360725323, delta_loss = -36.971096
+17/07/12 17:10:16 INFO AoBPRRecommender: AoBPRRecommender iter 41: loss = 22248.04355435151, delta_loss = 220.68005
+17/07/12 17:10:16 INFO AoBPRRecommender: AoBPRRecommender iter 42: loss = 22383.426490225953, delta_loss = -135.38293
+17/07/12 17:10:17 INFO AoBPRRecommender: AoBPRRecommender iter 43: loss = 22133.46929399862, delta_loss = 249.9572
+17/07/12 17:10:17 INFO AoBPRRecommender: AoBPRRecommender iter 44: loss = 22157.01431810214, delta_loss = -23.545025
+17/07/12 17:10:18 INFO AoBPRRecommender: AoBPRRecommender iter 45: loss = 22113.372882913987, delta_loss = 43.641434
+17/07/12 17:10:19 INFO AoBPRRecommender: AoBPRRecommender iter 46: loss = 21950.72017155799, delta_loss = 162.65271
+17/07/12 17:10:19 INFO AoBPRRecommender: AoBPRRecommender iter 47: loss = 21989.14812709612, delta_loss = -38.427956
+17/07/12 17:10:20 INFO AoBPRRecommender: AoBPRRecommender iter 48: loss = 21955.080827695725, delta_loss = 34.0673
+17/07/12 17:10:21 INFO AoBPRRecommender: AoBPRRecommender iter 49: loss = 21982.396970112375, delta_loss = -27.316143
+17/07/12 17:10:21 INFO AoBPRRecommender: AoBPRRecommender iter 50: loss = 21936.98626455915, delta_loss = 45.410706
+17/07/12 17:10:22 INFO AoBPRRecommender: AoBPRRecommender iter 51: loss = 21746.421744640043, delta_loss = 190.56451
+17/07/12 17:10:23 INFO AoBPRRecommender: AoBPRRecommender iter 52: loss = 21883.26367504708, delta_loss = -136.84193
+17/07/12 17:10:23 INFO AoBPRRecommender: AoBPRRecommender iter 53: loss = 21771.13632701531, delta_loss = 112.12735
+17/07/12 17:10:24 INFO AoBPRRecommender: AoBPRRecommender iter 54: loss = 21764.181568947013, delta_loss = 6.954758
+17/07/12 17:10:24 INFO AoBPRRecommender: AoBPRRecommender iter 55: loss = 21673.797869258415, delta_loss = 90.3837
+17/07/12 17:10:25 INFO AoBPRRecommender: AoBPRRecommender iter 56: loss = 21702.612930250274, delta_loss = -28.815062
+17/07/12 17:10:26 INFO AoBPRRecommender: AoBPRRecommender iter 57: loss = 21674.493743135037, delta_loss = 28.119186
+17/07/12 17:10:26 INFO AoBPRRecommender: AoBPRRecommender iter 58: loss = 21621.46046624662, delta_loss = 53.033276
+17/07/12 17:10:27 INFO AoBPRRecommender: AoBPRRecommender iter 59: loss = 21668.172534255864, delta_loss = -46.712067
+17/07/12 17:10:28 INFO AoBPRRecommender: AoBPRRecommender iter 60: loss = 21520.249674004484, delta_loss = 147.92287
+17/07/12 17:10:28 INFO AoBPRRecommender: AoBPRRecommender iter 61: loss = 21707.058432017315, delta_loss = -186.80876
+17/07/12 17:10:29 INFO AoBPRRecommender: AoBPRRecommender iter 62: loss = 21578.82425442298, delta_loss = 128.23418
+17/07/12 17:10:29 INFO AoBPRRecommender: AoBPRRecommender iter 63: loss = 21470.679969785528, delta_loss = 108.14429
+17/07/12 17:10:30 INFO AoBPRRecommender: AoBPRRecommender iter 64: loss = 21505.548104938312, delta_loss = -34.868134
+17/07/12 17:10:31 INFO AoBPRRecommender: AoBPRRecommender iter 65: loss = 21484.53367563816, delta_loss = 21.01443
+17/07/12 17:10:31 INFO AoBPRRecommender: AoBPRRecommender iter 66: loss = 21442.010510607295, delta_loss = 42.523167
+17/07/12 17:10:32 INFO AoBPRRecommender: AoBPRRecommender iter 67: loss = 21370.405938262833, delta_loss = 71.604576
+17/07/12 17:10:33 INFO AoBPRRecommender: AoBPRRecommender iter 68: loss = 21435.588191330837, delta_loss = -65.18225
+17/07/12 17:10:33 INFO AoBPRRecommender: AoBPRRecommender iter 69: loss = 21449.505882694866, delta_loss = -13.917691
+17/07/12 17:10:34 INFO AoBPRRecommender: AoBPRRecommender iter 70: loss = 21391.907735706933, delta_loss = 57.59815
+17/07/12 17:10:34 INFO AoBPRRecommender: AoBPRRecommender iter 71: loss = 21311.159813960352, delta_loss = 80.747925
+17/07/12 17:10:35 INFO AoBPRRecommender: AoBPRRecommender iter 72: loss = 21474.45893996894, delta_loss = -163.29913
+17/07/12 17:10:36 INFO AoBPRRecommender: AoBPRRecommender iter 73: loss = 21376.08516963464, delta_loss = 98.37377
+17/07/12 17:10:36 INFO AoBPRRecommender: AoBPRRecommender iter 74: loss = 21292.361628936065, delta_loss = 83.72354
+17/07/12 17:10:37 INFO AoBPRRecommender: AoBPRRecommender iter 75: loss = 21336.514970244236, delta_loss = -44.153343
+17/07/12 17:10:38 INFO AoBPRRecommender: AoBPRRecommender iter 76: loss = 21298.362372696065, delta_loss = 38.1526
+17/07/12 17:10:38 INFO AoBPRRecommender: AoBPRRecommender iter 77: loss = 21372.30201170357, delta_loss = -73.93964
+17/07/12 17:10:39 INFO AoBPRRecommender: AoBPRRecommender iter 78: loss = 21370.257925899627, delta_loss = 2.0440857
+17/07/12 17:10:39 INFO AoBPRRecommender: AoBPRRecommender iter 79: loss = 21273.96212680929, delta_loss = 96.2958
+17/07/12 17:10:40 INFO AoBPRRecommender: AoBPRRecommender iter 80: loss = 21303.805866409522, delta_loss = -29.84374
+17/07/12 17:10:41 INFO AoBPRRecommender: AoBPRRecommender iter 81: loss = 21303.437907082454, delta_loss = 0.36795932
+17/07/12 17:10:41 INFO AoBPRRecommender: AoBPRRecommender iter 82: loss = 21286.35565753502, delta_loss = 17.082249
+17/07/12 17:10:42 INFO AoBPRRecommender: AoBPRRecommender iter 83: loss = 21354.274372158972, delta_loss = -67.91872
+17/07/12 17:10:43 INFO AoBPRRecommender: AoBPRRecommender iter 84: loss = 21203.250338892893, delta_loss = 151.02403
+17/07/12 17:10:43 INFO AoBPRRecommender: AoBPRRecommender iter 85: loss = 21276.309163706585, delta_loss = -73.05882
+17/07/12 17:10:44 INFO AoBPRRecommender: AoBPRRecommender iter 86: loss = 21342.301495961554, delta_loss = -65.99233
+17/07/12 17:10:44 INFO AoBPRRecommender: AoBPRRecommender iter 87: loss = 21227.13452420248, delta_loss = 115.16697
+17/07/12 17:10:45 INFO AoBPRRecommender: AoBPRRecommender iter 88: loss = 21227.864475106166, delta_loss = -0.7299509
+17/07/12 17:10:46 INFO AoBPRRecommender: AoBPRRecommender iter 89: loss = 21132.665036145692, delta_loss = 95.19944
+17/07/12 17:10:46 INFO AoBPRRecommender: AoBPRRecommender iter 90: loss = 21204.12635532387, delta_loss = -71.46132
+17/07/12 17:10:47 INFO AoBPRRecommender: AoBPRRecommender iter 91: loss = 21157.396444254562, delta_loss = 46.72991
+17/07/12 17:10:48 INFO AoBPRRecommender: AoBPRRecommender iter 92: loss = 21233.59853118608, delta_loss = -76.20209
+17/07/12 17:10:48 INFO AoBPRRecommender: AoBPRRecommender iter 93: loss = 21141.922327543034, delta_loss = 91.6762
+17/07/12 17:10:49 INFO AoBPRRecommender: AoBPRRecommender iter 94: loss = 21035.997151479864, delta_loss = 105.92518
+17/07/12 17:10:49 INFO AoBPRRecommender: AoBPRRecommender iter 95: loss = 21241.268547657764, delta_loss = -205.2714
+17/07/12 17:10:50 INFO AoBPRRecommender: AoBPRRecommender iter 96: loss = 21176.797751194004, delta_loss = 64.470795
+17/07/12 17:10:51 INFO AoBPRRecommender: AoBPRRecommender iter 97: loss = 21179.62079909471, delta_loss = -2.8230479
+17/07/12 17:10:51 INFO AoBPRRecommender: AoBPRRecommender iter 98: loss = 21082.97051128836, delta_loss = 96.65029
+17/07/12 17:10:52 INFO AoBPRRecommender: AoBPRRecommender iter 99: loss = 21151.389624797273, delta_loss = -68.41911
+17/07/12 17:10:53 INFO AoBPRRecommender: AoBPRRecommender iter 100: loss = 21132.73329464216, delta_loss = 18.65633
+17/07/12 17:10:53 INFO AoBPRRecommender: Job Train completed.
+17/07/12 17:10:53 INFO AoBPRRecommender: Job End.
+17/07/12 17:10:53 INFO Task: Evaluator value:AUC top 10 is 0.9091743055626725
+17/07/12 17:10:53 INFO Task: Evaluator value:RECALL top 10 is 0.6008351945830407
+17/07/12 17:10:53 INFO Task: Evaluator value:NDCG top 10 is 0.5224917760548579
+17/07/12 17:10:53 INFO Task: Evaluator value:RR top 10 is 0.571379085704264
+17/07/12 17:10:53 INFO Task: Evaluator value:PRECISION top 10 is 0.33709550118390014
+17/07/12 17:10:53 INFO Task: Evaluator value:AP top 10 is 0.42890915509265465
+17/07/12 17:10:53 INFO Task: Result path is result/filmtrust/rating-aobpr-output/aobpr

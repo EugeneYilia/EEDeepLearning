@@ -1,0 +1,101 @@
+17/08/12 20:03:09 INFO TopicMFMTRecommender: number of users : 1429
+17/08/12 20:03:09 INFO TopicMFMTRecommender: number of Items : 900
+17/08/12 20:03:09 INFO TopicMFMTRecommender: number of words : 11560
+17/08/12 20:03:40 INFO TopicMFMTRecommender:  iter:1, finish factors update
+17/08/12 20:03:40 INFO TopicMFMTRecommender:  iter:1, loss:6589.263471740129, wordLoss:3373.669835779975
+17/08/12 20:03:40 INFO TopicMFMTRecommender:  iter:1, finish theta update
+17/08/12 20:03:40 INFO TopicMFMTRecommender:  iter:1, finish phi update
+17/08/12 20:04:10 INFO TopicMFMTRecommender:  iter:2, finish factors update
+17/08/12 20:04:10 INFO TopicMFMTRecommender:  iter:2, loss:6804.428996858444, wordLoss:3756.82767651855
+17/08/12 20:04:10 INFO TopicMFMTRecommender:  iter:2, finish theta update
+17/08/12 20:04:10 INFO TopicMFMTRecommender:  iter:2, finish phi update
+17/08/12 20:04:40 INFO TopicMFMTRecommender:  iter:3, finish factors update
+17/08/12 20:04:40 INFO TopicMFMTRecommender:  iter:3, loss:6671.142438005976, wordLoss:3756.827676494522
+17/08/12 20:04:40 INFO TopicMFMTRecommender:  iter:3, finish theta update
+17/08/12 20:04:40 INFO TopicMFMTRecommender:  iter:3, finish phi update
+17/08/12 20:05:09 INFO TopicMFMTRecommender:  iter:4, finish factors update
+17/08/12 20:05:09 INFO TopicMFMTRecommender:  iter:4, loss:6561.464363377332, wordLoss:3756.8276764654597
+17/08/12 20:05:09 INFO TopicMFMTRecommender:  iter:4, finish theta update
+17/08/12 20:05:09 INFO TopicMFMTRecommender:  iter:4, finish phi update
+17/08/12 20:05:39 INFO TopicMFMTRecommender:  iter:5, finish factors update
+17/08/12 20:05:39 INFO TopicMFMTRecommender:  iter:5, loss:6469.343740799517, wordLoss:3756.8276764363377
+17/08/12 20:05:39 INFO TopicMFMTRecommender:  iter:5, finish theta update
+17/08/12 20:05:39 INFO TopicMFMTRecommender:  iter:5, finish phi update
+17/08/12 20:06:09 INFO TopicMFMTRecommender:  iter:6, finish factors update
+17/08/12 20:06:09 INFO TopicMFMTRecommender:  iter:6, loss:6390.8806835274145, wordLoss:3756.827676410548
+17/08/12 20:06:09 INFO TopicMFMTRecommender:  iter:6, finish theta update
+17/08/12 20:06:09 INFO TopicMFMTRecommender:  iter:6, finish phi update
+17/08/12 20:06:39 INFO TopicMFMTRecommender:  iter:7, finish factors update
+17/08/12 20:06:39 INFO TopicMFMTRecommender:  iter:7, loss:6323.344452675872, wordLoss:3756.8276763753724
+17/08/12 20:06:39 INFO TopicMFMTRecommender:  iter:7, finish theta update
+17/08/12 20:06:39 INFO TopicMFMTRecommender:  iter:7, finish phi update
+17/08/12 20:07:09 INFO TopicMFMTRecommender:  iter:8, finish factors update
+17/08/12 20:07:09 INFO TopicMFMTRecommender:  iter:8, loss:6264.723422289435, wordLoss:3756.827676319467
+17/08/12 20:07:09 INFO TopicMFMTRecommender:  iter:8, finish theta update
+17/08/12 20:07:09 INFO TopicMFMTRecommender:  iter:8, finish phi update
+17/08/12 20:07:40 INFO TopicMFMTRecommender:  iter:9, finish factors update
+17/08/12 20:07:40 INFO TopicMFMTRecommender:  iter:9, loss:6213.483808835412, wordLoss:3756.8276762644805
+17/08/12 20:07:40 INFO TopicMFMTRecommender:  iter:9, finish theta update
+17/08/12 20:07:40 INFO TopicMFMTRecommender:  iter:9, finish phi update
+17/08/12 20:08:09 INFO TopicMFMTRecommender:  iter:10, finish factors update
+17/08/12 20:08:10 INFO TopicMFMTRecommender:  iter:10, loss:6168.426748241264, wordLoss:3756.8276762074906
+17/08/12 20:08:10 INFO TopicMFMTRecommender:  iter:10, finish theta update
+17/08/12 20:08:10 INFO TopicMFMTRecommender:  iter:10, finish phi update
+17/08/12 20:08:10 INFO RateTask: Evaluator value:MAEEvaluator is 0.6391833323266431
+17/08/12 20:08:10 INFO RateTask: Evaluator value:MSEEvaluator is 0.7728584219618826
+17/08/12 20:08:10 INFO RateTask: Evaluator value:MPEEvaluator is 0.9961032635168047
+
+17/08/12 19:32:44 INFO ArffDataModel: Transform data to Convertor successfully!
+17/08/12 19:32:46 INFO ArffDataModel: Split data to train Set and test Set successfully!
+17/08/12 19:32:46 INFO ArffDataModel: Data size of training is 8135
+17/08/12 19:32:46 INFO ArffDataModel: Data size of testing is 2126
+17/08/12 19:32:55 INFO TopicMFMTRecommender: number of users : 1429
+17/08/12 19:32:55 INFO TopicMFMTRecommender: number of Items : 900
+17/08/12 19:32:55 INFO TopicMFMTRecommender: number of words : 11466
+17/08/12 19:32:55 INFO TopicMFMTRecommender: Job Setup completed.
+17/08/12 19:59:39 INFO TopicMFMTRecommender:  iter:1, finish factors update
+17/08/12 19:59:39 INFO TopicMFMTRecommender:  iter:1, loss:6624.928291717134, wordLoss:3335.44056408596
+17/08/12 19:59:39 INFO TopicMFMTRecommender:  iter:1, finish theta update
+17/08/12 19:59:39 INFO TopicMFMTRecommender:  iter:1, finish phi update
+17/08/12 20:26:16 INFO TopicMFMTRecommender:  iter:2, finish factors update
+17/08/12 20:26:16 INFO TopicMFMTRecommender:  iter:2, loss:6841.163214063841, wordLoss:3723.7127681668344
+17/08/12 20:26:16 INFO TopicMFMTRecommender:  iter:2, finish theta update
+17/08/12 20:26:16 INFO TopicMFMTRecommender:  iter:2, finish phi update
+17/08/12 20:50:08 INFO TopicMFMTRecommender:  iter:3, finish factors update
+17/08/12 20:50:08 INFO TopicMFMTRecommender:  iter:3, loss:6701.998242589083, wordLoss:3723.7127682168903
+17/08/12 20:50:08 INFO TopicMFMTRecommender:  iter:3, finish theta update
+17/08/12 20:50:08 INFO TopicMFMTRecommender:  iter:3, finish phi update
+17/08/12 21:14:09 INFO TopicMFMTRecommender:  iter:4, finish factors update
+17/08/12 21:14:09 INFO TopicMFMTRecommender:  iter:4, loss:6586.110621658153, wordLoss:3723.7127682715072
+17/08/12 21:14:09 INFO TopicMFMTRecommender:  iter:4, finish theta update
+17/08/12 21:14:09 INFO TopicMFMTRecommender:  iter:4, finish phi update
+17/08/12 21:38:09 INFO TopicMFMTRecommender:  iter:5, finish factors update
+17/08/12 21:38:09 INFO TopicMFMTRecommender:  iter:5, loss:6487.9499590080295, wordLoss:3723.7127683223225
+17/08/12 21:38:09 INFO TopicMFMTRecommender:  iter:5, finish theta update
+17/08/12 21:38:09 INFO TopicMFMTRecommender:  iter:5, finish phi update
+17/08/12 22:02:07 INFO TopicMFMTRecommender:  iter:6, finish factors update
+17/08/12 22:02:07 INFO TopicMFMTRecommender:  iter:6, loss:6403.823512597178, wordLoss:3723.7127683715516
+17/08/12 22:02:07 INFO TopicMFMTRecommender:  iter:6, finish theta update
+17/08/12 22:02:07 INFO TopicMFMTRecommender:  iter:6, finish phi update
+17/08/12 22:25:58 INFO TopicMFMTRecommender:  iter:7, finish factors update
+17/08/12 22:25:58 INFO TopicMFMTRecommender:  iter:7, loss:6331.079824677552, wordLoss:3723.7127684117286
+17/08/12 22:25:58 INFO TopicMFMTRecommender:  iter:7, finish theta update
+17/08/12 22:25:58 INFO TopicMFMTRecommender:  iter:7, finish phi update
+17/08/12 22:49:39 INFO TopicMFMTRecommender:  iter:8, finish factors update
+17/08/12 22:49:39 INFO TopicMFMTRecommender:  iter:8, loss:6267.724588783447, wordLoss:3723.712768446956
+17/08/12 22:49:39 INFO TopicMFMTRecommender:  iter:8, finish theta update
+17/08/12 22:49:39 INFO TopicMFMTRecommender:  iter:8, finish phi update
+17/08/12 23:13:23 INFO TopicMFMTRecommender:  iter:9, finish factors update
+17/08/12 23:13:23 INFO TopicMFMTRecommender:  iter:9, loss:6212.210745630864, wordLoss:3723.7127684845996
+17/08/12 23:13:23 INFO TopicMFMTRecommender:  iter:9, finish theta update
+17/08/12 23:13:23 INFO TopicMFMTRecommender:  iter:9, finish phi update
+17/08/12 23:37:03 INFO TopicMFMTRecommender:  iter:10, finish factors update
+17/08/12 23:37:03 INFO TopicMFMTRecommender:  iter:10, loss:6163.311466852487, wordLoss:3723.712768531614
+17/08/12 23:37:03 INFO TopicMFMTRecommender:  iter:10, finish theta update
+17/08/12 23:37:03 INFO TopicMFMTRecommender:  iter:10, finish phi update
+17/08/12 23:37:03 INFO TopicMFMTRecommender: Job Train completed.
+17/08/12 23:37:03 INFO TopicMFMTRecommender: Job End.
+17/08/12 23:37:03 INFO RecommenderJob: Evaluator value:MAE is 0.6124810038904026
+17/08/12 23:37:03 INFO RecommenderJob: Evaluator value:MSE is 0.6939606210301209
+17/08/12 23:37:03 INFO RecommenderJob: Evaluator value:RMSE is 0.8330429887047371
+17/08/12 23:37:03 INFO RecommenderJob: Evaluator value:MPE is 0.9877704609595485

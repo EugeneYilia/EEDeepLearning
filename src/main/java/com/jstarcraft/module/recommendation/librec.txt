@@ -1,0 +1,9 @@
+推荐模块参考以下项目的思想与源代码:
+LibRec
+http://chuansong.me/account/gh_475eabaf84de
+
+PREA (Personalized Recommendation Algorithms Toolkit)
+http://prea.gatech.edu/
+
+Universal Java Matrix Package
+https://ujmp.org/

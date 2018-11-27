@@ -1,0 +1,35 @@
+17/06/03 19:49:59 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 19:49:59 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 19:49:59 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 19:49:59 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 19:50:00 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 19:50:00 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 19:50:00 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 19:50:00 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 19:50:00 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 19:50:00 INFO TextDataModel: Data size of training is 28408
+17/06/03 19:50:00 INFO TextDataModel: Data size of testing is 7086
+17/06/03 19:50:00 INFO FISMrmseRecommender: Job Setup completed.
+17/06/03 19:50:01 INFO FISMrmseRecommender: FISMrmseRecommender iter 1: loss = 42036.52102973246, delta_loss = -42036.52
+17/06/03 19:50:02 INFO FISMrmseRecommender: FISMrmseRecommender iter 2: loss = 40285.540512507774, delta_loss = -40285.54
+17/06/03 19:50:02 INFO FISMrmseRecommender: FISMrmseRecommender iter 3: loss = 38777.997227519656, delta_loss = -38777.996
+17/06/03 19:50:03 INFO FISMrmseRecommender: FISMrmseRecommender iter 4: loss = 37419.54647526259, delta_loss = -37419.547
+17/06/03 19:50:03 INFO FISMrmseRecommender: FISMrmseRecommender iter 5: loss = 36167.77298342557, delta_loss = -36167.773
+17/06/03 19:50:04 INFO FISMrmseRecommender: FISMrmseRecommender iter 6: loss = 35020.8752891264, delta_loss = -35020.875
+17/06/03 19:50:04 INFO FISMrmseRecommender: FISMrmseRecommender iter 7: loss = 33979.16763868636, delta_loss = -33979.168
+17/06/03 19:50:05 INFO FISMrmseRecommender: FISMrmseRecommender iter 8: loss = 32991.405014196454, delta_loss = -32991.406
+17/06/03 19:50:06 INFO FISMrmseRecommender: FISMrmseRecommender iter 9: loss = 32085.5776874924, delta_loss = -32085.578
+17/06/03 19:50:06 INFO FISMrmseRecommender: FISMrmseRecommender iter 10: loss = 31267.852051789538, delta_loss = -31267.852
+17/06/03 19:50:07 INFO FISMrmseRecommender: FISMrmseRecommender iter 11: loss = 30511.23030045667, delta_loss = -30511.23
+17/06/03 19:50:07 INFO FISMrmseRecommender: FISMrmseRecommender iter 12: loss = 29825.546348959593, delta_loss = -29825.547
+17/06/03 19:50:08 INFO FISMrmseRecommender: FISMrmseRecommender iter 13: loss = 29148.974251754014, delta_loss = -29148.975
+17/06/03 19:50:08 INFO FISMrmseRecommender: FISMrmseRecommender iter 14: loss = 28551.094390542028, delta_loss = -28551.094
+17/06/03 19:50:08 INFO FISMrmseRecommender: Job Train completed.
+17/06/03 19:50:10 INFO FISMrmseRecommender: Job End.
+17/06/03 19:50:10 INFO RecommenderJob: Evaluator value:AP top 10 is 0.44153694399651744
+17/06/03 19:50:10 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9264407638549186
+17/06/03 19:50:10 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.538850346850737
+17/06/03 19:50:10 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6217483925240344
+17/06/03 19:50:10 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.34356748224151706
+17/06/03 19:50:10 INFO RecommenderJob: Evaluator value:RR top 10 is 0.584270116886534
+17/06/03 19:50:10 INFO RecommenderJob: Result path is result/filmtrust/rating-fismrmse-output/fismrmse

@@ -1,0 +1,30 @@
+17/06/28 13:30:44 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/28 13:30:44 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/28 13:30:44 INFO TextDataConvertor: All dataset files size 411942
+17/06/28 13:30:44 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/28 13:30:44 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/28 13:30:44 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/28 13:30:45 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/28 13:30:45 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/28 13:30:45 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/28 13:30:45 INFO TextDataModel: Data size of training is 28408
+17/06/28 13:30:45 INFO TextDataModel: Data size of testing is 7086
+17/06/28 13:30:45 INFO RankALSRecommender: Job Setup completed.
+17/06/28 13:30:48 INFO RankALSRecommender: RankALSRecommender iter 1: loss = 0.0, delta_loss = 0.0
+17/06/28 13:30:51 INFO RankALSRecommender: RankALSRecommender iter 2: loss = 0.0, delta_loss = 0.0
+17/06/28 13:30:54 INFO RankALSRecommender: RankALSRecommender iter 3: loss = 0.0, delta_loss = 0.0
+17/06/28 13:30:57 INFO RankALSRecommender: RankALSRecommender iter 4: loss = 0.0, delta_loss = 0.0
+17/06/28 13:30:59 INFO RankALSRecommender: RankALSRecommender iter 5: loss = 0.0, delta_loss = 0.0
+17/06/28 13:31:02 INFO RankALSRecommender: RankALSRecommender iter 6: loss = 0.0, delta_loss = 0.0
+17/06/28 13:31:05 INFO RankALSRecommender: RankALSRecommender iter 7: loss = 0.0, delta_loss = 0.0
+17/06/28 13:31:07 INFO RankALSRecommender: RankALSRecommender iter 8: loss = 0.0, delta_loss = 0.0
+17/06/28 13:31:10 INFO RankALSRecommender: RankALSRecommender iter 9: loss = 0.0, delta_loss = 0.0
+17/06/28 13:31:10 INFO RankALSRecommender: Job Train completed.
+17/06/28 13:31:10 INFO RankALSRecommender: Job End.
+17/06/28 13:31:10 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.8362527530385343
+17/06/28 13:31:10 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.30581898939900665
+17/06/28 13:31:10 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.1392265193370156
+17/06/28 13:31:10 INFO RecommenderJob: Evaluator value:RR top 10 is 0.4925063579759712
+17/06/28 13:31:10 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.29851407989863704
+17/06/28 13:31:10 INFO RecommenderJob: Evaluator value:AP top 10 is 0.1992295632260911
+17/06/28 13:31:10 INFO RecommenderJob: Result path is result/filmtrust/rating-rankals-output/rankals

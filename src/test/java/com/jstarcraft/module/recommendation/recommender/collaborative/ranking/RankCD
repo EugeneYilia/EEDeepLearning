@@ -1,0 +1,18 @@
+[INFO ] 2017-08-12 08:24:12,266 -- Dataset: ratings_Office_Productsbyuser.txt
+[DEBUG] 2017-08-12 08:24:12,537 -- With Specs: {Users, Items, Ratings} = {3714, 18823, 65582}, Scale = {1.0}
+[INFO ] 2017-08-12 08:24:12,647 -- With Setup: given-ratio -r 0.8 -target r --rand-seed 1 --test-view all
+[DEBUG] 2017-08-12 08:24:12,706 -- training amount: 52563, test amount: 13019
+[DEBUG] 2017-08-12 08:24:12,802 -- rankCD: [ alpha, factors, regU, regI, numIters] = [5.0,20,0.1,0.1,5]
+[DEBUG] 2017-08-12 08:24:12,808 -- rankCD runs at iteration = 1 Sat Aug 12 08:24:12 GMT+08:00 2017
+[DEBUG] 2017-08-12 08:24:13,446 -- rankCD runs at iteration = 2 Sat Aug 12 08:24:13 GMT+08:00 2017
+[DEBUG] 2017-08-12 08:24:13,604 -- rankCD runs at iteration = 3 Sat Aug 12 08:24:13 GMT+08:00 2017
+[DEBUG] 2017-08-12 08:24:14,224 -- rankCD runs at iteration = 4 Sat Aug 12 08:24:14 GMT+08:00 2017
+[DEBUG] 2017-08-12 08:24:14,363 -- rankCD runs at iteration = 5 Sat Aug 12 08:24:14 GMT+08:00 2017
+[DEBUG] 2017-08-12 08:24:14,474 -- rankCD evaluate test data ... 
+[DEBUG] 2017-08-12 08:24:14,478 -- rankCD has candidate items: 18823
+[DEBUG] 2017-08-12 08:24:18,524 -- rankCD evaluates progress: 3714 / 3714
+{Pre10=0.016316088686753955}
+{Pre10=0.016316088686753955, TrainTime=1763.0, TestTime=4054.0}
+[INFO ] 2017-08-12 08:24:18,533 -- rankCD,0.016316,,5.0,20,0.1,0.1,5,'00:01','00:04'
+
+Program librec2.0alpha3.rankcd [2013-2016092703@192.168.0.167] has completed!

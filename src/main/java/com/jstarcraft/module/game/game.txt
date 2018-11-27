@@ -1,0 +1,8 @@
+牌类游戏中,较为简单的玩法为斗地主.
+所以我们以斗地主AI研究为突破口.
+由于目前缺少斗地主的游戏数据,所以版本实现以基于规则为主.等待拿到游戏数据之后,再以基于模型(机器学习)为主.
+
+棋牌算法:
+https://blog.csdn.net/sm9sun/article/category/6810564/1?
+
+https://github.com/songbaoming/DouDiZhu

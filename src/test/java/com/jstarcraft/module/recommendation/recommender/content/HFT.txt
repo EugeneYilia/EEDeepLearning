@@ -1,0 +1,21 @@
+17/06/03 21:05:16 INFO ArffDataModel: Transform data to Convertor successfully!
+17/06/03 21:05:16 INFO ArffDataModel: Split data to train Set and test Set successfully!
+17/06/03 21:05:16 INFO ArffDataModel: Data size of training is 294
+17/06/03 21:05:16 INFO ArffDataModel: Data size of testing is 61
+17/06/03 21:05:16 INFO HFTRecommender: number of users : 295
+17/06/03 21:05:16 INFO HFTRecommender: number of Items : 31
+17/06/03 21:05:16 INFO HFTRecommender: number of words : 3064
+17/06/03 21:05:16 INFO HFTRecommender: Job Setup completed.
+17/06/03 21:05:23 INFO HFTRecommender:  iter:1, loss:904570.8106274864
+17/06/03 21:05:23 INFO HFTRecommender:  iter:1, sampling
+17/06/03 21:05:23 INFO HFTRecommender:  iter:1, sample finished
+17/06/03 21:05:30 INFO HFTRecommender:  iter:2, loss:902649.267441077
+17/06/03 21:05:30 INFO HFTRecommender:  iter:2, sampling
+17/06/03 21:05:30 INFO HFTRecommender:  iter:2, sample finished
+17/06/03 21:05:30 INFO HFTRecommender: Job Train completed.
+17/06/03 21:05:30 INFO HFTRecommender: Job End.
+17/06/03 21:05:30 INFO RecommenderJob: Evaluator value:MSE is 0.8006863374414034
+17/06/03 21:05:30 INFO RecommenderJob: Evaluator value:MAE is 0.6166426253383172
+17/06/03 21:05:30 INFO RecommenderJob: Evaluator value:MPE is 0.9836065573770492
+17/06/03 21:05:30 INFO RecommenderJob: Evaluator value:RMSE is 0.8948107830381814
+17/06/03 21:05:30 INFO RecommenderJob: Result path is result/test/hfttest/musical_instruments.arff-hft-output/hft

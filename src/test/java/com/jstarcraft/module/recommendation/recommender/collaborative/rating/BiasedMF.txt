@@ -1,0 +1,29 @@
+17/06/03 20:34:52 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 20:34:52 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 20:34:52 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 20:34:52 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 20:34:52 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 20:34:52 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 20:34:52 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 20:34:52 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 20:34:52 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 20:34:52 INFO TextDataModel: Data size of training is 28408
+17/06/03 20:34:52 INFO TextDataModel: Data size of testing is 7086
+17/06/03 20:34:52 INFO BiasedMFRecommender: Job Setup completed.
+17/06/03 20:34:52 INFO BiasedMFRecommender: BiasedMFRecommender iter 1: loss = 11154.163122673073, delta_loss = -11154.163
+17/06/03 20:34:52 INFO BiasedMFRecommender: BiasedMFRecommender iter 2: loss = 9896.648697772836, delta_loss = 1257.5144
+17/06/03 20:34:52 INFO BiasedMFRecommender: BiasedMFRecommender iter 3: loss = 9279.889790057458, delta_loss = 616.7589
+17/06/03 20:34:52 INFO BiasedMFRecommender: BiasedMFRecommender iter 4: loss = 8921.100226279908, delta_loss = 358.78955
+17/06/03 20:34:52 INFO BiasedMFRecommender: BiasedMFRecommender iter 5: loss = 8686.08291317353, delta_loss = 235.01732
+17/06/03 20:34:52 INFO BiasedMFRecommender: BiasedMFRecommender iter 6: loss = 8512.540851579099, delta_loss = 173.54207
+17/06/03 20:34:52 INFO BiasedMFRecommender: BiasedMFRecommender iter 7: loss = 8369.080657374197, delta_loss = 143.46019
+17/06/03 20:34:52 INFO BiasedMFRecommender: BiasedMFRecommender iter 8: loss = 8238.35036124075, delta_loss = 130.7303
+17/06/03 20:34:52 INFO BiasedMFRecommender: BiasedMFRecommender iter 9: loss = 8109.628163183739, delta_loss = 128.7222
+17/06/03 20:34:52 INFO BiasedMFRecommender: BiasedMFRecommender iter 10: loss = 7975.650226776455, delta_loss = 133.97794
+17/06/03 20:34:52 INFO BiasedMFRecommender: Job Train completed.
+17/06/03 20:34:52 INFO BiasedMFRecommender: Job End.
+17/06/03 20:34:52 INFO RecommenderJob: Evaluator value:MPE is 0.9827829523003104
+17/06/03 20:34:52 INFO RecommenderJob: Evaluator value:RMSE is 0.8050027688967699
+17/06/03 20:34:52 INFO RecommenderJob: Evaluator value:MAE is 0.6226964706660117
+17/06/03 20:34:52 INFO RecommenderJob: Evaluator value:MSE is 0.6480294579314664
+17/06/03 20:34:52 INFO RecommenderJob: Result path is result/filmtrust/rating-biasedmf-output/biasedmf

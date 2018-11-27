@@ -1,0 +1,89 @@
+17/06/03 20:48:58 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/03 20:48:58 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/03 20:48:58 INFO TextDataConvertor: All dataset files size 411942
+17/06/03 20:48:58 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/03 20:48:58 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/03 20:48:58 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/03 20:48:58 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/03 20:48:58 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/03 20:48:58 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/03 20:48:58 INFO TextDataModel: Data size of training is 28408
+17/06/03 20:48:58 INFO TextDataModel: Data size of testing is 7086
+17/06/03 20:48:58 INFO PMFRecommender: Job Setup completed.
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 1: loss = 132715.38607900517, delta_loss = -132715.39
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 2: loss = 77271.49274799757, delta_loss = 55443.895
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 3: loss = 44940.56601715378, delta_loss = 32330.926
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 4: loss = 37748.32029482824, delta_loss = 7192.2456
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 5: loss = 33141.05623731034, delta_loss = 4607.264
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 6: loss = 29717.82973670275, delta_loss = 3423.2266
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 7: loss = 27084.177253337362, delta_loss = 2633.6526
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 8: loss = 25031.347555171644, delta_loss = 2052.8296
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 9: loss = 23412.447396050255, delta_loss = 1618.9001
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 10: loss = 22115.608765222096, delta_loss = 1296.8386
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 11: loss = 21060.885006112705, delta_loss = 1054.7238
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 12: loss = 20192.03093120147, delta_loss = 868.85406
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 13: loss = 19468.081727363508, delta_loss = 723.9492
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 14: loss = 18858.411450078296, delta_loss = 609.6703
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 15: loss = 18339.855123717694, delta_loss = 518.55634
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 16: loss = 17894.72953151342, delta_loss = 445.12558
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 17: loss = 17509.38175767232, delta_loss = 385.34778
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 18: loss = 17173.135863648004, delta_loss = 336.24588
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 19: loss = 16877.5439381594, delta_loss = 295.59192
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 20: loss = 16615.857534057137, delta_loss = 261.6864
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 21: loss = 16382.650685075952, delta_loss = 233.20685
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 22: loss = 16173.543388884918, delta_loss = 209.1073
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 23: loss = 15984.990490381882, delta_loss = 188.5529
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 24: loss = 15814.113760279326, delta_loss = 170.87672
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 25: loss = 15658.564449017611, delta_loss = 155.54932
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 26: loss = 15516.409917208837, delta_loss = 142.15453
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 27: loss = 15386.041453735947, delta_loss = 130.36847
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 28: loss = 15266.101635037609, delta_loss = 119.93982
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 29: loss = 15155.429340265046, delta_loss = 110.672295
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 30: loss = 15053.019724733418, delta_loss = 102.409615
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 31: loss = 14957.995827749579, delta_loss = 95.023895
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 32: loss = 14869.588432696919, delta_loss = 88.407394
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 33: loss = 14787.121286418149, delta_loss = 82.46715
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 34: loss = 14709.999562838404, delta_loss = 77.12173
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 35: loss = 14637.700238994195, delta_loss = 72.299324
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 36: loss = 14569.763663304975, delta_loss = 67.93658
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 37: loss = 14505.785986829887, delta_loss = 63.977676
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 38: loss = 14445.412332739405, delta_loss = 60.373653
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 39: loss = 14388.330660789794, delta_loss = 57.081673
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 40: loss = 14334.26630025324, delta_loss = 54.06436
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 41: loss = 14282.977115865548, delta_loss = 51.289185
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 42: loss = 14234.249258253536, delta_loss = 48.72786
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 43: loss = 14187.893441761918, delta_loss = 46.355816
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 44: loss = 14143.741690388892, delta_loss = 44.151752
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 45: loss = 14101.64449536419, delta_loss = 42.097195
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 46: loss = 14061.46833364058, delta_loss = 40.176163
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 47: loss = 14023.093503340297, delta_loss = 38.374832
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 48: loss = 13986.41223878623, delta_loss = 36.681263
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 49: loss = 13951.327073414212, delta_loss = 35.085167
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 50: loss = 13917.749423400002, delta_loss = 33.57765
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 51: loss = 13885.598368244655, delta_loss = 32.151054
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 52: loss = 13854.799607022936, delta_loss = 30.798761
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 53: loss = 13825.284570712845, delta_loss = 29.515036
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 54: loss = 13796.989672245714, delta_loss = 28.294899
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 55: loss = 13769.855676868066, delta_loss = 27.133995
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 56: loss = 13743.827176267268, delta_loss = 26.028502
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 57: loss = 13718.8521508907, delta_loss = 24.975025
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 58: loss = 13694.881606025461, delta_loss = 23.970545
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 59: loss = 13671.86926858133, delta_loss = 23.012337
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 60: loss = 13649.771333098153, delta_loss = 22.097935
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 61: loss = 13628.546247194568, delta_loss = 21.225086
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 62: loss = 13608.154528418527, delta_loss = 20.391718
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 63: loss = 13588.55860613412, delta_loss = 19.595922
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 64: loss = 13569.722683554312, delta_loss = 18.835922
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 65: loss = 13551.612616349259, delta_loss = 18.110067
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 66: loss = 13534.195805227397, delta_loss = 17.416811
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 67: loss = 13517.441100676584, delta_loss = 16.754705
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 68: loss = 13501.318718540359, delta_loss = 16.122381
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 69: loss = 13485.800165403758, delta_loss = 15.518553
+17/06/03 20:48:58 INFO PMFRecommender: PMFRecommender iter 70: loss = 13470.858172928887, delta_loss = 14.941993
+17/06/03 20:48:58 INFO PMFRecommender: Job Train completed.
+17/06/03 20:48:58 INFO PMFRecommender: Job End.
+17/06/03 20:48:58 INFO RecommenderJob: Evaluator value:MPE is 0.9795371154388935
+17/06/03 20:48:58 INFO RecommenderJob: Evaluator value:RMSE is 0.9535611412111301
+17/06/03 20:48:58 INFO RecommenderJob: Evaluator value:MAE is 0.7038612745225235
+17/06/03 20:48:58 INFO RecommenderJob: Evaluator value:MSE is 0.9092788500278729
+17/06/03 20:48:58 INFO RecommenderJob: Result path is result/filmtrust/rating-pmf-output/pmf

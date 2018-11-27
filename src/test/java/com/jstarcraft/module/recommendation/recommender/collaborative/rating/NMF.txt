@@ -1,0 +1,29 @@
+17/07/03 11:26:35 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/07/03 11:26:35 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/07/03 11:26:35 INFO TextDataConvertor: All dataset files size 411942
+17/07/03 11:26:35 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/07/03 11:26:35 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/07/03 11:26:35 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/07/03 11:26:35 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/07/03 11:26:36 INFO TextDataModel: Transform data to Convertor successfully!
+17/07/03 11:26:36 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/07/03 11:26:36 INFO TextDataModel: Data size of training is 28408
+17/07/03 11:26:36 INFO TextDataModel: Data size of testing is 7086
+17/07/03 11:26:36 INFO NMFRecommender: Job Setup completed.
+17/07/03 11:26:36 INFO NMFRecommender: NMFRecommender iter 1: loss = 7180.24147724144, delta_loss = -7180.2417
+17/07/03 11:26:36 INFO NMFRecommender: NMFRecommender iter 2: loss = 6734.6442737468515, delta_loss = 445.5972
+17/07/03 11:26:36 INFO NMFRecommender: NMFRecommender iter 3: loss = 6424.737132315269, delta_loss = 309.90714
+17/07/03 11:26:36 INFO NMFRecommender: NMFRecommender iter 4: loss = 6152.44042919616, delta_loss = 272.2967
+17/07/03 11:26:36 INFO NMFRecommender: NMFRecommender iter 5: loss = 5905.888140950417, delta_loss = 246.55229
+17/07/03 11:26:36 INFO NMFRecommender: NMFRecommender iter 6: loss = 5678.8662574445325, delta_loss = 227.02188
+17/07/03 11:26:36 INFO NMFRecommender: NMFRecommender iter 7: loss = 5467.220998676113, delta_loss = 211.64526
+17/07/03 11:26:36 INFO NMFRecommender: NMFRecommender iter 8: loss = 5268.052817165419, delta_loss = 199.16818
+17/07/03 11:26:36 INFO NMFRecommender: NMFRecommender iter 9: loss = 5079.24860312992, delta_loss = 188.80421
+17/07/03 11:26:36 INFO NMFRecommender: NMFRecommender iter 10: loss = 4899.215339088239, delta_loss = 180.03326
+17/07/03 11:26:36 INFO NMFRecommender: Job Train completed.
+17/07/03 11:26:36 INFO NMFRecommender: Job End.
+17/07/03 11:26:36 INFO RecommenderJob: Evaluator value:MPE is 0.9657070279424217
+17/07/03 11:26:36 INFO RecommenderJob: Evaluator value:RMSE is 0.8577195998828371
+17/07/03 11:26:36 INFO RecommenderJob: Evaluator value:MSE is 0.7356829120231742
+17/07/03 11:26:36 INFO RecommenderJob: Evaluator value:MAE is 0.646689180198547
+17/07/03 11:26:36 INFO RecommenderJob: Result path is result/filmtrust/rating-nmf-output/nmf

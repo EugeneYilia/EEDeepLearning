@@ -1,0 +1,26 @@
+17/06/26 19:36:23 INFO TextDataConvertor: Dataset: data/filmtrust/rating
+17/06/26 19:36:23 INFO TextDataConvertor: All dataset files [data\filmtrust\rating\ratings_0.txt, data\filmtrust\rating\ratings_1.txt, data\filmtrust\rating\ratings_2.txt, data\filmtrust\rating\ratings_3.txt]
+17/06/26 19:36:23 INFO TextDataConvertor: All dataset files size 411942
+17/06/26 19:36:23 INFO TextDataConvertor: Now loading dataset file ratings_0
+17/06/26 19:36:23 INFO TextDataConvertor: Now loading dataset file ratings_1
+17/06/26 19:36:23 INFO TextDataConvertor: Now loading dataset file ratings_2
+17/06/26 19:36:23 INFO TextDataConvertor: Now loading dataset file ratings_3
+17/06/26 19:36:24 INFO TextDataModel: Transform data to Convertor successfully!
+17/06/26 19:36:24 INFO TextDataModel: Split data to train Set and test Set successfully!
+17/06/26 19:36:24 INFO TextDataModel: Data size of training is 28408
+17/06/26 19:36:24 INFO TextDataModel: Data size of testing is 7086
+17/06/26 19:36:24 INFO FISMaucRecommender: Job Setup completed.
+17/06/26 19:36:24 INFO FISMaucRecommender: FISMaucRecommender iter 1: loss = 2350862.290096171, delta_loss = -2350862.2
+17/06/26 19:36:25 INFO FISMaucRecommender: FISMaucRecommender iter 2: loss = 2173254.8085198514, delta_loss = 177607.48
+17/06/26 19:36:25 INFO FISMaucRecommender: FISMaucRecommender iter 3: loss = 2022635.4419619725, delta_loss = 150619.36
+17/06/26 19:36:26 INFO FISMaucRecommender: FISMaucRecommender iter 4: loss = 1888556.019890438, delta_loss = 134079.42
+17/06/26 19:36:26 INFO FISMaucRecommender: FISMaucRecommender iter 5: loss = 1774870.091955028, delta_loss = 113685.93
+17/06/26 19:36:26 INFO FISMaucRecommender: Job Train completed.
+17/06/26 19:36:28 INFO FISMaucRecommender: Job End.
+17/06/26 19:36:28 INFO RecommenderJob: Evaluator value:PRECISION top 10 is 0.341278610891872
+17/06/26 19:36:28 INFO RecommenderJob: Evaluator value:RR top 10 is 0.5865759010786644
+17/06/26 19:36:28 INFO RecommenderJob: Evaluator value:AUC top 10 is 0.9212938164759601
+17/06/26 19:36:28 INFO RecommenderJob: Evaluator value:AP top 10 is 0.43702933851198356
+17/06/26 19:36:28 INFO RecommenderJob: Evaluator value:NDCG top 10 is 0.5327851206078761
+17/06/26 19:36:28 INFO RecommenderJob: Evaluator value:RECALL top 10 is 0.6082224803497397
+17/06/26 19:36:28 INFO RecommenderJob: Result path is result/filmtrust/rating-fismauc-output/fismauc
